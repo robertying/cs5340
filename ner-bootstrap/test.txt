@@ -1,0 +1,41 @@
+CONTEXT: division of
+NP: Gleason Inc
+
+CONTEXT: country of
+NP: France
+
+CONTEXT: documentary on
+NP: Morgan Stanley
+
+CONTEXT: basketball player
+NP: Devin Booker
+
+CONTEXT: acquisition of
+NP: McDonnell Douglas Helicopter company
+
+CONTEXT: branch of
+NP: Lockheed Martin
+
+CONTEXT: software manufacturer
+NP: IBM
+
+CONTEXT: peace negotiator
+NP: Yuri Fesenko
+
+CONTEXT: merger with
+NP: IBM
+
+CONTEXT: veterinary assistant
+NP: Susan Stanley 
+
+CONTEXT: chairman
+NP: Walter Douglas
+
+CONTEXT: president
+NP: William Johnson
+
+CONTEXT: stake president
+NP: Vera Durbin
+
+CONTEXT: new acquisition 
+NP: Kansas Textiles Corporation

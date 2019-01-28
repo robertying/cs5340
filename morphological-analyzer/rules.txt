@@ -1,0 +1,9 @@
+SUFFIX ly - adjective –> adverb .
+SUFFIX ily y adjective –> adverb .
+SUFFIX ed - verb –> adjective .
+SUFFIX ed - verb –> verb .
+SUFFIX ied y verb –> adjective .
+SUFFIX ied y verb –> verb .
+PREFIX re - verb –> verb .
+SUFFIX s - noun –> noun .
+SUFFIX s - verb –> verb .

@@ -1,0 +1,23 @@
+S -> NP VP 0.1
+S -> VERB NP 0.1
+S -> X2 PP 0.1
+S -> VERB PP 0.1
+S -> VP PP 0.1
+S -> book 0.1
+VP -> VERB NP 0.1
+VP -> X2 PP 0.1
+X2 -> VERB NP 0.1
+VP -> VERB PP 0.1
+VP -> VP PP 0.1
+VP -> book 0.1
+NP -> DET NOM 0.1
+NOM -> NOM NOUN 0.1
+NOM -> NOM PP 0.1
+NOM -> book 0.1
+NOM -> flight 0.1
+PP -> PREP NP 0.1
+DET -> the 0.1
+NOUN -> book 0.1
+NOUN -> flight 0.1
+VERB -> book 0.1
+PREP -> to 0.1

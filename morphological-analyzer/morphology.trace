@@ -1,0 +1,22 @@
+utah noun ROOT=utah SOURCE=default
+
+be verb ROOT=be SOURCE=dictionary
+
+was verb ROOT=be SOURCE=dictionary
+
+antigoose adjective ROOT=goose SOURCE=morphology
+
+hairy adjective ROOT=hair SOURCE=morphology
+
+hairiest adjective ROOT=hair SOURCE=morphology
+
+stores noun ROOT=store SOURCE=morphology
+stores verb ROOT=store SOURCE=morphology
+
+dressed adjective ROOT=dress SOURCE=morphology
+dressed verb ROOT=dress SOURCE=morphology
+
+previewer noun ROOT=view SOURCE=morphology
+
+walkers noun ROOT=walk SOURCE=morphology
+

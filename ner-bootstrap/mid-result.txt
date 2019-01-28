@@ -1,0 +1,191 @@
+{'context': 'merger with', 'NP': 'Alcan Corp', 'class': 'ORGANIZATION'}
+{'context': 'elections in', 'NP': 'South Africa', 'class': 'LOCATION'}
+{'context': 'acquisition of', 'NP': 'Portsmouth Savings Bank', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'IBM', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'the Process Chemicals Division', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'AirCal', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Sovereign Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Medicontrol Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Johnson Matthey Commodities', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Johnson Commodities', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': '4 suburban Chicago', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'substantially all Eastern Gas', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Aslaminas Aslambeck Mining Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Aslaminas Aslambeck Mining Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Microsoft and Vernitron Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Unitek Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Rolex Ltd', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'C. Hughes', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'the Doctrine Committee', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'David Kansas', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'William Rutter', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'Chiron', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'Alex Krauer', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Bosnia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'David R. Whitwam', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'David R. Whitwam', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'David R. Whitman', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'rival Broderbund Software Inc', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'David R. Whitwam', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Morgan Stanley Group Inc', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Mark Hoffman', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'D-Ohio', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Attwoods', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Attwoods', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Attwoods', 'class': 'ORGANIZATION'}
+{'context': 'merger', 'NP': 'the New Frontier Party', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'R.H. Macy', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Allen Questrom', 'class': 'PERSON'}
+{'context': 'merger in', 'NP': 'September', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Yuri Mitkov', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'rival Broderbund Software Inc', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Morgan Stanley Group Inc', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Techtronix Inc', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Morgan Stanley Group Inc', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Flovim Inc', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Hans Pontier', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Morgan Stanley', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'John DesBarres', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Morgan Stanley', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Richard B. Fisher', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'committee chairman', 'NP': 'Yuri Asimov', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'chairman of', 'NP': 'Banco Espanol de Credito', 'class': 'PERSON'}
+{'context': 'new chairman', 'NP': 'Yuri Fesenko', 'class': 'PERSON'}
+{'context': 'vice president', 'NP': 'Yuri Allaire', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'pharmaceutical company Syntex Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'pharmaceutical company Syntex Corp', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Legislator Ju Gau-jeng', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'the Chinese Social Democratic Party', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'vice president', 'NP': 'Yuri Fesenko', 'class': 'PERSON'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'elections in', 'NP': 'Chechnya', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'elections in', 'NP': 'Chechnya', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'elections in', 'NP': 'Chechnya', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Peru', 'class': 'LOCATION'}
+{'context': 'chairman of', 'NP': 'the Senate Foreign Relations Committee', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'the Senate Foreign Relations Committee', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'David Kostoyev', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'IBM chairman', 'NP': 'Yuri Kostoyev', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'Isa Kostoyev', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'Isa Kostoyev', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'Morgan Stanley', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'IBM Corp.', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Felgengauer Industries Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'IBM Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Alcan Corp', 'class': 'ORGANIZATION'}
+{'context': 'vice president', 'NP': 'Mary Smith', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'Chris Jones', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Alcon Ltd', 'class': 'ORGANIZATION'}
+{'context': 'vice president', 'NP': 'Yuri Fesenko', 'class': 'PERSON'}
+{'context': 'new vice president', 'NP': 'Yuri Fesenko', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'South Africa', 'class': 'LOCATION'}
+{'context': 'acquisition of', 'NP': 'Portsmouth Savings Bank', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'IBM', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'the Process Chemicals Division', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'AirCal', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Sovereign Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Medicontrol Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Johnson Matthey Commodities', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Johnson Commodities', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': '4 suburban Chicago', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'substantially all Eastern Gas', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Aslaminas Aslambeck Mining Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Aslaminas Aslambeck Mining Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Microsoft and Vernitron Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Unitek Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Rolex Ltd', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'C. Hughes', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'the Doctrine Committee', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'David Kansas', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'William Rutter', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'Chiron', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'Alex Krauer', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Bosnia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'David R. Whitwam', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'David R. Whitwam', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'David R. Whitman', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'rival Broderbund Software Inc', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'David R. Whitwam', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Morgan Stanley Group Inc', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Mark Hoffman', 'class': 'PERSON'}
+{'context': 'chairman', 'NP': 'D-Ohio', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Attwoods', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Attwoods', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Attwoods', 'class': 'ORGANIZATION'}
+{'context': 'merger', 'NP': 'the New Frontier Party', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'R.H. Macy', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Allen Questrom', 'class': 'PERSON'}
+{'context': 'merger in', 'NP': 'September', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Yuri Mitkov', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'rival Broderbund Software Inc', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Morgan Stanley Group Inc', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Techtronix Inc', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Morgan Stanley Group Inc', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Wall Street powerhouse Flovim Inc', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Hans Pontier', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Morgan Stanley', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'John DesBarres', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Morgan Stanley', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Richard B. Fisher', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'committee chairman', 'NP': 'Yuri Asimov', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'the Finance Ministry', 'class': 'ORGANIZATION'}
+{'context': 'chairman of', 'NP': 'Banco Espanol de Credito', 'class': 'PERSON'}
+{'context': 'new chairman', 'NP': 'Yuri Fesenko', 'class': 'PERSON'}
+{'context': 'vice president', 'NP': 'Yuri Allaire', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'pharmaceutical company Syntex Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'pharmaceutical company Syntex Corp', 'class': 'ORGANIZATION'}
+{'context': 'chairman', 'NP': 'Legislator Ju Gau-jeng', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'the Chinese Social Democratic Party', 'class': 'PERSON'}
+{'context': 'merger with', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'Lockheed Corp', 'class': 'ORGANIZATION'}
+{'context': 'vice president', 'NP': 'Yuri Fesenko', 'class': 'PERSON'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'elections in', 'NP': 'Chechnya', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'elections in', 'NP': 'Chechnya', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'elections in', 'NP': 'Chechnya', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'government of', 'NP': 'Peru', 'class': 'LOCATION'}
+{'context': 'chairman of', 'NP': 'the Senate Foreign Relations Committee', 'class': 'PERSON'}
+{'context': 'chairman of', 'NP': 'the Senate Foreign Relations Committee', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'David Kostoyev', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'IBM chairman', 'NP': 'Yuri Kostoyev', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'Isa Kostoyev', 'class': 'PERSON'}
+{'context': 'elections in', 'NP': 'Russia', 'class': 'LOCATION'}
+{'context': 'chairman', 'NP': 'Isa Kostoyev', 'class': 'PERSON'}
+{'context': 'merger of', 'NP': 'Morgan Stanley', 'class': 'ORGANIZATION'}
+{'context': 'merger of', 'NP': 'IBM Corp.', 'class': 'ORGANIZATION'}
+{'context': 'acquisition of', 'NP': 'Felgengauer Industries Corp', 'class': 'ORGANIZATION'}
+{'context': 'merger with', 'NP': 'IBM Corp', 'class': 'ORGANIZATION'}

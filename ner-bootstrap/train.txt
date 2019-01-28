@@ -1,0 +1,10472 @@
+CONTEXT: concern
+NP: Users Inc
+
+CONTEXT: metropolitan area
+NP: Kansas City
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: issuance of
+NP: American Adventure Inc
+
+CONTEXT: Bank president
+NP: John Williams
+
+CONTEXT: subsidiary of
+NP: Arsenal Holdings Inc
+
+CONTEXT: merger with
+NP: Alcan Corp
+
+CONTEXT: shares of
+NP: Capital Food Services Ltd
+
+CONTEXT: shares of
+NP: Alcan New Zealand Ltd
+
+CONTEXT: remainder of
+NP: Alcan New Zealand
+
+CONTEXT: GmbH to
+NP: Oelmuehle Hamburg AG
+
+CONTEXT: supplier
+NP: Noblee
+
+CONTEXT: interest in
+NP: Pancontinental Mining Ltd
+
+CONTEXT: fields in
+NP: Canada
+
+CONTEXT: Corp of
+NP: Japan
+
+CONTEXT: pct by
+NP: Bull
+
+CONTEXT: pct by
+NP: NEC
+
+CONTEXT: unit of
+NP: Honeywell Inc
+
+CONTEXT: Association of
+NP: Woodward
+
+CONTEXT: bid for
+NP: BWA
+
+CONTEXT: bid for
+NP: Superdrug
+
+CONTEXT: shares in
+NP: Hillards Plc
+
+CONTEXT: bid for
+NP: Hillards
+
+CONTEXT: move by
+NP: the Knut
+
+CONTEXT: one
+NP: Alice Wallenberg Foundation
+
+CONTEXT: approval from
+NP: the Maine Bureau
+
+CONTEXT: prospectus in
+NP: Canada
+
+CONTEXT: capital
+NP: Jefferson City
+
+CONTEXT: company
+NP: Bowcan Holdings Inc
+
+CONTEXT: Trust of
+NP: Montreal
+
+CONTEXT: brokerage
+NP: Oppenheimer
+
+CONTEXT: subsidiary of
+NP: Oppenheimer Group Inc
+
+CONTEXT: shares of
+NP: Cyclops Corp
+
+CONTEXT: plant in
+NP: Seattle
+
+CONTEXT: stake in
+NP: Quaker State Oil Refining Corp
+
+CONTEXT: Inc of
+NP: Pompano Beach
+
+CONTEXT: Corp of
+NP: South Africa
+
+CONTEXT: elections in
+NP: South Africa
+
+CONTEXT: acquisition of
+NP: Portsmouth Savings Bank
+
+CONTEXT: business of
+NP: Monsanto Co
+
+CONTEXT: merger with
+NP: IBM
+
+CONTEXT: printer
+NP: Atwell Fleming Printing Ltd
+
+CONTEXT: offer with
+NP: Gencorp
+
+CONTEXT: McKibbin of
+NP: A.C. Goode
+
+CONTEXT: it to
+NP: Exxon Corp unit Esso Exploration
+
+CONTEXT: year from
+NP: the Cooper Basin
+
+CONTEXT: Goldston-Morris of
+NP: Sydney broker Bain
+
+CONTEXT: back to
+NP: the Americans
+
+CONTEXT: Evans of
+NP: Sydney broker Meares
+
+CONTEXT: stake in
+NP: Australia
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: offer of
+NP: CSR
+
+CONTEXT: management of
+NP: Pioneer Sugar
+
+CONTEXT: poultry
+NP: Thies Cos Inc
+
+CONTEXT: firms in
+NP: the U.S.
+
+CONTEXT: shares of
+NP: NECO Enterprises Inc
+
+CONTEXT: investor
+NP: R.I.
+
+CONTEXT: KGaA of
+NP: Dusseldorf , West Germany
+
+CONTEXT: acquisition of
+NP: the Process Chemicals Division
+
+CONTEXT: integration of
+NP: AirCal
+
+CONTEXT: merger with
+NP: AirCal
+
+CONTEXT: approval from
+NP: the Department
+
+CONTEXT: coordinator
+NP: Richard D. Pearson
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: officer of
+NP: AirCal
+
+CONTEXT: agreement with
+NP: Alza Corp
+
+CONTEXT: acquisition of
+NP: Sovereign Corp
+
+CONTEXT: share of
+NP: Chubb
+
+CONTEXT: stock
+NP: Yesterday
+
+CONTEXT: agreement with
+NP: Pizza Inn Acquiring Corp
+
+CONTEXT: assets of
+NP: its subsidiary Greene Dental Products Inc
+
+CONTEXT: area
+NP: Fla.
+
+CONTEXT: subsidiary of
+NP: the E.W. Scripps Co
+
+CONTEXT: business as
+NP: Scripps Howard
+
+CONTEXT: business in
+NP: Japan
+
+CONTEXT: affiliate
+NP: Koba Electronics Co Ltd
+
+CONTEXT: affiliate of
+NP: Lifetime
+
+CONTEXT: officer
+NP: Ohta Shoji
+
+CONTEXT: officer of
+NP: Toho Mutual Life Insurance Co
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: shareholder in
+NP: Nippon Lace
+
+CONTEXT: Trust of
+NP: Zurich
+
+CONTEXT: gambling capital
+NP: Sin City
+
+CONTEXT: war with
+NP: Israel
+
+CONTEXT: brokerage
+NP: Oppenheimer
+
+CONTEXT: subsidiary of
+NP: Oppenheimer Group Inc
+
+CONTEXT: stake of
+NP: Cyclops Corp Oppenheimer
+
+CONTEXT: subsidiary
+NP: SIAF
+
+CONTEXT: subsidiary of
+NP: Alcon
+
+CONTEXT: purchase of
+NP: Georgia International Life Insurance Co
+
+CONTEXT: statement with
+NP: the Securities
+
+CONTEXT: parent
+NP: First National Bank Corp
+
+CONTEXT: parent of
+NP: First National Bank
+
+CONTEXT: branch in
+NP: Clinton Township
+
+CONTEXT: merger with
+NP: Medicontrol Corp
+
+CONTEXT: investment by
+NP: Monsanto Co's G.D. Searle
+
+CONTEXT: pursuant to
+NP: an option Searle
+
+CONTEXT: stake in
+NP: Medicontrol
+
+CONTEXT: acquisition of
+NP: Johnson Matthey Commodities
+
+CONTEXT: unit of
+NP: the Bank
+
+CONTEXT: president
+NP: Arkadi Kuhlmann
+
+CONTEXT: capital city
+NP: Tokyo
+
+CONTEXT: officer of
+NP: Deak International
+
+CONTEXT: acquisition of
+NP: Johnson Commodities
+
+CONTEXT: unit of
+NP: the Bank
+
+CONTEXT: aerospace company
+NP: Lockheed Martin Corp
+
+CONTEXT: president
+NP: Arkadi Kuhlmann
+
+CONTEXT: officer of
+NP: Deak
+
+CONTEXT: shares of
+NP: Nucell Inc
+
+CONTEXT: acquisition of
+NP: 4 suburban Chicago
+
+CONTEXT: Bank of
+NP: North Evanston
+
+CONTEXT: Bank of
+NP: Schiller Park
+
+CONTEXT: Bank in
+NP: Melrose Park
+
+CONTEXT: acquisition of
+NP: substantially all Eastern Gas
+
+CONTEXT: operations near
+NP: Palisade
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: assets of
+NP: Standard Aero Inc
+
+CONTEXT: facility in
+NP: Phoenix
+
+CONTEXT: plan as
+NP: Dynair Tech Inc
+
+CONTEXT: company
+NP: Consolidated Brazilian Mines International Inc
+
+CONTEXT: properties in
+NP: Brazil
+
+CONTEXT: company
+NP: Diamazon
+
+CONTEXT: acquisition of
+NP: Aslaminas Aslambeck Mining Corp
+
+CONTEXT: concern
+NP: Brazil
+
+CONTEXT: company
+NP: Consolidated Brazilian Mines International Inc
+
+CONTEXT: properties in
+NP: Brazil
+
+CONTEXT: company
+NP: Diamazon
+
+CONTEXT: acquisition of
+NP: Aslaminas Aslambeck Mining Corp
+
+CONTEXT: concern
+NP: Brazil
+
+CONTEXT: producer
+NP: Peabody
+
+CONTEXT: producer in
+NP: the U.S.
+
+CONTEXT: ownership in
+NP: Peabody
+
+CONTEXT: buyout by
+NP: AQ Corp
+
+CONTEXT: pct of
+NP: Aloha
+
+CONTEXT: pct of
+NP: Aloha
+
+CONTEXT: sale of
+NP: its South African subsidiary Robertsons Pty Ltd
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: Association of
+NP: Fort Myers
+
+CONTEXT: merger with
+NP: Microsoft and Vernitron Corp
+
+CONTEXT: Association of
+NP: Sarasota
+
+CONTEXT: wholly
+NP: Elizabeth Arden Inc
+
+CONTEXT: materials with
+NP: the Securities
+
+CONTEXT: pct of
+NP: Vernitron
+
+CONTEXT: meeting in
+NP: June
+
+CONTEXT: pct of
+NP: Vernitron
+
+CONTEXT: acquisition of
+NP: Unitek Corp
+
+CONTEXT: pct by
+NP: Metallgesellschaft AG
+
+CONTEXT: each by
+NP: MIM
+
+CONTEXT: farming region
+NP: Kansas City
+
+CONTEXT: offshoot
+NP: Skandia International Holding AB
+
+CONTEXT: offshoot of
+NP: Swedish insurance group Forsakrings AB Skandia
+
+CONTEXT: Division of
+NP: Page-Wilson Corp
+
+CONTEXT: bid for
+NP: GenCorp Inc
+
+CONTEXT: officer of
+NP: GenCorp
+
+CONTEXT: interest in
+NP: Aerojet General
+
+CONTEXT: business of
+NP: GenCorp
+
+CONTEXT: operations in
+NP: the Midwest
+
+CONTEXT: partnership
+NP: L.P.
+
+CONTEXT: stake in
+NP: Bell Industries Inc
+
+CONTEXT: Division to
+NP: the newly formed Wisconsin Central Ltd
+
+CONTEXT: partnership
+NP: Pincus Capital Co L.P.
+
+CONTEXT: representatives of
+NP: Symbion Inc
+
+CONTEXT: sale of
+NP: its Consumer Packaging Division
+
+CONTEXT: investor
+NP: Arthur Appleton
+
+CONTEXT: president
+NP: William Wang
+
+CONTEXT: shares of
+NP: Sage Drilling Inc
+
+CONTEXT: agreement with
+NP: Swiss Reinsurance Co
+
+CONTEXT: Association of
+NP: Brooksville
+
+CONTEXT: company
+NP: last August
+
+CONTEXT: talks with
+NP: Regal International Inc
+
+CONTEXT: subsidiary of
+NP: Regal
+
+CONTEXT: sale of
+NP: WOR-TV
+
+CONTEXT: Metalicos of
+NP: Spain
+
+CONTEXT: yesterday by
+NP: Union Carbide France
+
+CONTEXT: subsidiary of
+NP: the U.S. Chemical giant Union Carbide Corp
+
+CONTEXT: developer
+NP: Leonard Chavin
+
+CONTEXT: control of
+NP: L.E. Myers Co Group
+
+CONTEXT: control of
+NP: Myers
+
+CONTEXT: Bank of
+NP: Buckhannon
+
+CONTEXT: maker
+NP: American Standard Inc
+
+CONTEXT: plant in
+NP: Vietnam
+
+CONTEXT: earthquake region
+NP: Tokyo
+
+CONTEXT: Committee for
+NP: Cooperation
+
+CONTEXT: agency
+NP: Investment
+
+CONTEXT: director
+NP: Ngo Van Diem
+
+CONTEXT: north of
+NP: Ho Chi Minh City
+
+CONTEXT: embargo against
+NP: Vietnam
+
+CONTEXT: venture between
+NP: the state-owned Qatar General Petroleum Co
+
+CONTEXT: Total of
+NP: France
+
+CONTEXT: Secretary of
+NP: Commerce Ronald H.
+
+CONTEXT: leaders on
+NP: U.S.
+
+CONTEXT: projects in
+NP: Malaysia
+
+CONTEXT: agreement with
+NP: Projek Penyelenggaraan Lebuhraya Bhd
+
+CONTEXT: delegation of
+NP: U.S. Senators
+
+CONTEXT: Conference in
+NP: Penang
+
+CONTEXT: Mohamad of
+NP: Malaysia
+
+CONTEXT: minister
+NP: Saleh Afiff
+
+CONTEXT: bank
+NP: Maybank
+
+CONTEXT: subsidiary of
+NP: New York
+
+CONTEXT: maker
+NP: Fujitsu
+
+CONTEXT: Mohamad of
+NP: Malaysia
+
+CONTEXT: minister
+NP: Saleh Afiff
+
+CONTEXT: bank
+NP: Maybank
+
+CONTEXT: million in
+NP: China
+
+CONTEXT: house
+NP: Itochu Corp
+
+CONTEXT: capital by
+NP: Iowa City River
+
+CONTEXT: business in
+NP: Japan
+
+CONTEXT: infusion to
+NP: Chofu Cable Television
+
+CONTEXT: media in
+NP: the United States
+
+CONTEXT: company
+NP: both US West
+
+CONTEXT: ventures in
+NP: Mexico
+
+CONTEXT: opening of
+NP: Mexico
+
+CONTEXT: partner
+NP: Larry Katzen
+
+CONTEXT: merger with
+NP: Rolex Ltd
+
+CONTEXT: partner of
+NP: Arthur Andersen
+
+CONTEXT: springboard into
+NP: South America
+
+CONTEXT: one of
+NP: its U.S.
+
+CONTEXT: spokesman
+NP: Lonnie Fogel
+
+CONTEXT: spokesman for
+NP: Home Depot Inc
+
+CONTEXT: clothes in
+NP: Aoyama
+
+CONTEXT: customers in
+NP: Mexico
+
+CONTEXT: options in
+NP: Mexico
+
+CONTEXT: Homeowners in
+NP: Mexico
+
+CONTEXT: Co of
+NP: the United States
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: business in
+NP: China
+
+CONTEXT: closure of
+NP: Champaign
+
+CONTEXT: niece of
+NP: senior leader Deng Xiaoping
+
+CONTEXT: proceedings at
+NP: the Shenzhen Intermediate People's Court
+
+CONTEXT: Corp of
+NP: Australia
+
+CONTEXT: representatives to
+NP: Cuba
+
+CONTEXT: investment in
+NP: Cuba
+
+CONTEXT: pace in
+NP: Cuba
+
+CONTEXT: stake in
+NP: the U.S. biotech company Chiron Corp
+
+CONTEXT: talks with
+NP: Chiron
+
+CONTEXT: stake to
+NP: Ciba-Geigy
+
+CONTEXT: shares in
+NP: The Biocene Co
+
+CONTEXT: division in
+NP: Ardsley
+
+CONTEXT: fees in
+NP: Australia
+
+CONTEXT: evidence against
+NP: Peng
+
+CONTEXT: one from
+NP: The Associated Press
+
+CONTEXT: snaps of
+NP: Peng
+
+CONTEXT: venture
+NP: establishing Champaign
+
+CONTEXT: prosecutors
+NP: This July
+
+CONTEXT: stake in
+NP: 1838 Investment Advisors
+
+CONTEXT: subsidiary
+NP: MeesPierson
+
+CONTEXT: subsidiary of
+NP: the Netherlands
+
+CONTEXT: Bank
+NP: Japan
+
+CONTEXT: stake in
+NP: 1838 Investment Advisors
+
+CONTEXT: managers in
+NP: Philadelphia
+
+CONTEXT: activities under
+NP: the name MeesPierson 1838 Investment Advisors
+
+CONTEXT: Asia via
+NP: MeesPierson
+
+CONTEXT: fees in
+NP: Australia
+
+CONTEXT: evidence against
+NP: Peng
+
+CONTEXT: officials from
+NP: nearby Canton
+
+CONTEXT: one from
+NP: The Associated Press
+
+CONTEXT: snaps of
+NP: Peng
+
+CONTEXT: venture
+NP: establishing Champaign
+
+CONTEXT: sale of
+NP: UCAR
+
+CONTEXT: interest in
+NP: UCAR
+
+CONTEXT: interest in
+NP: UCAR
+
+CONTEXT: role in
+NP: Vietnam
+
+CONTEXT: ceremony in
+NP: Hanoi's Defense Ministry Guest House
+
+CONTEXT: capital city
+NP: Tokyo
+
+CONTEXT: day after
+NP: Canada
+
+CONTEXT: Wednesday with
+NP: the Vietnam Oil
+
+CONTEXT: president
+NP: Bernard Isautier
+
+CONTEXT: complex in
+NP: Ho Chi Minh City
+
+CONTEXT: president
+NP: Vera Chang
+
+CONTEXT: office in
+NP: Ho Chi Minh City
+
+CONTEXT: million in
+NP: Vietnam
+
+CONTEXT: venture of
+NP: Paramount
+
+CONTEXT: films outside
+NP: the United States
+
+CONTEXT: unit of
+NP: Japan's Matsushita Electrical Industrial Co Ltd
+
+CONTEXT: agency
+NP: the European Commission
+
+CONTEXT: role in
+NP: Vietnam
+
+CONTEXT: ceremony in
+NP: Hanoi's Defense Ministry Guest House
+
+CONTEXT: day after
+NP: Canada
+
+CONTEXT: policy in
+NP: Vietnam
+
+CONTEXT: Wednesday with
+NP: the Vietnam Oil
+
+CONTEXT: president
+NP: Bernard Isautier
+
+CONTEXT: complex in
+NP: Ho Chi Minh City
+
+CONTEXT: office in
+NP: Ho Chi Minh City
+
+CONTEXT: crime area
+NP: Kansas City
+
+CONTEXT: million in
+NP: Vietnam
+
+CONTEXT: Baynes of
+NP: Singapore-based F
+
+CONTEXT: percent of
+NP: F
+
+CONTEXT: giant
+NP: Ltd
+
+CONTEXT: beverages in
+NP: Ho Chi Minh City
+
+CONTEXT: venture with
+NP: the state-owned Chuong Duong Soft Drink Co
+
+CONTEXT: cornbelt region
+NP: Kansas
+
+CONTEXT: Committee for
+NP: Cooperation
+
+CONTEXT: agreement with
+NP: Pacific Beverage
+
+CONTEXT: Co of
+NP: Canada
+
+CONTEXT: role in
+NP: Vietnam
+
+CONTEXT: ceremony in
+NP: Hanoi's Defense Ministry Guest House
+
+CONTEXT: day after
+NP: Canada
+
+CONTEXT: policy in
+NP: Vietnam
+
+CONTEXT: Wednesday with
+NP: the Vietnam Oil
+
+CONTEXT: president
+NP: Bernard Isautier
+
+CONTEXT: complex in
+NP: Ho Chi Minh City
+
+CONTEXT: office in
+NP: Ho Chi Minh City
+
+CONTEXT: million in
+NP: Vietnam
+
+CONTEXT: chairman
+NP: C. Hughes
+
+CONTEXT: chairman of
+NP: the Doctrine Committee
+
+CONTEXT: 80,000 to
+NP: the Secretariat
+
+CONTEXT: hospitals in
+NP: the United States
+
+CONTEXT: Directives for
+NP: Catholic Health Care Services
+
+CONTEXT: sponsor of
+NP: the Oregon
+
+CONTEXT: Lepetit of
+NP: Italy
+
+CONTEXT: venture of
+NP: Dow
+
+CONTEXT: judge in
+NP: Alabama
+
+CONTEXT: chairman
+NP: David Kansas
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: investment in
+NP: Burma
+
+CONTEXT: Light of
+NP: Myanmar
+
+CONTEXT: Corp of
+NP: Indonesia
+
+CONTEXT: building from
+NP: the Ministry
+
+CONTEXT: billion into
+NP: Burma
+
+CONTEXT: partnership with
+NP: Chiron Corp
+
+CONTEXT: shares in
+NP: Chiron
+
+CONTEXT: relationship between
+NP: Chiron
+
+CONTEXT: chairman
+NP: William Rutter
+
+CONTEXT: chairman of
+NP: Chiron
+
+CONTEXT: growing region
+NP: Kansas City
+
+CONTEXT: chairman
+NP: Alex Krauer
+
+CONTEXT: metropolitan region
+NP: Kansas City
+
+CONTEXT: executive of
+NP: Ciba-Geigy
+
+CONTEXT: agreement between
+NP: GE Marine
+
+CONTEXT: Motors of
+NP: Rybinsk , Russia
+
+CONTEXT: parts at
+NP: Rybinsk
+
+CONTEXT: venture of
+NP: General Electric
+
+CONTEXT: Bureau in
+NP: Perm , Russia
+
+CONTEXT: percent in
+NP: Europe
+
+CONTEXT: percent in
+NP: the Western Hemisphere
+
+CONTEXT: groups
+NP: Heinz
+
+CONTEXT: Carnation in
+NP: the United States
+
+CONTEXT: Rowntree in
+NP: Britain
+
+CONTEXT: Buitoni in
+NP: Italy
+
+CONTEXT: Perrier in
+NP: France
+
+CONTEXT: percent in
+NP: Latin America
+
+CONTEXT: percent in
+NP: the United States
+
+CONTEXT: percent in
+NP: Europe
+
+CONTEXT: venture with
+NP: General Mills
+
+CONTEXT: business in
+NP: Europe
+
+CONTEXT: arrangement with
+NP: Coca-Cola
+
+CONTEXT: Petfoods of
+NP: the United States
+
+CONTEXT: report by
+NP: the Xinhua News Agency
+
+CONTEXT: cabinet
+NP: The State Council
+
+CONTEXT: venture
+NP: Dragages-Penta
+
+CONTEXT: airport with
+NP: downtown Hong Kong
+
+CONTEXT: sovereignty over
+NP: Hong Kong
+
+CONTEXT: wife of
+NP: Vo Nguyen Giap
+
+CONTEXT: offensive against
+NP: U.S.
+
+CONTEXT: company
+NP: Burton Engineering
+
+CONTEXT: venture with
+NP: the Hanoi Construction Co
+
+CONTEXT: operations in
+NP: South Africa
+
+CONTEXT: stake in
+NP: South African Motor Corp
+
+CONTEXT: Officials of
+NP: Ford
+
+CONTEXT: Bank of
+NP: David
+
+CONTEXT: products into
+NP: Samcor
+
+CONTEXT: partners in
+NP: Samcor
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: subsidiary
+NP: Ford South Africa
+
+CONTEXT: subsidiary of
+NP: Ford Canada
+
+CONTEXT: products into
+NP: South African Motor Corp Ltd
+
+CONTEXT: election in
+NP: April
+
+CONTEXT: company
+NP: Anglo American Industrial Corp Ltd
+
+CONTEXT: company for
+NP: Samcor
+
+CONTEXT: stake in
+NP: Samcor
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: subsidiary
+NP: Ford South Africa
+
+CONTEXT: subsidiary of
+NP: Ford Canada
+
+CONTEXT: automaker behind
+NP: General Motors Corp
+
+CONTEXT: elections in
+NP: Bosnia
+
+CONTEXT: arrival in
+NP: Moscow
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: connections with
+NP: the Bosnian Serbs
+
+CONTEXT: troops from
+NP: the former Yugoslavia
+
+CONTEXT: pocket in
+NP: northwest Bosnia
+
+CONTEXT: 1,200 in
+NP: Croatia
+
+CONTEXT: 800 in
+NP: Bosnia
+
+CONTEXT: today with
+NP: Russian Foreign Minister Andrei Kozyrev
+
+CONTEXT: place at
+NP: the Council
+
+CONTEXT: Stevenson-Young of
+NP: the U.S.
+
+CONTEXT: Council in
+NP: Beijing
+
+CONTEXT: Avenue of
+NP: Eternal Peace
+
+CONTEXT: director
+NP: Bob Broadfoot
+
+CONTEXT: director of
+NP: the Economic and Political Risk Consultancy
+
+CONTEXT: tax in
+NP: January
+
+CONTEXT: Ministry of
+NP: Finance
+
+CONTEXT: Corp on
+NP: the London Metals Exchange
+
+CONTEXT: business in
+NP: southern Guangdong
+
+CONTEXT: areas in
+NP: the Russian Far East
+
+CONTEXT: dispute over
+NP: the Southern Kurils
+
+CONTEXT: invitation from
+NP: Yeltsin
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: body to
+NP: President Clinton
+
+CONTEXT: official of
+NP: the Ministry
+
+CONTEXT: partnership with
+NP: Itochu Corp
+
+CONTEXT: area
+NP: China's Guangdong Province
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: dollars to
+NP: Japanese-Dutch joint venture Philips Matsushita Poland S.A.
+
+CONTEXT: batteries in
+NP: Poland
+
+CONTEXT: company in
+NP: China
+
+CONTEXT: part of
+NP: Aetna Life
+
+CONTEXT: NYU president
+NP: Yuri Fesenko
+
+CONTEXT: Casualty of
+NP: the United States
+
+CONTEXT: company with
+NP: China Pacific Insurance Co
+
+CONTEXT: presence in
+NP: China
+
+CONTEXT: metropolitan growth region
+NP: Kansas City
+
+CONTEXT: president
+NP: Douglas Henck
+
+CONTEXT: Co of
+NP: China
+
+CONTEXT: Thursday with
+NP: China's Sinochem
+
+CONTEXT: representative
+NP: Michel Chevet
+
+CONTEXT: representative in
+NP: China
+
+CONTEXT: oil to
+NP: Unipec
+
+CONTEXT: subsidiary of
+NP: Sinochem
+
+CONTEXT: Sinopec of
+NP: China
+
+CONTEXT: oil from
+NP: the Middle East
+
+CONTEXT: Ministry of
+NP: Chemical Industry
+
+CONTEXT: venture in
+NP: Brazil
+
+CONTEXT: refrigerators in
+NP: China
+
+CONTEXT: venture in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitwam
+
+CONTEXT: stake in
+NP: Beijing Whirlpool Snowflake
+
+CONTEXT: venture in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitwam
+
+CONTEXT: stake in
+NP: Beijing Whirlpool Snowflake
+
+CONTEXT: president
+NP: Robert Frey
+
+CONTEXT: president of
+NP: Whirlpool Asia
+
+CONTEXT: president of
+NP: Whirlpool Corp
+
+CONTEXT: venture with
+NP: Whirlpool
+
+CONTEXT: venture with
+NP: Shanghai Narcissus Electric Appliance Co
+
+CONTEXT: talks with
+NP: Whirlpool
+
+CONTEXT: indicator
+NP: The Hang Seng Index
+
+CONTEXT: finance analyst
+NP: Yuri Plitchenko
+
+CONTEXT: refrigerators in
+NP: China
+
+CONTEXT: venture in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitman
+
+CONTEXT: capacity in
+NP: North America
+
+CONTEXT: capacity in
+NP: North America
+
+CONTEXT: membership on
+NP: the Tokyo
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: member of
+NP: the Tokyo Stock Exchange
+
+CONTEXT: parent
+NP: Kidder
+
+CONTEXT: operations to
+NP: Paine Webber
+
+CONTEXT: venture with
+NP: Electronic Arts Inc
+
+CONTEXT: agreement with
+NP: Children's Television Workshop
+
+CONTEXT: analyst
+NP: John Taylor
+
+CONTEXT: analyst at
+NP: L.H. Alton
+
+CONTEXT: company in
+NP: Portland
+
+CONTEXT: week after
+NP: Capital Cities-ABC
+
+CONTEXT: games for
+NP: Sega
+
+CONTEXT: merger with
+NP: rival Broderbund Software Inc
+
+CONTEXT: firm
+NP: Bertelsmann AG
+
+CONTEXT: judge on
+NP: federal circuit
+
+CONTEXT: action against
+NP: General Electric Co
+
+CONTEXT: AG of
+NP: Switzerland
+
+CONTEXT: executive
+NP: Peter Frenz
+
+CONTEXT: executive of
+NP: Diamant Boart SA
+
+CONTEXT: Beers after
+NP: Edward Russell
+
+CONTEXT: lawsuit against
+NP: GE
+
+CONTEXT: lawsuit with
+NP: GE
+
+CONTEXT: operator
+NP: Tele-Communications Inc
+
+CONTEXT: formation of
+NP: Jupiter Telecommunications
+
+CONTEXT: venture with
+NP: Sumitomo Corp
+
+CONTEXT: manager
+NP: Yasushige Nishimura
+
+CONTEXT: manager of
+NP: Sumitomo's Media Business Division
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: loan to
+NP: Philip Matsushita Battery Poland S.A.
+
+CONTEXT: project in
+NP: Poland
+
+CONTEXT: set
+NP: PMBP
+
+CONTEXT: N.V. of
+NP: the Netherlands
+
+CONTEXT: Tuesday between
+NP: Gallup President Don Clifton
+
+CONTEXT: communications between
+NP: Japan
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: maker of
+NP: cars
+
+CONTEXT: shares in
+NP: the national flag carrier Garuda Indonesia
+
+CONTEXT: company in
+NP: India
+
+CONTEXT: venture with
+NP: Tata Consultancy Services
+
+CONTEXT: facility in
+NP: Bombay
+
+CONTEXT: products of
+NP: Abacus
+
+CONTEXT: Walesa on
+NP: Wednesday
+
+CONTEXT: relations with
+NP: Poland
+
+CONTEXT: aid to
+NP: Poland
+
+CONTEXT: company in
+NP: Poland
+
+CONTEXT: both
+NP: Matsushita Battery Industrial Co
+
+CONTEXT: both of
+NP: Japan
+
+CONTEXT: Philips of
+NP: the Netherlands
+
+CONTEXT: equipment for
+NP: studying Japanese
+
+CONTEXT: access to
+NP: the Russian
+
+CONTEXT: trade with
+NP: Poland
+
+CONTEXT: shares of
+NP: Lockheed Martin Corp
+
+CONTEXT: exports to
+NP: Poland
+
+CONTEXT: imports from
+NP: Poland
+
+CONTEXT: audience with
+NP: Emperor Akihito
+
+CONTEXT: Michiko at
+NP: the Imperial Palace
+
+CONTEXT: Walesa on
+NP: Wednesday
+
+CONTEXT: relations with
+NP: Poland
+
+CONTEXT: aid to
+NP: Poland
+
+CONTEXT: company in
+NP: Poland
+
+CONTEXT: both
+NP: Matsushita Battery Industrial Co
+
+CONTEXT: both of
+NP: Japan
+
+CONTEXT: Philips of
+NP: the Netherlands
+
+CONTEXT: farming region
+NP: Chechnya
+
+CONTEXT: defense conracting company
+NP: Lockheed
+
+CONTEXT: equipment for
+NP: studying Japanese
+
+CONTEXT: access to
+NP: the Russian
+
+CONTEXT: trade with
+NP: Poland
+
+CONTEXT: exports to
+NP: Poland
+
+CONTEXT: imports from
+NP: Poland
+
+CONTEXT: capital
+NP: Jefferson City
+
+CONTEXT: audience with
+NP: Emperor Akihito
+
+CONTEXT: Michiko at
+NP: the Imperial Palace
+
+CONTEXT: flights from
+NP: Rangoon
+
+CONTEXT: service to
+NP: Dhaka
+
+CONTEXT: club president
+NP: Vera Smith
+
+CONTEXT: jetliners from
+NP: Malaysian Air Services
+
+CONTEXT: airplanes from
+NP: Malaysia
+
+CONTEXT: venture
+NP: MAI
+
+CONTEXT: venture between
+NP: High Sonic Enterprise
+
+CONTEXT: profit in
+NP: September
+
+CONTEXT: service to
+NP: Dhaka
+
+CONTEXT: ovens in
+NP: China
+
+CONTEXT: opportunities in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitwam
+
+CONTEXT: producer
+NP: SMC Microwave Products Co Ltd
+
+CONTEXT: enterprise
+NP: Shunde County Beijiao Economic Development Co
+
+CONTEXT: Whirlpool with
+NP: Beijing Snowflake Electric Appliance Group Corp
+
+CONTEXT: center of
+NP: the Asia-Pacific
+
+CONTEXT: hub of
+NP: the Asia-Pacific
+
+CONTEXT: venture with
+NP: Singapore Airlines Engineering Co
+
+CONTEXT: companies
+NP: major French
+
+CONTEXT: facilities in
+NP: Singapore
+
+CONTEXT: cars in
+NP: Indonesia
+
+CONTEXT: plans by
+NP: Daewoo
+
+CONTEXT: indicator
+NP: The Hang Seng Index
+
+CONTEXT: launch of
+NP: the new World Trade Organization
+
+CONTEXT: Agreement on
+NP: Tariffs
+
+CONTEXT: agreements with
+NP: the United States
+
+CONTEXT: membership in
+NP: the WTO
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Morgan Stanley Group Inc
+
+CONTEXT: two-thirds by
+NP: Morgan Stanley
+
+CONTEXT: cars in
+NP: Indonesia
+
+CONTEXT: plans by
+NP: Daewoo
+
+CONTEXT: people in
+NP: Beijing
+
+CONTEXT: equipment in
+NP: China
+
+CONTEXT: company
+NP: Hussmann
+
+CONTEXT: partner
+NP: Luoyang Refrigeration
+
+CONTEXT: portion of
+NP: the London Underground
+
+CONTEXT: spokesman for
+NP: the Transport Department
+
+CONTEXT: bid from
+NP: ABB Asea Brown Boveri
+
+CONTEXT: venture between
+NP: the U.K.
+
+CONTEXT: NV of
+NP: France
+
+CONTEXT: venture in
+NP: Shanghai
+
+CONTEXT: it
+NP: Southeast Asia
+
+CONTEXT: Losses on
+NP: Wall Street
+
+CONTEXT: year by
+NP: U.S. interest rate hikes.In Tokyo
+
+CONTEXT: venture in
+NP: Shanghai
+
+CONTEXT: it
+NP: Southeast Asia
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: operations of
+NP: Tokyo Kyowa Credit Union
+
+CONTEXT: Bank of
+NP: Japan Executive Director Kunio Kojima
+
+CONTEXT: ginseng from
+NP: China
+
+CONTEXT: Group of
+NP: Hotels
+
+CONTEXT: complex in
+NP: Hanoi
+
+CONTEXT: Monday with
+NP: Le Duc Lam
+
+CONTEXT: director of
+NP: Ngo Gia Tu Factory
+
+CONTEXT: arm of
+NP: Vietnam's Ministry
+
+CONTEXT: hotel in
+NP: Los Angeles
+
+CONTEXT: hotel in
+NP: Burma
+
+CONTEXT: percent by
+NP: A T
+
+CONTEXT: licenses from
+NP: the European Union
+
+CONTEXT: privatization of
+NP: Spain's Telefonica D'Espana SA
+
+CONTEXT: complex in
+NP: southwest Japan
+
+CONTEXT: number of
+NP: VCRs
+
+CONTEXT: arrival in
+NP: Japan
+
+CONTEXT: director
+NP: G. Cameron Hurst
+
+CONTEXT: director of
+NP: the Center
+
+CONTEXT: official at
+NP: the U.S. Department
+
+CONTEXT: exhibitions in
+NP: Japan
+
+CONTEXT: project in
+NP: Japan
+
+CONTEXT: city
+NP: Beijing
+
+CONTEXT: all from
+NP: Beijing
+
+CONTEXT: auction in
+NP: China
+
+CONTEXT: Leung of
+NP: Richard Ellis
+
+CONTEXT: people from
+NP: Hong Kong
+
+CONTEXT: back from
+NP: China
+
+CONTEXT: Ministry of
+NP: Construction
+
+CONTEXT: Department of
+NP: Defense
+
+CONTEXT: subsidiary
+NP: Inc
+
+CONTEXT: subsidiary of
+NP: United Technologies Corp
+
+CONTEXT: Inc of
+NP: Sunnyvale
+
+CONTEXT: east of
+NP: the Aral Sea
+
+CONTEXT: Department of
+NP: Defense
+
+CONTEXT: subsidiary
+NP: Inc
+
+CONTEXT: subsidiary of
+NP: United Technologies Corp
+
+CONTEXT: Inc of
+NP: Sunnyvale
+
+CONTEXT: east of
+NP: the Aral Sea
+
+CONTEXT: stake for
+NP: BMW
+
+CONTEXT: supply of
+NP: V-12
+
+CONTEXT: partner for
+NP: Rolls-Royce Motor Cars
+
+CONTEXT: producer
+NP: Rover
+
+CONTEXT: analyst with
+NP: Credit Lyonnais Laing
+
+CONTEXT: analyst
+NP: Keith Ashworth-Lord
+
+CONTEXT: club president
+NP: David Smith
+
+CONTEXT: analyst with
+NP: Daiwa Institute
+
+CONTEXT: capital
+NP: Tokyo
+
+CONTEXT: manufacturer
+NP: Royce PLC
+
+CONTEXT: company from
+NP: Rolls-Royce Motor Cars
+
+CONTEXT: venture with
+NP: British Steel PLC
+
+CONTEXT: president of
+NP: the Vietnam-American Chamber
+
+CONTEXT: sanctions against
+NP: Vietnam
+
+CONTEXT: dinner in
+NP: New York
+
+CONTEXT: members of
+NP: Vietnam's own Chamber
+
+CONTEXT: embargo on
+NP: Vietnam
+
+CONTEXT: space beyond
+NP: next April
+
+CONTEXT: Committee for
+NP: Cooperation
+
+CONTEXT: resort on
+NP: famed China Beach
+
+CONTEXT: director
+NP: Stewart Stemple
+
+CONTEXT: director in
+NP: Vietnam
+
+CONTEXT: manager
+NP: Howard Feilding
+
+CONTEXT: manager for
+NP: Australia's Portman Mining Ltd
+
+CONTEXT: lawyer
+NP: Mark Lockwood
+
+CONTEXT: lawyer with
+NP: the U.S. firm Baker
+
+CONTEXT: project in
+NP: Hanoi
+
+CONTEXT: director
+NP: Collins
+
+CONTEXT: director for
+NP: U.S.
+
+CONTEXT: channel
+NP: BBC World
+
+CONTEXT: director of
+NP: BBC Worldwide Television
+
+CONTEXT: channel
+NP: BBC World
+
+CONTEXT: director of
+NP: BBC Worldwide Television
+
+CONTEXT: channel
+NP: BBC World
+
+CONTEXT: spokesman
+NP: Phil Johnstone
+
+CONTEXT: spokesman for
+NP: BBC World
+
+CONTEXT: agreements with
+NP: India
+
+CONTEXT: venture between
+NP: the Hindustan Aeronautics
+
+CONTEXT: vying
+NP: Ford Motor Co
+
+CONTEXT: plant near
+NP: Hanoi
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: port of
+NP: Haiphong
+
+CONTEXT: Renault of
+NP: France
+
+CONTEXT: Corp of
+NP: Japan
+
+CONTEXT: head
+NP: Ogurtsov
+
+CONTEXT: Wednesday with
+NP: Premier Vo Van Kiet
+
+CONTEXT: plant on
+NP: the Black River
+
+CONTEXT: southwest of
+NP: Hanoi
+
+CONTEXT: 11 at
+NP: the Rong
+
+CONTEXT: Bank of
+NP: Salt Lake City
+
+CONTEXT: oil at
+NP: Bach Ho
+
+CONTEXT: field until
+NP: October
+
+CONTEXT: oil at
+NP: the Dai Hung
+
+CONTEXT: headquarters to
+NP: Torrance
+
+CONTEXT: Bank of
+NP: California
+
+CONTEXT: contract with
+NP: Tamara Bank
+
+CONTEXT: bank in
+NP: Indonesia
+
+CONTEXT: issuer
+NP: Chinatrust
+
+CONTEXT: offices in
+NP: Asian
+
+CONTEXT: reception in
+NP: Germany
+
+CONTEXT: giant
+NP: Volkswagen
+
+CONTEXT: rival
+NP: The Volkswagen Polo
+
+CONTEXT: venture with
+NP: Skoda
+
+CONTEXT: spinoff of
+NP: the original Skoda Favorit
+
+CONTEXT: stake in
+NP: Skoda
+
+CONTEXT: price for
+NP: a Volkswagen Polo
+
+CONTEXT: venture with
+NP: Skoda
+
+CONTEXT: spinoff of
+NP: the original Skoda Favorit
+
+CONTEXT: part of
+NP: the Communist state Czechoslovakia
+
+CONTEXT: Group of
+NP: Thailand
+
+CONTEXT: crane in
+NP: Thailand , Burma
+
+CONTEXT: industry in
+NP: Thailand
+
+CONTEXT: venture with
+NP: Luoding Heavy Engineering Company
+
+CONTEXT: cranes in
+NP: China
+
+CONTEXT: Province in
+NP: China
+
+CONTEXT: manufacturers of
+NP: the ATR-72
+
+CONTEXT: plane in
+NP: the United States
+
+CONTEXT: husband
+NP: Sandra M. Anglemyer
+
+CONTEXT: son
+NP: James Shellberg
+
+CONTEXT: Tuesday in
+NP: U.S. District Court
+
+CONTEXT: manufacturers of
+NP: the ATR-72
+
+CONTEXT: lawyer
+NP: William F. Maready
+
+CONTEXT: Corp of
+NP: Fort Worth
+
+CONTEXT: scheduling
+NP: American Airlines
+
+CONTEXT: metroplitan area
+NP: Tokyo
+
+CONTEXT: manufacturer of
+NP: the ATR-72
+
+CONTEXT: Officials of
+NP: AMR Corp
+
+CONTEXT: spokesman
+NP: Marty Heires
+
+CONTEXT: year near
+NP: Como
+
+CONTEXT: certificates from
+NP: the Federal Aviation Administration
+
+CONTEXT: gas from
+NP: Taiwan
+
+CONTEXT: office of
+NP: the U.S.
+
+CONTEXT: Saturday for
+NP: punitive tariffs unless China
+
+CONTEXT: announcement by
+NP: the Ministry
+
+CONTEXT: sanctions on
+NP: China
+
+CONTEXT: office of
+NP: the U.S.
+
+CONTEXT: Saturday for
+NP: punitive tariffs unless China
+
+CONTEXT: announcement by
+NP: the Ministry
+
+CONTEXT: sanctions against
+NP: China
+
+CONTEXT: sanctions on
+NP: China
+
+CONTEXT: spokesman for
+NP: the State Copyright Administration
+
+CONTEXT: companies in
+NP: Beijing
+
+CONTEXT: northwest of
+NP: Johannesburg
+
+CONTEXT: executive
+NP: Jabu Mabuza
+
+CONTEXT: executive of
+NP: The Partnership
+
+CONTEXT: Hlongwane of
+NP: the National Federated Chamber
+
+CONTEXT: talks with
+NP: News
+
+CONTEXT: Union on
+NP: Tuesday
+
+CONTEXT: technology with
+NP: the Italian computer manufacturer Olivetti
+
+CONTEXT: technology to
+NP: Olivetti
+
+CONTEXT: leader
+NP: British Sky Broadcasting Group PLC
+
+CONTEXT: television in
+NP: Britain
+
+CONTEXT: percent
+NP: Financial Times publisher Pearson PLC
+
+CONTEXT: percent
+NP: television company Granada Group PLC
+
+CONTEXT: percent
+NP: the French industrial group Chargeurs
+
+CONTEXT: 62.50 in
+NP: February
+
+CONTEXT: blockade of
+NP: Britain
+
+CONTEXT: areas of
+NP: Czechoslovakia
+
+CONTEXT: governments in
+NP: Hanoi
+
+CONTEXT: Session of
+NP: British House
+
+CONTEXT: poet
+NP: Carlo Fragoni
+
+CONTEXT: poet-philosopher
+NP: Voltaire
+
+CONTEXT: actress
+NP: Marlo Thomas
+
+CONTEXT: actress
+NP: Goldie Hawn
+
+CONTEXT: actress-singer
+NP: Vivian Blaine
+
+CONTEXT: columnist
+NP: Katharine Whitehorn
+
+CONTEXT: chairman
+NP: Mark Hoffman
+
+CONTEXT: purchase of
+NP: Diversified Pharmaceutical Services Inc
+
+CONTEXT: company
+NP: SmithKline Beecham
+
+CONTEXT: club president
+NP: Vera Wang
+
+CONTEXT: chairman
+NP: D-Ohio
+
+CONTEXT: midwest region
+NP: Jefferson City
+
+CONTEXT: business from
+NP: PCS
+
+CONTEXT: spokeswoman
+NP: Jansen
+
+CONTEXT: stake in
+NP: Northwest Airlines
+
+CONTEXT: stake in
+NP: Northwest
+
+CONTEXT: reports in
+NP: January
+
+CONTEXT: spokesman at
+NP: the 38.2 percent state-owned KLM
+
+CONTEXT: activities in
+NP: Europe
+
+CONTEXT: officials
+NP: the automaker Renault SA
+
+CONTEXT: stake in
+NP: Renault
+
+CONTEXT: orders during
+NP: a one-week period ending last Thursday
+
+CONTEXT: issue with
+NP: labor unions Balladur
+
+CONTEXT: percent in
+NP: Renault
+
+CONTEXT: interest of
+NP: Renault
+
+CONTEXT: offer for
+NP: British trash company Attwoods PLC
+
+CONTEXT: move in
+NP: the trash takeover battle values Attwoods
+
+CONTEXT: head
+NP: BFI chairman William D. Ruckelshaus
+
+CONTEXT: head of
+NP: the U.S. Environmental Protection Agency
+
+CONTEXT: performance at
+NP: Attwoods
+
+CONTEXT: company
+NP: Laidlaw Inc
+
+CONTEXT: stake in
+NP: Attwoods
+
+CONTEXT: officers of
+NP: Laidlaw
+
+CONTEXT: merger with
+NP: Attwoods
+
+CONTEXT: presence in
+NP: the British Midlands
+
+CONTEXT: offer for
+NP: British trash company Attwoods PLC
+
+CONTEXT: move in
+NP: the trash takeover battle values Attwoods
+
+CONTEXT: head
+NP: BFI chairman William D. Ruckelshaus
+
+CONTEXT: head of
+NP: the U.S. Environmental Protection Agency
+
+CONTEXT: performance at
+NP: Attwoods
+
+CONTEXT: company
+NP: Laidlaw Inc
+
+CONTEXT: stake in
+NP: Attwoods
+
+CONTEXT: officers of
+NP: Laidlaw
+
+CONTEXT: merger with
+NP: Attwoods
+
+CONTEXT: presence in
+NP: the British Midlands
+
+CONTEXT: offer for
+NP: Britain's Attwoods PLC
+
+CONTEXT: giant
+NP: BFI
+
+CONTEXT: head
+NP: BFI chairman William D. Ruckelshaus
+
+CONTEXT: head of
+NP: the U.S. Environmental Protection Agency
+
+CONTEXT: performance at
+NP: Attwoods
+
+CONTEXT: company
+NP: Laidlaw Inc
+
+CONTEXT: officers of
+NP: Laidlaw
+
+CONTEXT: midwestern region
+NP: Kansas City
+
+CONTEXT: merger with
+NP: Attwoods
+
+CONTEXT: presence in
+NP: the British Midlands
+
+CONTEXT: Shares in
+NP: French automaker Renault SA
+
+CONTEXT: percent
+NP: Thursday
+
+CONTEXT: percent
+NP: Thursday
+
+CONTEXT: stake in
+NP: Renault
+
+CONTEXT: indicating
+NP: Thursday
+
+CONTEXT: trading in
+NP: Renault
+
+CONTEXT: share in
+NP: Renault
+
+CONTEXT: share of
+NP: Renault
+
+CONTEXT: approval from
+NP: Parliament
+
+CONTEXT: each
+NP: Monday
+
+CONTEXT: it
+NP: Murayama
+
+CONTEXT: Patterson in
+NP: Manhattan
+
+CONTEXT: Morris of
+NP: Leeds
+
+CONTEXT: shares of
+NP: Hilton Hotels Corp
+
+CONTEXT: director
+NP: William R. McLucas
+
+CONTEXT: privatization of
+NP: state-controlled automaker Renault SA
+
+CONTEXT: privatization of
+NP: Renault
+
+CONTEXT: decision in
+NP: August
+
+CONTEXT: privatization of
+NP: Renault
+
+CONTEXT: ministries
+NP: released Tuesday
+
+CONTEXT: helping
+NP: Sugar Price Stabilization Agency
+
+CONTEXT: power
+NP: Ichiro Ozawa
+
+CONTEXT: merger
+NP: the New Frontier Party
+
+CONTEXT: carrier
+NP: Japan Airlines
+
+CONTEXT: Tachibana of
+NP: the powerful Federation
+
+CONTEXT: operator
+NP: Santa Fe
+
+CONTEXT: objection by
+NP: Santa Fe
+
+CONTEXT: bid after
+NP: Santa Fe
+
+CONTEXT: route to
+NP: the West
+
+CONTEXT: merger with
+NP: R.H. Macy
+
+CONTEXT: combination
+NP: Co
+
+CONTEXT: chairman
+NP: Allen Questrom
+
+CONTEXT: Court in
+NP: New York
+
+CONTEXT: merger in
+NP: September
+
+CONTEXT: stake in
+NP: the CIT
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: percent of
+NP: CIT
+
+CONTEXT: head of research
+NP: David Jefferson
+
+CONTEXT: Young-sam on
+NP: Saturday
+
+CONTEXT: one of
+NP: South Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: Ministry of
+NP: Trade
+
+CONTEXT: bridge in
+NP: Seoul
+
+CONTEXT: demonstration in
+NP: Puchon
+
+CONTEXT: leader
+NP: Kim
+
+CONTEXT: success to
+NP: Roh
+
+CONTEXT: showdown in
+NP: U.S. District Court
+
+CONTEXT: fight over
+NP: British-owned B.A. T.
+
+CONTEXT: purchase of
+NP: American Tobacco Co
+
+CONTEXT: lawyer
+NP: James C. Egan Jr.
+
+CONTEXT: lawyer with
+NP: the FCC
+
+CONTEXT: lawyer
+NP: Ronald S. Rolfe
+
+CONTEXT: lawyer for
+NP: B.A. T.
+
+CONTEXT: he
+NP: Philip Morris
+
+CONTEXT: days after
+NP: California Energy
+
+CONTEXT: shareholder
+NP: Dow Chemical
+
+CONTEXT: chairman
+NP: Yuri Mitkov
+
+CONTEXT: east of
+NP: San Diego
+
+CONTEXT: headquarters from
+NP: San Francisco
+
+CONTEXT: plants near
+NP: Mammoth
+
+CONTEXT: contending
+NP: Magma
+
+CONTEXT: 1.875 to
+NP: dlrs 37.375 Monday
+
+CONTEXT: venture with
+NP: Electronic Arts Inc
+
+CONTEXT: agreement with
+NP: Children's Television Workshop
+
+CONTEXT: analyst
+NP: John Taylor
+
+CONTEXT: high-tech region
+NP: Tokyo
+
+CONTEXT: analyst at
+NP: L.H. Alton
+
+CONTEXT: company in
+NP: Portland
+
+CONTEXT: week after
+NP: Capital Cities-ABC
+
+CONTEXT: games for
+NP: Sega
+
+CONTEXT: merger with
+NP: rival Broderbund Software Inc
+
+CONTEXT: firm
+NP: Bertelsmann AG
+
+CONTEXT: Commission on
+NP: crime
+
+CONTEXT: company
+NP: Santa Fe
+
+CONTEXT: company in
+NP: the United States
+
+CONTEXT: railroad
+NP: Union Pacific
+
+CONTEXT: route from
+NP: Chicago
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: respect of
+NP: Italians
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: respect of
+NP: Italians
+
+CONTEXT: showdown with
+NP: Premier Silvio Berlusconi
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: respect of
+NP: Italians
+
+CONTEXT: D'Alema of
+NP: the Democratic Party
+
+CONTEXT: bids for
+NP: the submarine maker VSEL PLC
+
+CONTEXT: bid from
+NP: GEC
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Morgan Stanley Group Inc
+
+CONTEXT: acquisition of
+NP: Techtronix Inc
+
+CONTEXT: Executives at
+NP: Morgan Stanley
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Morgan Stanley Group Inc
+
+CONTEXT: profits of
+NP: Morgan Stanley
+
+CONTEXT: Executives at
+NP: Morgan Stanley
+
+CONTEXT: foothold in
+NP: the United States
+
+CONTEXT: presence in
+NP: London
+
+CONTEXT: Toeman at
+NP: the investment bank Hoare Govett
+
+CONTEXT: rumors since
+NP: early October
+
+CONTEXT: hands of
+NP: both Warburg
+
+CONTEXT: indicator
+NP: The Hang Seng Index
+
+CONTEXT: launch of
+NP: the new World Trade Organization
+
+CONTEXT: Agreement on
+NP: Tariffs
+
+CONTEXT: agreements with
+NP: the United States
+
+CONTEXT: membership in
+NP: the WTO
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Flovim Inc
+
+CONTEXT: profits of
+NP: Morgan Stanley
+
+CONTEXT: cars in
+NP: Indonesia
+
+CONTEXT: plans by
+NP: Daewoo
+
+CONTEXT: club president
+NP: Yuri Mitkov
+
+CONTEXT: people in
+NP: Beijing
+
+CONTEXT: operations in
+NP: New York
+
+CONTEXT: subsidiary of
+NP: Credit Suisse
+
+CONTEXT: former president
+NP: William Jefferson Clinton
+
+CONTEXT: chairman
+NP: Hans Pontier
+
+CONTEXT: relationship with
+NP: Swiss American Securities
+
+CONTEXT: subsidiaries of
+NP: big Dutch
+
+CONTEXT: foothold in
+NP: the United States
+
+CONTEXT: one
+NP: Morgan Stanley
+
+CONTEXT: presence in
+NP: London
+
+CONTEXT: Toeman at
+NP: the investment bank Hoare Govett
+
+CONTEXT: rumors since
+NP: early October
+
+CONTEXT: hands of
+NP: both Warburg
+
+CONTEXT: way for
+NP: British Telecom
+
+CONTEXT: percent of
+NP: McCaw
+
+CONTEXT: T with
+NP: McCaw
+
+CONTEXT: marriage of
+NP: Macy
+
+CONTEXT: peacekeepers in
+NP: Bosnia
+
+CONTEXT: dozens of
+NP: Americans
+
+CONTEXT: report
+NP: Thursday
+
+CONTEXT: marriage of
+NP: Warburg
+
+CONTEXT: bank in
+NP: the City
+
+CONTEXT: one
+NP: Morgan Stanley
+
+CONTEXT: Toeman at
+NP: the investment bank Hoare Govett
+
+CONTEXT: bidding for
+NP: Warburg
+
+CONTEXT: bank in
+NP: London
+
+CONTEXT: client from
+NP: a Morgan Stanley
+
+CONTEXT: author
+NP: Ron Chernow
+
+CONTEXT: merger with
+NP: Morgan Stanley
+
+CONTEXT: presence on
+NP: Wall Street
+
+CONTEXT: building in
+NP: London
+
+CONTEXT: analyst
+NP: Raphael Soifer
+
+CONTEXT: analyst at
+NP: Brown Brothers Harriman
+
+CONTEXT: company in
+NP: New York
+
+CONTEXT: rumors since
+NP: early October
+
+CONTEXT: hands of
+NP: both Warburg
+
+CONTEXT: Corp on
+NP: Thursday
+
+CONTEXT: way for
+NP: British Telecom
+
+CONTEXT: competitor
+NP: T
+
+CONTEXT: urban region
+NP: Kansas City
+
+CONTEXT: stake in
+NP: MCI Communications Corp
+
+CONTEXT: Communications in
+NP: September
+
+CONTEXT: percent of
+NP: McCaw
+
+CONTEXT: spokesman for
+NP: British Telecom
+
+CONTEXT: role in
+NP: the AT
+
+CONTEXT: chatting on
+NP: New York
+
+CONTEXT: back to
+NP: London
+
+CONTEXT: protege of
+NP: company founder Bob Garvin
+
+CONTEXT: counsel in
+NP: Catherine Alvarez
+
+CONTEXT: lines to
+NP: comedian Dennis Miller
+
+CONTEXT: fine as
+NP: Johnson
+
+CONTEXT: pipelines in
+NP: the Northwest
+
+CONTEXT: parts of
+NP: the United States
+
+CONTEXT: provider in
+NP: the United States
+
+CONTEXT: chairman
+NP: John DesBarres
+
+CONTEXT: running from
+NP: the Louisiana Gulf Coast
+
+CONTEXT: Murphy of
+NP: Liverpool
+
+CONTEXT: attorney
+NP: Pickholz
+
+CONTEXT: Missouri capital
+NP: Jefferson City
+
+CONTEXT: attorney for
+NP: Morris
+
+CONTEXT: belonging to
+NP: Morris
+
+CONTEXT: assets outside
+NP: the United States
+
+CONTEXT: lawyer
+NP: Marilyn Stowe
+
+CONTEXT: lawyer for
+NP: Morris
+
+CONTEXT: allegations against
+NP: Jeffrey Morris
+
+CONTEXT: unit
+NP: N.C.
+
+CONTEXT: Inc of
+NP: La Jolla
+
+CONTEXT: shareholders of
+NP: National Health Laboratories Holdings Inc
+
+CONTEXT: president
+NP: James Powell
+
+CONTEXT: officer
+NP: James Maher
+
+CONTEXT: officer of
+NP: National Health Laboratories
+
+CONTEXT: subsidiary of
+NP: Morgan Stanley
+
+CONTEXT: combination of
+NP: Morgan Stanley
+
+CONTEXT: bank
+NP: Warburg
+
+CONTEXT: percent by
+NP: Warburg
+
+CONTEXT: Panel on
+NP: Takeover
+
+CONTEXT: panel
+NP: Mergers
+
+CONTEXT: panel at
+NP: the London Stock Exchange
+
+CONTEXT: dealings in
+NP: Mercury
+
+CONTEXT: agreement between
+NP: Warburgs
+
+CONTEXT: two-thirds by
+NP: Morgan Stanley
+
+CONTEXT: combination of
+NP: Morgan Stanley
+
+CONTEXT: rumors since
+NP: October
+
+CONTEXT: marriage of
+NP: Wall Street giant Morgan Stanley Group Inc
+
+CONTEXT: bank
+NP: S.G. Warburg PLC
+
+CONTEXT: analyst
+NP: David Poutney
+
+CONTEXT: analyst at
+NP: Collins Stewart
+
+CONTEXT: merger with
+NP: Morgan Stanley
+
+CONTEXT: percent by
+NP: Warburg
+
+CONTEXT: chairman
+NP: Richard B. Fisher
+
+CONTEXT: rumors since
+NP: October
+
+CONTEXT: Stock in
+NP: Morgan Stanley
+
+CONTEXT: Prices on
+NP: the London Stock Exchange
+
+CONTEXT: giving
+NP: Thursday
+
+CONTEXT: head
+NP: Ricki Tigert
+
+CONTEXT: head of
+NP: the Federal Deposit Insurance Corp
+
+CONTEXT: marriage of
+NP: Wall Street giant Morgan Stanley Group Inc
+
+CONTEXT: bank
+NP: S.G. Warburg PLC
+
+CONTEXT: Operators of
+NP: the Channel Tunnel
+
+CONTEXT: maker
+NP: Porsche AG
+
+CONTEXT: confidence in
+NP: a 1991 U.S.
+
+CONTEXT: explosion in
+NP: Seoul
+
+CONTEXT: Agreement on
+NP: Trade
+
+CONTEXT: one of
+NP: South Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: Young-sam on
+NP: Saturday
+
+CONTEXT: appointment of
+NP: Lee Hong-koo
+
+CONTEXT: ministry
+NP: the Unification Board
+
+CONTEXT: ties with
+NP: Washington
+
+CONTEXT: policy toward
+NP: the communist North
+
+CONTEXT: ambassador to
+NP: England
+
+CONTEXT: explosion in
+NP: Seoul
+
+CONTEXT: Agreement on
+NP: Trade
+
+CONTEXT: one of
+NP: South Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: stock for
+NP: Santa Fe
+
+CONTEXT: offer for
+NP: 38 million Santa Fe
+
+CONTEXT: offer for
+NP: 25 million Santa Fe
+
+CONTEXT: percent of
+NP: Santa Fe
+
+CONTEXT: grandson
+NP: Robert Mark Smallwood
+
+CONTEXT: grandson of
+NP: former premier Joey Smallwood
+
+CONTEXT: charge of
+NP: threatening Premier Clyde Wells
+
+CONTEXT: decision on
+NP: Rogers Communications
+
+CONTEXT: noon
+NP: Maclean Hunter
+
+CONTEXT: Announcement of
+NP: City
+
+CONTEXT: a.m.
+NP: Barbara Hall
+
+CONTEXT: Co-operatives of
+NP: Ontario
+
+CONTEXT: sale to
+NP: Growmark Inc
+
+CONTEXT: minister
+NP: Eldon Lautermilch
+
+CONTEXT: Court of
+NP: Queen's Bench
+
+CONTEXT: delegation from
+NP: Guangdong , China
+
+CONTEXT: briefing with
+NP: Investment Minister Glen Clark
+
+CONTEXT: toll in
+NP: Chechenya
+
+CONTEXT: committee chairman
+NP: Yuri Asimov
+
+CONTEXT: time after
+NP: the National Assembly
+
+CONTEXT: expert
+NP: Lee Hong-Koo
+
+CONTEXT: Bank of
+NP: Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: recognition from
+NP: Washington
+
+CONTEXT: way for
+NP: a major Cabinet
+
+CONTEXT: expert
+NP: Lee Hong-koo
+
+CONTEXT: task for
+NP: the new Cabinet
+
+CONTEXT: accord with
+NP: the United States
+
+CONTEXT: day before
+NP: Christmas
+
+CONTEXT: percent in
+NP: November
+
+CONTEXT: gain in
+NP: October
+
+CONTEXT: staff of
+NP: the Federal Trade Commission
+
+CONTEXT: flamboyant
+NP: Mario Conde
+
+CONTEXT: chairman of
+NP: Banco Espanol de Credito
+
+CONTEXT: year after
+NP: the Bank
+
+CONTEXT: new chairman
+NP: Yuri Fesenko
+
+CONTEXT: Finance to
+NP: Deutsche Bank North America
+
+CONTEXT: subsidiary of
+NP: Deutsche Bank AG
+
+CONTEXT: vice president
+NP: Yuri Allaire
+
+CONTEXT: spokeswoman for
+NP: Deutsche Bank North America
+
+CONTEXT: merger of
+NP: Lockheed Corp
+
+CONTEXT: takeover of
+NP: American Cyanamid Corp
+
+CONTEXT: purchase of
+NP: Blockbuster Entertainment Corp
+
+CONTEXT: acquisition of
+NP: pharmaceutical company Syntex Corp
+
+CONTEXT: expansion in
+NP: the United States
+
+CONTEXT: vehicles in
+NP: the United States
+
+CONTEXT: billion for
+NP: Madison Square Garden
+
+CONTEXT: network
+NP: MSG
+
+CONTEXT: percent of
+NP: the CIGA Hotel Corp
+
+CONTEXT: hotels in
+NP: Europe
+
+CONTEXT: million for
+NP: the Phoenician
+
+CONTEXT: percent from
+NP: Belgium
+
+CONTEXT: Duif en
+NP: Brekelmans BV
+
+CONTEXT: sales
+NP: BolsWessanen
+
+CONTEXT: year
+NP: the United States
+
+CONTEXT: unit to
+NP: Norwest Corp
+
+CONTEXT: week after
+NP: ITT
+
+CONTEXT: unit of
+NP: Norwest
+
+CONTEXT: ITT in
+NP: Israel
+
+CONTEXT: Finance to
+NP: Deutsche Bank North America
+
+CONTEXT: subsidiary of
+NP: Deutsche Bank AG
+
+CONTEXT: merger of
+NP: Lockheed Corp
+
+CONTEXT: takeover of
+NP: American Cyanamid Corp
+
+CONTEXT: purchase of
+NP: Blockbuster Entertainment Corp
+
+CONTEXT: acquisition of
+NP: pharmaceutical company Syntex Corp
+
+CONTEXT: expansion in
+NP: the United States
+
+CONTEXT: vehicles in
+NP: the United States
+
+CONTEXT: chairman
+NP: Legislator Ju Gau-jeng
+
+CONTEXT: chairman of
+NP: the Chinese Social Democratic Party
+
+CONTEXT: effort by
+NP: the Chinese Social Democratic Party
+
+CONTEXT: doctrines of
+NP: Sun Yat-sen
+
+CONTEXT: war to
+NP: Communist
+
+CONTEXT: it
+NP: the Nationalists
+
+CONTEXT: reunification with
+NP: mainland China
+
+CONTEXT: convenor
+NP: Wang Chien-shien
+
+CONTEXT: trials in
+NP: Europe
+
+CONTEXT: pill
+NP: Halcion
+
+CONTEXT: painkiller
+NP: Ansaid
+
+CONTEXT: driver of
+NP: Upjohn
+
+CONTEXT: Lamberton of
+NP: NatWest Securities
+
+CONTEXT: analyst
+NP: Robert Hodgson
+
+CONTEXT: differences between
+NP: the U.S.
+
+CONTEXT: Shares of
+NP: Upjohn
+
+CONTEXT: one
+NP: Unisys Corp
+
+CONTEXT: people in
+NP: the United States
+
+CONTEXT: decisions in
+NP: Europe
+
+CONTEXT: will happen
+NP: Thursday
+
+CONTEXT: merger with
+NP: Lockheed Corp
+
+CONTEXT: missiles for
+NP: the Navy
+
+CONTEXT: planes for
+NP: the Air Force
+
+CONTEXT: development of
+NP: the F-22
+
+CONTEXT: will happen
+NP: Thursday
+
+CONTEXT: merger with
+NP: Lockheed Corp
+
+CONTEXT: missiles for
+NP: the Navy
+
+CONTEXT: planes for
+NP: the Air Force
+
+CONTEXT: development of
+NP: the F-22
+
+CONTEXT: administration
+NP: Zedillo
+
+CONTEXT: inflation in
+NP: Yugoslavia
+
+CONTEXT: economist
+NP: Jovan Rankovic
+
+CONTEXT: Index of
+NP: Leading Economic Indicators
+
+CONTEXT: gain in
+NP: November
+
+CONTEXT: will happen
+NP: Thursday
+
+CONTEXT: merger with
+NP: Lockheed Corp
+
+CONTEXT: one
+NP: Unisys Corp
+
+CONTEXT: leading
+NP: Sunday
+
+CONTEXT: partner into
+NP: the EU
+
+CONTEXT: time for
+NP: Swedish Suction
+
+CONTEXT: majority of
+NP: Norwegians
+
+CONTEXT: Minister of
+NP: Municipalities Gunnar Berge
+
+CONTEXT: member
+NP: Jan Otto Fredagsvik
+
+CONTEXT: member from
+NP: the Labor Party
+
+CONTEXT: leader
+NP: Anne Enger Lahnstein
+
+CONTEXT: billboard in
+NP: Oslo
+
+CONTEXT: swathe through
+NP: the Caribbean
+
+CONTEXT: island of
+NP: Mindoro
+
+CONTEXT: Gorillas in
+NP: the Mist
+
+CONTEXT: conference in
+NP: Jakarta
+
+CONTEXT: editor in
+NP: London
+
+CONTEXT: companies
+NP: Union Carbide
+
+CONTEXT: Council on
+NP: Economic Priorities
+
+CONTEXT: founder
+NP: Alice Tepper Marlin
+
+CONTEXT: founder of
+NP: the Council
+
+CONTEXT: president
+NP: G.L. Graves
+
+CONTEXT: leak in
+NP: India
+
+CONTEXT: Secretary of
+NP: Defense William Perry
+
+CONTEXT: northeast of
+NP: Sao Paulo
+
+CONTEXT: spokesman for
+NP: state oil-company Ecopetrol
+
+CONTEXT: attack by
+NP: the National Liberation Army
+
+CONTEXT: Reforma on
+NP: Thursday
+
+CONTEXT: election in
+NP: August
+
+CONTEXT: calls in
+NP: July
+
+CONTEXT: 3 in
+NP: August
+
+CONTEXT: law in
+NP: England
+
+CONTEXT: providing for
+NP: new Parliament
+
+CONTEXT: Mauritius from
+NP: French
+
+CONTEXT: River in
+NP: Germany
+
+CONTEXT: Berlin as
+NP: East Germany
+
+CONTEXT: Surgeons at
+NP: Cape Town , South Africa
+
+CONTEXT: control of
+NP: Laos
+
+CONTEXT: philosopher-poet
+NP: Aaron Ludwig Holberg
+
+CONTEXT: writer
+NP: Joseph Conrad
+
+CONTEXT: director
+NP: Jean-Luc Godard
+
+CONTEXT: soprano
+NP: Phyllis Curtin
+
+CONTEXT: entertainer-singer
+NP: Andy Williams
+
+CONTEXT: singer
+NP: Ozzy Osbourne
+
+CONTEXT: philosopher
+NP: Friedrich Nietzsche
+
+CONTEXT: pipeline near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: midwest region of
+NP: Kansas City
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: vice president
+NP: Yuri Fesenko
+
+CONTEXT: oil into
+NP: the Pechora River
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: pipeline near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: oil into
+NP: the Pechora River
+
+CONTEXT: UCLA president
+NP: David Martin
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: oil into
+NP: the salmon-rich Pechora River
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: spill near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Russia
+
+CONTEXT: commission
+NP: so far
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: oil into
+NP: the salmon-rich Pechora River
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: spill near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: commission
+NP: so far
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: oil into
+NP: the Pechora
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: oil into
+NP: the Pechora
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: disaster in
+NP: Alaska's Prince William Sound
+
+CONTEXT: pipeline near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: oil into
+NP: the Pechora
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: divers in
+NP: the Gulf
+
+CONTEXT: hardware in
+NP: the Gulf
+
+CONTEXT: Kasprzak of
+NP: the state's Department
+
+CONTEXT: planner
+NP: Villere Reggio
+
+CONTEXT: planner for
+NP: the Minerals Management Service
+
+CONTEXT: spill in
+NP: Alaska
+
+CONTEXT: spokesman
+NP: Larry Wall
+
+CONTEXT: spokesman for
+NP: the Louisiana Mid Continent Oil
+
+CONTEXT: group
+NP: Gas Association
+
+CONTEXT: Department of
+NP: Wildlife
+
+CONTEXT: meeting with
+NP: President Boris Yeltsin
+
+CONTEXT: reform in
+NP: Russia
+
+CONTEXT: visit to
+NP: Moscow
+
+CONTEXT: developments in
+NP: Russia
+
+CONTEXT: Talks with
+NP: Yeltsin
+
+CONTEXT: fighting in
+NP: Bosnia
+
+CONTEXT: conflict between
+NP: Armenian
+
+CONTEXT: week at
+NP: the Conference
+
+CONTEXT: night for
+NP: Brussels
+
+CONTEXT: meeting of
+NP: NATO
+
+CONTEXT: wife
+NP: Susana Higuchi
+
+CONTEXT: wife of
+NP: President Alberto Fujimori
+
+CONTEXT: spokesman
+NP: Horacio Rios
+
+CONTEXT: spokesman for
+NP: the Executive Environment Secretariat
+
+CONTEXT: northeast of
+NP: the Chiapas
+
+CONTEXT: capital of
+NP: Tuxtla Gutierrez
+
+CONTEXT: experts to
+NP: Russia
+
+CONTEXT: experts to
+NP: Russia
+
+CONTEXT: gallons
+NP: aground off Puerto Rico
+
+CONTEXT: Ross of
+NP: the Coast Guard Marine Safety Office
+
+CONTEXT: island of
+NP: Antigua
+
+CONTEXT: month
+NP: N.J.
+
+CONTEXT: Ross of
+NP: the Coast Guard Marine Safety Office
+
+CONTEXT: refusing
+NP: Friday
+
+CONTEXT: island of
+NP: Antigua
+
+CONTEXT: officials
+NP: Friday
+
+CONTEXT: island of
+NP: Antigua
+
+CONTEXT: Front for
+NP: the Advancement
+
+CONTEXT: Progress of
+NP: Haiti
+
+CONTEXT: agreement at
+NP: White House
+
+CONTEXT: people in
+NP: Russia's Kuril Islands
+
+CONTEXT: sanctions against
+NP: Serb-led Yugoslavia
+
+CONTEXT: warships to
+NP: the Gulf
+
+CONTEXT: armanda to
+NP: the Gulf
+
+CONTEXT: seals off
+NP: the Gaza Strip
+
+CONTEXT: asylum to
+NP: Haiti's Raoul Cedras
+
+CONTEXT: people
+NP: Algiers
+
+CONTEXT: prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: bullets at
+NP: the White House
+
+CONTEXT: control of
+NP: U.S. Congress
+
+CONTEXT: victories in
+NP: the Pacific
+
+CONTEXT: pressure on
+NP: North Korea
+
+CONTEXT: people in
+NP: Haiti
+
+CONTEXT: Serbs from
+NP: neighboring Croatia shell 2 U.N.
+
+CONTEXT: retaliates for
+NP: repeated Serb
+
+CONTEXT: ablaze in
+NP: northwest Bosnia
+
+CONTEXT: capital of
+NP: Chechnya , Russia
+
+CONTEXT: outskirts of
+NP: Bihac
+
+CONTEXT: House of
+NP: Representatives
+
+CONTEXT: hours after
+NP: Russian President Boris Yeltsin
+
+CONTEXT: leader
+NP: Grand Ayatollah Ali Araki
+
+CONTEXT: leader of
+NP: the world's 100 million Shiite Muslims
+
+CONTEXT: director
+NP: Dan Sheehan
+
+CONTEXT: director of
+NP: the National Pollution Funds Center
+
+CONTEXT: accident between
+NP: the Greek Cypriot oil tanker Atarian Harmany
+
+CONTEXT: regulations for
+NP: the Bosporus
+
+CONTEXT: agreement at
+NP: White House
+
+CONTEXT: people in
+NP: Russia's Kuril Islands
+
+CONTEXT: sanctions against
+NP: Serb-led Yugoslavia
+
+CONTEXT: warships to
+NP: the Gulf
+
+CONTEXT: armanda to
+NP: the Gulf
+
+CONTEXT: seals off
+NP: the Gaza Strip
+
+CONTEXT: asylum to
+NP: Haiti's Raoul Cedras
+
+CONTEXT: people
+NP: Algiers
+
+CONTEXT: prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: bullets at
+NP: the White House
+
+CONTEXT: control of
+NP: U.S. Congress
+
+CONTEXT: victories in
+NP: the Pacific
+
+CONTEXT: pressure on
+NP: North Korea
+
+CONTEXT: downtown
+NP: Kansas City
+
+CONTEXT: people in
+NP: Haiti
+
+CONTEXT: Serbs from
+NP: neighboring Croatia shell 2 U.N.
+
+CONTEXT: retaliates for
+NP: repeated Serb
+
+CONTEXT: ablaze in
+NP: northwest Bosnia
+
+CONTEXT: capital of
+NP: Chechnya
+
+CONTEXT: outskirts of
+NP: Bihac
+
+CONTEXT: House of
+NP: Representatives
+
+CONTEXT: hours after
+NP: Russian President Boris Yeltsin
+
+CONTEXT: leader
+NP: Grand Ayatollah Ali Araki
+
+CONTEXT: leader of
+NP: the world's 100 million Shiite Muslims
+
+CONTEXT: accident between
+NP: the tanker Athenian Harmony
+
+CONTEXT: iron from
+NP: Odessa
+
+CONTEXT: gasoline from
+NP: Italy
+
+CONTEXT: regulations for
+NP: the Bosporus
+
+CONTEXT: Association of
+NP: Independent Tanker Owners
+
+CONTEXT: attorney
+NP: Hugh Bryant
+
+CONTEXT: attorney for
+NP: Shoreline
+
+CONTEXT: university president
+NP: David Martin
+
+CONTEXT: managing
+NP: Darby Duryea
+
+CONTEXT: analyst
+NP: Peter Beutel
+
+CONTEXT: president of
+NP: trading firm Cameron Hanover
+
+CONTEXT: spokesman
+NP: Steve Carpenter
+
+CONTEXT: coverage from
+NP: Shoreline
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: day after
+NP: the Kremlin
+
+CONTEXT: assault on
+NP: Grozny
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: ambassador
+NP: Duma deputy Vladimir Lukin
+
+CONTEXT: ambassador to
+NP: the United Nations
+
+CONTEXT: poll by
+NP: the Independent Analytical Center
+
+CONTEXT: agency
+NP: Fakti
+
+CONTEXT: soldiers to
+NP: Chechnya
+
+CONTEXT: elections in
+NP: Chechnya
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: day after
+NP: the Kremlin
+
+CONTEXT: assault on
+NP: Grozny
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: ambassador
+NP: Duma deputy Vladimir Lukin
+
+CONTEXT: ambassador to
+NP: the United Nations
+
+CONTEXT: poll by
+NP: the Independent Analytical Center
+
+CONTEXT: agency
+NP: Fakti
+
+CONTEXT: soldiers to
+NP: Chechnya
+
+CONTEXT: elections in
+NP: Chechnya
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: poll by
+NP: the Independent Analytical Center
+
+CONTEXT: agency
+NP: Fakti
+
+CONTEXT: soldiers to
+NP: Chechnya
+
+CONTEXT: elections in
+NP: Chechnya
+
+CONTEXT: village on
+NP: the Russians
+
+CONTEXT: road to
+NP: Grozny
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: village on
+NP: the Russians
+
+CONTEXT: road to
+NP: Grozny
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: village on
+NP: the Russians
+
+CONTEXT: road to
+NP: Grozny
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: cigarettes
+NP: Aiman Magometova
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: cigarettes
+NP: Aiman Magometova
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: crisis in
+NP: Russia
+
+CONTEXT: times as
+NP: many Americans
+
+CONTEXT: study by
+NP: the University
+
+CONTEXT: capital of
+NP: Kansas
+
+CONTEXT: grove of
+NP: Wollemi
+
+CONTEXT: plant in
+NP: Iowa
+
+CONTEXT: spill off
+NP: the Gulf
+
+CONTEXT: Athletes of
+NP: the Year
+
+CONTEXT: bonanza in
+NP: Nigeria
+
+CONTEXT: leader in
+NP: Ogboinbiri
+
+CONTEXT: gesturing
+NP: Prince Alabo Degema Azazi
+
+CONTEXT: operations in
+NP: Nigeria
+
+CONTEXT: magazine
+NP: Nigeria PetroBusiness
+
+CONTEXT: spills across
+NP: Nigeria
+
+CONTEXT: well at
+NP: Ogboinbiri
+
+CONTEXT: southeast of
+NP: Lagos
+
+CONTEXT: spill in
+NP: northern Russia
+
+CONTEXT: spill from
+NP: the Exxon Valdez
+
+CONTEXT: disaster in
+NP: Alaska's Prince William Sound
+
+CONTEXT: Wednesday after
+NP: a Hong Kong
+
+CONTEXT: members from
+NP: the 78,443-ton tanker New World
+
+CONTEXT: spokesman
+NP: Carlos Brites Nunes
+
+CONTEXT: southwest of
+NP: Lisbon
+
+CONTEXT: Wednesday after
+NP: a Hong Kong
+
+CONTEXT: members from
+NP: the 78,443-ton tanker New World
+
+CONTEXT: spokesman
+NP: Carlos Brites Nunes
+
+CONTEXT: southwest of
+NP: Lisbon
+
+CONTEXT: object in
+NP: the Mississippi River
+
+CONTEXT: south of
+NP: New Orleans
+
+CONTEXT: targets inside
+NP: Grozny
+
+CONTEXT: leader of
+NP: the Northern League
+
+CONTEXT: mood in
+NP: Rome
+
+CONTEXT: mayor of
+NP: Paris
+
+CONTEXT: Chirac on
+NP: Friday
+
+CONTEXT: homeless of
+NP: Paris
+
+CONTEXT: editor in
+NP: London
+
+CONTEXT: targets inside
+NP: Grozny
+
+CONTEXT: leader of
+NP: the Northern League
+
+CONTEXT: mood in
+NP: Rome
+
+CONTEXT: mayor of
+NP: Paris
+
+CONTEXT: Chirac on
+NP: Friday
+
+CONTEXT: homeless of
+NP: Paris
+
+CONTEXT: editor in
+NP: London
+
+CONTEXT: borders of
+NP: Chechnya
+
+CONTEXT: Konovalov of
+NP: Moscow's USA
+
+CONTEXT: thoughts of
+NP: storming Grozny
+
+CONTEXT: analyst
+NP: Vera Felgengauer
+
+CONTEXT: force in
+NP: Chechnya
+
+CONTEXT: integrity of
+NP: Russia
+
+CONTEXT: regime in
+NP: Grozny
+
+CONTEXT: Interfax on
+NP: Monday
+
+CONTEXT: assault on
+NP: Grozny
+
+CONTEXT: service on
+NP: Monday
+
+CONTEXT: spokesman for
+NP: Shell-Nigeria
+
+CONTEXT: Elizabeth of
+NP: Russia
+
+CONTEXT: Treaty of
+NP: Dardanelles
+
+CONTEXT: Discovery of
+NP: X-Ray
+
+CONTEXT: independence from
+NP: United States
+
+CONTEXT: government of
+NP: Peru
+
+CONTEXT: Benedictos of
+NP: Jerusalem
+
+CONTEXT: spacecraft toward
+NP: Venus
+
+CONTEXT: oil into
+NP: Gulf
+
+CONTEXT: statesman
+NP: Konrad Adenauer
+
+CONTEXT: actor-playwright
+NP: Jean-Pierre Aumont
+
+CONTEXT: president
+NP: Walter Mondale
+
+CONTEXT: actor
+NP: Robert Duvall
+
+CONTEXT: actress
+NP: Diane Keaton
+
+CONTEXT: lady
+NP: Eleanor Roosevelt
+
+CONTEXT: race in
+NP: his white Ford Bronco
+
+CONTEXT: council for
+NP: the City
+
+CONTEXT: commander of
+NP: UN
+
+CONTEXT: helicopter in
+NP: North Korea
+
+CONTEXT: refinery in
+NP: Grozny
+
+CONTEXT: spokesman
+NP: Baudi Tsomayev
+
+CONTEXT: windows across
+NP: Grozny
+
+CONTEXT: standing in
+NP: Freedom Square
+
+CONTEXT: bombing of
+NP: Grozny
+
+CONTEXT: unease in
+NP: Russia
+
+CONTEXT: chief of
+NP: staff Sergei Filatov
+
+CONTEXT: agreement at
+NP: White House
+
+CONTEXT: people in
+NP: Russia's Kuril Islands
+
+CONTEXT: sanctions against
+NP: Serb-led Yugoslavia
+
+CONTEXT: warships to
+NP: the Gulf
+
+CONTEXT: armanda to
+NP: the Gulf
+
+CONTEXT: seals off
+NP: the Gaza Strip
+
+CONTEXT: asylum to
+NP: Haiti's Raoul Cedras
+
+CONTEXT: people
+NP: Algiers
+
+CONTEXT: prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: bullets at
+NP: the White House
+
+CONTEXT: control of
+NP: U.S. Congress
+
+CONTEXT: victories in
+NP: the Pacific
+
+CONTEXT: pressure on
+NP: North Korea
+
+CONTEXT: people in
+NP: Haiti
+
+CONTEXT: Serbs from
+NP: neighboring Croatia shell 2 U.N.
+
+CONTEXT: retaliates for
+NP: repeated Serb
+
+CONTEXT: ablaze in
+NP: northwest Bosnia
+
+CONTEXT: capital of
+NP: Chechnya , Russia
+
+CONTEXT: outskirts of
+NP: Bihac
+
+CONTEXT: House of
+NP: Representatives
+
+CONTEXT: hours after
+NP: Russian President Boris Yeltsin
+
+CONTEXT: leader
+NP: Grand Ayatollah Ali Araki
+
+CONTEXT: leader of
+NP: the world's 100 million Shiite Muslims
+
+CONTEXT: Friday on
+NP: Grozny
+
+CONTEXT: northwest
+NP: Kansas
+
+CONTEXT: spokesman
+NP: Baudi Tsomayev
+
+CONTEXT: windows across
+NP: Grozny
+
+CONTEXT: standing in
+NP: Freedom Square
+
+CONTEXT: unease in
+NP: Russia
+
+CONTEXT: regions of
+NP: the sprawling Russian Federation
+
+CONTEXT: chief of
+NP: staff Sergei Filatov
+
+CONTEXT: he
+NP: Neverthess
+
+CONTEXT: Board of
+NP: Deputies
+
+CONTEXT: explosion outside
+NP: the Israeli Embassy
+
+CONTEXT: installation of
+NP: closed-circuit TV
+
+CONTEXT: group
+NP: Hamas
+
+CONTEXT: militants from
+NP: Hamas
+
+CONTEXT: Prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: summit of
+NP: Arab
+
+CONTEXT: activist in
+NP: Gaza City
+
+CONTEXT: Reopening of
+NP: the Tomb
+
+CONTEXT: Muslims in
+NP: February
+
+CONTEXT: People in
+NP: the Gaza Strip
+
+CONTEXT: town of
+NP: Jericho
+
+CONTEXT: shop
+NP: Hasan Sadr
+
+CONTEXT: member of
+NP: Hamas
+
+CONTEXT: faction
+NP: Fatah
+
+CONTEXT: faction in
+NP: the Palestine Liberation Organization
+
+CONTEXT: group
+NP: Betselem
+
+CONTEXT: practice in
+NP: the Central Command
+
+CONTEXT: name for
+NP: the West Bank
+
+CONTEXT: reputation for
+NP: insulting Arabs
+
+CONTEXT: knife near
+NP: Tamimi
+
+CONTEXT: command
+NP: Sunday
+
+CONTEXT: Hezbollah in
+NP: southern Lebanon
+
+CONTEXT: Peres on
+NP: Monday
+
+CONTEXT: territory in
+NP: the Golan Heights
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: peace with
+NP: Israel
+
+CONTEXT: problem with
+NP: the Syrians
+
+CONTEXT: negotiations with
+NP: Syria
+
+CONTEXT: area of
+NP: Jericho
+
+CONTEXT: billion to
+NP: the PLO
+
+CONTEXT: settlements in
+NP: the Gaza Strip
+
+CONTEXT: Hussein of
+NP: Jordan
+
+CONTEXT: university president
+NP: David Martin
+
+CONTEXT: Secretary of
+NP: State Christopher
+
+CONTEXT: meeting of
+NP: Israeli
+
+CONTEXT: figures in
+NP: Casablanca , Morocco
+
+CONTEXT: force
+NP: Peres
+
+CONTEXT: aid to
+NP: Israel
+
+CONTEXT: chairman of
+NP: the Senate Foreign Relations Committee
+
+CONTEXT: facilities after
+NP: Israel
+
+CONTEXT: luxuries in
+NP: the United States
+
+CONTEXT: Peres on
+NP: Monday
+
+CONTEXT: territory in
+NP: the Golan Heights
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: peace with
+NP: Israel
+
+CONTEXT: problem with
+NP: the Syrians
+
+CONTEXT: negotiations with
+NP: Syria
+
+CONTEXT: area of
+NP: Jericho
+
+CONTEXT: billion to
+NP: the PLO
+
+CONTEXT: settlements in
+NP: the Gaza Strip
+
+CONTEXT: Hussein of
+NP: Jordan
+
+CONTEXT: Secretary of
+NP: State Christopher
+
+CONTEXT: meeting of
+NP: Israeli
+
+CONTEXT: figures in
+NP: Casablanca , Morocco
+
+CONTEXT: force
+NP: Peres
+
+CONTEXT: aid to
+NP: Israel
+
+CONTEXT: chairman of
+NP: the Senate Foreign Relations Committee
+
+CONTEXT: facilities after
+NP: Israel
+
+CONTEXT: luxuries in
+NP: the United States
+
+CONTEXT: People in
+NP: the Gaza Strip
+
+CONTEXT: town of
+NP: Jericho
+
+CONTEXT: head of research
+NP: David Kansas
+
+CONTEXT: shop
+NP: Hasan Sadr
+
+CONTEXT: member of
+NP: Hamas
+
+CONTEXT: faction
+NP: Fatah
+
+CONTEXT: faction in
+NP: the Palestine Liberation Organization
+
+CONTEXT: group
+NP: Betselem
+
+CONTEXT: practice in
+NP: the Central Command
+
+CONTEXT: name for
+NP: the West Bank
+
+CONTEXT: reputation for
+NP: insulting Arabs
+
+CONTEXT: knife near
+NP: Tamimi
+
+CONTEXT: member of
+NP: the terrorist Red Army Faction
+
+CONTEXT: member of
+NP: the left-wing Red Army Faction
+
+CONTEXT: murder of
+NP: U.S. Army Spc
+
+CONTEXT: Pimental of
+NP: New York
+
+CONTEXT: attacks in
+NP: Berlin
+
+CONTEXT: murder of
+NP: Libyan dissident Mustafa Ashek
+
+CONTEXT: charges in
+NP: Lebanon
+
+CONTEXT: butcher
+NP: Chreidi
+
+CONTEXT: spokesman
+NP: Vilius Kavaliauskas
+
+CONTEXT: father
+NP: Georgy Dekanidze
+
+CONTEXT: station
+NP: Litpollinter
+
+CONTEXT: station in
+NP: Lithuania
+
+CONTEXT: head
+NP: Povilas Vaisnys
+
+CONTEXT: head of
+NP: the State Nuclear Safety Inspection Committee
+
+CONTEXT: spokesman
+NP: Vilius Kavaliauskas
+
+CONTEXT: father
+NP: Georgy Dekanidze
+
+CONTEXT: station
+NP: Litpollinter
+
+CONTEXT: station in
+NP: Lithuania
+
+CONTEXT: head
+NP: Povilas Vaisnys
+
+CONTEXT: head of
+NP: the State Nuclear Safety Inspection Committee
+
+CONTEXT: authorities in
+NP: Lithuania
+
+CONTEXT: threats in
+NP: Lithuania
+
+CONTEXT: suspect in
+NP: Sweden
+
+CONTEXT: separation from
+NP: the Palestinians
+
+CONTEXT: head
+NP: Joseph Alpher
+
+CONTEXT: head of
+NP: Tel Aviv University's Jaffee Center
+
+CONTEXT: most of
+NP: the West Bank
+
+CONTEXT: treaty with
+NP: Jordan
+
+CONTEXT: Friday in
+NP: the Gaza Strip
+
+CONTEXT: working in
+NP: Israel
+
+CONTEXT: it for
+NP: Israel
+
+CONTEXT: enemies in
+NP: Lebanon
+
+CONTEXT: editor
+NP: Ephraim Kam
+
+CONTEXT: separation from
+NP: the Palestinians
+
+CONTEXT: head
+NP: Joseph Alpher
+
+CONTEXT: head of
+NP: Tel Aviv University's Jaffee Center
+
+CONTEXT: most of
+NP: the West Bank
+
+CONTEXT: treaty with
+NP: Jordan
+
+CONTEXT: Friday in
+NP: the Gaza Strip
+
+CONTEXT: working in
+NP: Israel
+
+CONTEXT: it for
+NP: Israel
+
+CONTEXT: enemies in
+NP: Lebanon
+
+CONTEXT: editor
+NP: Ephraim Kam
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: chairman
+NP: David Kostoyev
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: IBM chairman
+NP: Yuri Kostoyev
+
+CONTEXT: Authorities on
+NP: Wednesday
+
+CONTEXT: authorities in
+NP: Lithuania
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: chairman
+NP: Isa Kostoyev
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: chairman
+NP: Isa Kostoyev
+
+CONTEXT: mistreatment of
+NP: Palestinians
+
+CONTEXT: testimonies from
+NP: 9 former Palestinian
+
+CONTEXT: journalist from
+NP: east Jerusalem
+
+CONTEXT: 6 of
+NP: the Palestinians
+
+CONTEXT: author
+NP: Yuval Ginbar
+
+CONTEXT: ourselves
+NP: We
+
+CONTEXT: torture by
+NP: the Shin Bet
+
+CONTEXT: high-population region
+NP: Tokyo
+
+CONTEXT: Japanese capital
+NP: Tokyo
+
+CONTEXT: aerospace company
+NP: Lockheed Corp
+
+CONTEXT: aerospace organization
+NP: Boeing Inc
+
+CONTEXT: Bank of
+NP: Tokyo
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: bombing in
+NP: Tel Aviv
+
+CONTEXT: site
+NP: Karachi
+
+CONTEXT: region within
+NP: Turkey
+
+CONTEXT: fifty
+NP: World War II
+
+CONTEXT: bridge in
+NP: Seoul
+
+CONTEXT: southwest region
+NP: Arizona City
+
+CONTEXT: former president
+NP: John F. Kennedy
+
+CONTEXT: sites in
+NP: North Korea
+
+CONTEXT: attack on
+NP: northern Israel
+
+CONTEXT: area of
+NP: northern India
+
+CONTEXT: map
+NP: West Bank
+
+CONTEXT: capital
+NP: New York City
+
+CONTEXT: Profile of
+NP: Islamic terrorist group Hamas
+
+CONTEXT: bombing in
+NP: Tel Aviv
+
+CONTEXT: bombing in
+NP: northern Russian
+
+CONTEXT: site
+NP: Karachi
+
+CONTEXT: region within
+NP: Turkey
+
+CONTEXT: fifty
+NP: World War II
+
+CONTEXT: living in
+NP: Nimes , France
+
+CONTEXT: intervention in
+NP: the former Yugoslavia
+
+CONTEXT: pictures of
+NP: Walter
+
+CONTEXT: leader
+NP: Junzo Okudaira
+
+CONTEXT: bombing in
+NP: Jerusalem
+
+CONTEXT: years after
+NP: its Islamic revolution , Iran
+
+CONTEXT: statesmen
+NP: the West
+
+CONTEXT: troops from
+NP: South Korea
+
+CONTEXT: controllers of
+NP: the American Congress
+
+CONTEXT: assets for
+NP: the U.S.
+
+CONTEXT: bombing in
+NP: Jerusalem
+
+CONTEXT: head of Microsoft
+NP: David Johnson
+
+CONTEXT: years after
+NP: its Islamic revolution , Iran
+
+CONTEXT: statesmen
+NP: the West
+
+CONTEXT: area near
+NP: South Korea
+
+CONTEXT: merger of
+NP: Morgan Stanley
+
+CONTEXT: controllers of
+NP: the American Congress
+
+CONTEXT: assets for
+NP: the U.S.
+
+CONTEXT: Dialogue with
+NP: the FIS
+
+CONTEXT: meeting between
+NP: the FIS
+
+CONTEXT: war in
+NP: Algeria
+
+CONTEXT: bombing of
+NP: company headquarters
+
+CONTEXT: the president
+NP: Mary Smith
+
+CONTEXT: merger of
+NP: IBM Corp.
+
+CONTEXT: heroes of
+NP: Chechnya
+
+CONTEXT: president
+NP: so far
+
+CONTEXT: security of
+NP: the White House
+
+CONTEXT: Bank of
+NP: America
+
+CONTEXT: information analyst
+NP: Morgan Stanley
+
+CONTEXT: accounting analyst
+NP: IBM Corp
+
+CONTEXT: headquarters for
+NP: Apple Corp
+
+CONTEXT: region around
+NP: Tokyo
+
+CONTEXT: Premier Bank
+NP: New York Commodities
+
+CONTEXT: software company
+NP: Adobe Ltd
+
+CONTEXT: CEO
+NP: John Johnson
+
+CONTEXT: CEO
+NP: Bank president Vera Smith
+
+CONTEXT: software company
+NP: Deltagraph Ltd
+
+CONTEXT: club president
+NP: Mary Johnson
+
+CONTEXT: friendly neighbor
+NP: David Smith
+
+CONTEXT: City University of New York president
+NP: Felgengauer
+
+CONTEXT: union president
+NP: Alexander Fesenko
+
+CONTEXT: shares of
+NP: Salt Lake City Industries
+
+CONTEXT: air force reserves
+NP: Tokyo Air Platoon
+
+CONTEXT: capital assets of
+NP: Lockheed Martin
+
+CONTEXT: the president
+NP: Mary Smith
+
+CONTEXT: software company
+NP: Microsoft Corp
+
+CONTEXT: northwest region
+NP: Portland City
+
+CONTEXT: acquisition of
+NP: Felgengauer Industries Corp
+
+CONTEXT: merger with
+NP: IBM Corp
+
+CONTEXT: coach David Smith of
+NP: Kansas City Royals
+
+CONTEXT: school president
+NP: John Johnson
+
+CONTEXT: capital of
+NP: Jefferson City
+
+CONTEXT: Bank of
+NP: Kansas City
+
+CONTEXT: computer firm
+NP: Tetronix Corp
+
+CONTEXT: Bank president
+NP: David Jones
+
+CONTEXT: metropolitan area in
+NP: United States
+
+CONTEXT: issuance of
+NP: IBM Corp.
+
+CONTEXT: Bank president
+NP: Chris Williams
+
+CONTEXT: subsidiary of
+NP: IBM Inc
+
+CONTEXT: merger with
+NP: Alcan Corp
+
+CONTEXT: shares of
+NP: Capital Food Services Ltd
+
+CONTEXT: shares of
+NP: Alcan New Zealand Ltd
+
+CONTEXT: remainder of
+NP: Alcan New Zealand
+
+CONTEXT: vice president
+NP: Mary Smith
+
+CONTEXT: chairman
+NP: Chris Jones
+
+CONTEXT: merger with
+NP: Alcon Ltd
+
+CONTEXT: vice president
+NP: Yuri Fesenko
+
+CONTEXT: Corp of
+NP: Japan
+
+CONTEXT: war in
+NP: Bosnia
+
+CONTEXT: contract with
+NP: IBM
+
+CONTEXT: war in
+NP: Vietnam
+
+CONTEXT: new vice president
+NP: Yuri Fesenko
+
+CONTEXT: bid for
+NP: Alcon Inc.
+
+CONTEXT: bid for
+NP: IBM
+
+CONTEXT: shares in
+NP: Hillards Plc
+
+CONTEXT: bid for
+NP: Hillards
+
+CONTEXT: move by
+NP: the Knut
+
+CONTEXT: one
+NP: Alice Wallenberg Foundation
+
+CONTEXT: approval from
+NP: the Maine Bureau
+
+CONTEXT: prospectus in
+NP: Canada
+
+CONTEXT: capital
+NP: Jefferson City
+
+CONTEXT: company
+NP: Bowcan Holdings Inc
+
+CONTEXT: Trust of
+NP: Montreal
+
+CONTEXT: brokerage
+NP: Oppenheimer
+
+CONTEXT: subsidiary of
+NP: Oppenheimer Group Inc
+
+CONTEXT: shares of
+NP: Cyclops Corp
+
+CONTEXT: plant in
+NP: Seattle
+
+CONTEXT: stake in
+NP: Quaker State Oil Refining Corp
+
+CONTEXT: Inc of
+NP: Pompano Beach
+
+CONTEXT: Corp of
+NP: South Africa
+
+CONTEXT: elections in
+NP: South Africa
+
+CONTEXT: acquisition of
+NP: Portsmouth Savings Bank
+
+CONTEXT: business of
+NP: Monsanto Co
+
+CONTEXT: merger with
+NP: IBM
+
+CONTEXT: printer
+NP: Atwell Fleming Printing Ltd
+
+CONTEXT: offer with
+NP: Gencorp
+
+CONTEXT: McKibbin of
+NP: A.C. Goode
+
+CONTEXT: it to
+NP: Exxon Corp unit Esso Exploration
+
+CONTEXT: year from
+NP: the Cooper Basin
+
+CONTEXT: Goldston-Morris of
+NP: Sydney broker Bain
+
+CONTEXT: back to
+NP: the Americans
+
+CONTEXT: Evans of
+NP: Sydney broker Meares
+
+CONTEXT: stake in
+NP: Australia
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: offer of
+NP: CSR
+
+CONTEXT: management of
+NP: Pioneer Sugar
+
+CONTEXT: poultry
+NP: Thies Cos Inc
+
+CONTEXT: firms in
+NP: the U.S.
+
+CONTEXT: shares of
+NP: NECO Enterprises Inc
+
+CONTEXT: investor
+NP: R.I.
+
+CONTEXT: KGaA of
+NP: Dusseldorf , West Germany
+
+CONTEXT: acquisition of
+NP: the Process Chemicals Division
+
+CONTEXT: integration of
+NP: AirCal
+
+CONTEXT: merger with
+NP: AirCal
+
+CONTEXT: approval from
+NP: the Department
+
+CONTEXT: coordinator
+NP: Richard D. Pearson
+
+CONTEXT: officer of
+NP: AirCal
+
+CONTEXT: agreement with
+NP: Alza Corp
+
+CONTEXT: acquisition of
+NP: Sovereign Corp
+
+CONTEXT: share of
+NP: Chubb
+
+CONTEXT: stock
+NP: Yesterday
+
+CONTEXT: agreement with
+NP: Pizza Inn Acquiring Corp
+
+CONTEXT: assets of
+NP: its subsidiary Greene Dental Products Inc
+
+CONTEXT: area
+NP: Fla.
+
+CONTEXT: subsidiary of
+NP: the E.W. Scripps Co
+
+CONTEXT: business as
+NP: Scripps Howard
+
+CONTEXT: business in
+NP: Japan
+
+CONTEXT: affiliate
+NP: Koba Electronics Co Ltd
+
+CONTEXT: affiliate of
+NP: Lifetime
+
+CONTEXT: officer
+NP: Ohta Shoji
+
+CONTEXT: officer of
+NP: Toho Mutual Life Insurance Co
+
+CONTEXT: shareholder in
+NP: Nippon Lace
+
+CONTEXT: Trust of
+NP: Zurich
+
+CONTEXT: gambling capital
+NP: Sin City
+
+CONTEXT: pct of
+NP: Lucht
+
+CONTEXT: brokerage
+NP: Oppenheimer
+
+CONTEXT: subsidiary of
+NP: Oppenheimer Group Inc
+
+CONTEXT: stake of
+NP: Cyclops Corp Oppenheimer
+
+CONTEXT: subsidiary
+NP: SIAF
+
+CONTEXT: subsidiary of
+NP: Swedish
+
+CONTEXT: purchase of
+NP: Georgia International Life Insurance Co
+
+CONTEXT: statement with
+NP: the Securities
+
+CONTEXT: parent
+NP: First National Bank Corp
+
+CONTEXT: parent of
+NP: First National Bank
+
+CONTEXT: branch in
+NP: Clinton Township
+
+CONTEXT: merger with
+NP: Medicontrol Corp
+
+CONTEXT: investment by
+NP: Monsanto Co's G.D. Searle
+
+CONTEXT: pursuant to
+NP: an option Searle
+
+CONTEXT: stake in
+NP: Medicontrol
+
+CONTEXT: acquisition of
+NP: Johnson Matthey Commodities
+
+CONTEXT: unit of
+NP: the Bank
+
+CONTEXT: president
+NP: Arkadi Kuhlmann
+
+CONTEXT: capital city
+NP: Tokyo
+
+CONTEXT: officer of
+NP: Deak International
+
+CONTEXT: acquisition of
+NP: Johnson Commodities
+
+CONTEXT: unit of
+NP: the Bank
+
+CONTEXT: aerospace company
+NP: Lockheed Martin Corp
+
+CONTEXT: president
+NP: Arkadi Kuhlmann
+
+CONTEXT: officer of
+NP: Deak
+
+CONTEXT: shares of
+NP: Nucell Inc
+
+CONTEXT: acquisition of
+NP: 4 suburban Chicago
+
+CONTEXT: Bank of
+NP: North Evanston
+
+CONTEXT: Bank of
+NP: Schiller Park
+
+CONTEXT: Bank in
+NP: Melrose Park
+
+CONTEXT: acquisition of
+NP: substantially all Eastern Gas
+
+CONTEXT: operations near
+NP: Palisade
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: assets of
+NP: Standard Aero Inc
+
+CONTEXT: facility in
+NP: Phoenix
+
+CONTEXT: plan as
+NP: Dynair Tech Inc
+
+CONTEXT: company
+NP: Consolidated Brazilian Mines International Inc
+
+CONTEXT: properties in
+NP: Brazil
+
+CONTEXT: company
+NP: Diamazon
+
+CONTEXT: acquisition of
+NP: Aslaminas Aslambeck Mining Corp
+
+CONTEXT: concern
+NP: Brazil
+
+CONTEXT: company
+NP: Consolidated Brazilian Mines International Inc
+
+CONTEXT: properties in
+NP: Brazil
+
+CONTEXT: company
+NP: Diamazon
+
+CONTEXT: acquisition of
+NP: Aslaminas Aslambeck Mining Corp
+
+CONTEXT: concern
+NP: Brazil
+
+CONTEXT: producer
+NP: Peabody
+
+CONTEXT: producer in
+NP: the U.S.
+
+CONTEXT: ownership in
+NP: Peabody
+
+CONTEXT: buyout by
+NP: AQ Corp
+
+CONTEXT: pct of
+NP: Aloha
+
+CONTEXT: pct of
+NP: Aloha
+
+CONTEXT: sale of
+NP: its South African subsidiary Robertsons Pty Ltd
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: Association of
+NP: Fort Myers
+
+CONTEXT: merger with
+NP: Microsoft and Vernitron Corp
+
+CONTEXT: Association of
+NP: Sarasota
+
+CONTEXT: wholly
+NP: Elizabeth Arden Inc
+
+CONTEXT: materials with
+NP: the Securities
+
+CONTEXT: pct of
+NP: Vernitron
+
+CONTEXT: meeting in
+NP: June
+
+CONTEXT: pct of
+NP: Vernitron
+
+CONTEXT: acquisition of
+NP: Unitek Corp
+
+CONTEXT: pct by
+NP: Metallgesellschaft AG
+
+CONTEXT: each by
+NP: MIM
+
+CONTEXT: farming region
+NP: Kansas City
+
+CONTEXT: offshoot
+NP: Skandia International Holding AB
+
+CONTEXT: offshoot of
+NP: Swedish insurance group Forsakrings AB Skandia
+
+CONTEXT: Division of
+NP: Page-Wilson Corp
+
+CONTEXT: bid for
+NP: GenCorp Inc
+
+CONTEXT: officer of
+NP: GenCorp
+
+CONTEXT: interest in
+NP: Aerojet General
+
+CONTEXT: business of
+NP: GenCorp
+
+CONTEXT: operations in
+NP: the Midwest
+
+CONTEXT: partnership
+NP: L.P.
+
+CONTEXT: stake in
+NP: Bell Industries Inc
+
+CONTEXT: Division to
+NP: the newly formed Wisconsin Central Ltd
+
+CONTEXT: partnership
+NP: Pincus Capital Co L.P.
+
+CONTEXT: representatives of
+NP: Symbion Inc
+
+CONTEXT: sale of
+NP: its Consumer Packaging Division
+
+CONTEXT: investor
+NP: Arthur Appleton
+
+CONTEXT: president
+NP: William Wang
+
+CONTEXT: shares of
+NP: Sage Drilling Inc
+
+CONTEXT: agreement with
+NP: Swiss Reinsurance Co
+
+CONTEXT: Association of
+NP: Brooksville
+
+CONTEXT: company
+NP: last August
+
+CONTEXT: talks with
+NP: Regal International Inc
+
+CONTEXT: subsidiary of
+NP: Regal
+
+CONTEXT: sale of
+NP: WOR-TV
+
+CONTEXT: Metalicos of
+NP: Spain
+
+CONTEXT: yesterday by
+NP: Union Carbide France
+
+CONTEXT: subsidiary of
+NP: the U.S. Chemical giant Union Carbide Corp
+
+CONTEXT: developer
+NP: Leonard Chavin
+
+CONTEXT: control of
+NP: L.E. Myers Co Group
+
+CONTEXT: control of
+NP: Myers
+
+CONTEXT: Bank of
+NP: Buckhannon
+
+CONTEXT: maker
+NP: American Standard Inc
+
+CONTEXT: plant in
+NP: Vietnam
+
+CONTEXT: earthquake region
+NP: Tokyo
+
+CONTEXT: Committee for
+NP: Cooperation
+
+CONTEXT: agency
+NP: Investment
+
+CONTEXT: director
+NP: Ngo Van Diem
+
+CONTEXT: north of
+NP: Ho Chi Minh City
+
+CONTEXT: embargo against
+NP: Vietnam
+
+CONTEXT: venture between
+NP: the state-owned Qatar General Petroleum Co
+
+CONTEXT: Total of
+NP: France
+
+CONTEXT: Secretary of
+NP: Commerce Ronald H.
+
+CONTEXT: leaders on
+NP: U.S.
+
+CONTEXT: projects in
+NP: Malaysia
+
+CONTEXT: agreement with
+NP: Projek Penyelenggaraan Lebuhraya Bhd
+
+CONTEXT: delegation of
+NP: U.S. Senators
+
+CONTEXT: Conference in
+NP: Penang
+
+CONTEXT: Mohamad of
+NP: Malaysia
+
+CONTEXT: minister
+NP: Saleh Afiff
+
+CONTEXT: bank
+NP: Maybank
+
+CONTEXT: subsidiary of
+NP: New York
+
+CONTEXT: maker
+NP: Fujitsu
+
+CONTEXT: Mohamad of
+NP: Malaysia
+
+CONTEXT: minister
+NP: Saleh Afiff
+
+CONTEXT: bank
+NP: Maybank
+
+CONTEXT: million in
+NP: China
+
+CONTEXT: house
+NP: Itochu Corp
+
+CONTEXT: capital by
+NP: Iowa City River
+
+CONTEXT: business in
+NP: Japan
+
+CONTEXT: infusion to
+NP: Chofu Cable Television
+
+CONTEXT: media in
+NP: the United States
+
+CONTEXT: company
+NP: both US West
+
+CONTEXT: ventures in
+NP: Mexico
+
+CONTEXT: opening of
+NP: Mexico
+
+CONTEXT: partner
+NP: Larry Katzen
+
+CONTEXT: merger with
+NP: Rolex Ltd
+
+CONTEXT: partner of
+NP: Arthur Andersen
+
+CONTEXT: springboard into
+NP: South America
+
+CONTEXT: one of
+NP: its U.S.
+
+CONTEXT: spokesman
+NP: Lonnie Fogel
+
+CONTEXT: spokesman for
+NP: Home Depot Inc
+
+CONTEXT: clothes in
+NP: Aoyama
+
+CONTEXT: customers in
+NP: Mexico
+
+CONTEXT: options in
+NP: Mexico
+
+CONTEXT: Homeowners in
+NP: Mexico
+
+CONTEXT: Co of
+NP: the United States
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: business in
+NP: China
+
+CONTEXT: closure of
+NP: Champaign
+
+CONTEXT: niece of
+NP: senior leader Deng Xiaoping
+
+CONTEXT: proceedings at
+NP: the Shenzhen Intermediate People's Court
+
+CONTEXT: Corp of
+NP: Australia
+
+CONTEXT: representatives to
+NP: Cuba
+
+CONTEXT: investment in
+NP: Cuba
+
+CONTEXT: pace in
+NP: Cuba
+
+CONTEXT: stake in
+NP: the U.S. biotech company Chiron Corp
+
+CONTEXT: talks with
+NP: Chiron
+
+CONTEXT: stake to
+NP: Ciba-Geigy
+
+CONTEXT: shares in
+NP: The Biocene Co
+
+CONTEXT: division in
+NP: Ardsley
+
+CONTEXT: fees in
+NP: Australia
+
+CONTEXT: evidence against
+NP: Peng
+
+CONTEXT: one from
+NP: The Associated Press
+
+CONTEXT: snaps of
+NP: Peng
+
+CONTEXT: venture
+NP: establishing Champaign
+
+CONTEXT: prosecutors
+NP: This July
+
+CONTEXT: stake in
+NP: 1838 Investment Advisors
+
+CONTEXT: subsidiary
+NP: MeesPierson
+
+CONTEXT: subsidiary of
+NP: the Netherlands
+
+CONTEXT: Bank
+NP: Japan
+
+CONTEXT: stake in
+NP: 1838 Investment Advisors
+
+CONTEXT: managers in
+NP: Philadelphia
+
+CONTEXT: activities under
+NP: the name MeesPierson 1838 Investment Advisors
+
+CONTEXT: Asia via
+NP: MeesPierson
+
+CONTEXT: fees in
+NP: Australia
+
+CONTEXT: evidence against
+NP: Peng
+
+CONTEXT: officials from
+NP: nearby Canton
+
+CONTEXT: one from
+NP: The Associated Press
+
+CONTEXT: snaps of
+NP: Peng
+
+CONTEXT: venture
+NP: establishing Champaign
+
+CONTEXT: sale of
+NP: UCAR
+
+CONTEXT: interest in
+NP: UCAR
+
+CONTEXT: interest in
+NP: UCAR
+
+CONTEXT: role in
+NP: Vietnam
+
+CONTEXT: ceremony in
+NP: Hanoi's Defense Ministry Guest House
+
+CONTEXT: capital city
+NP: Tokyo
+
+CONTEXT: day after
+NP: Canada
+
+CONTEXT: Wednesday with
+NP: the Vietnam Oil
+
+CONTEXT: president
+NP: Bernard Isautier
+
+CONTEXT: complex in
+NP: Ho Chi Minh City
+
+CONTEXT: president
+NP: Vera Chang
+
+CONTEXT: office in
+NP: Ho Chi Minh City
+
+CONTEXT: million in
+NP: Vietnam
+
+CONTEXT: venture of
+NP: Paramount
+
+CONTEXT: films outside
+NP: the United States
+
+CONTEXT: unit of
+NP: Japan's Matsushita Electrical Industrial Co Ltd
+
+CONTEXT: agency
+NP: the European Commission
+
+CONTEXT: role in
+NP: Vietnam
+
+CONTEXT: ceremony in
+NP: Hanoi's Defense Ministry Guest House
+
+CONTEXT: day after
+NP: Canada
+
+CONTEXT: policy in
+NP: Vietnam
+
+CONTEXT: Wednesday with
+NP: the Vietnam Oil
+
+CONTEXT: president
+NP: Bernard Isautier
+
+CONTEXT: complex in
+NP: Ho Chi Minh City
+
+CONTEXT: office in
+NP: Ho Chi Minh City
+
+CONTEXT: crime area
+NP: Kansas City
+
+CONTEXT: million in
+NP: Vietnam
+
+CONTEXT: Baynes of
+NP: Singapore-based F
+
+CONTEXT: percent of
+NP: F
+
+CONTEXT: giant
+NP: Ltd
+
+CONTEXT: beverages in
+NP: Ho Chi Minh City
+
+CONTEXT: venture with
+NP: the state-owned Chuong Duong Soft Drink Co
+
+CONTEXT: cornbelt region
+NP: Kansas
+
+CONTEXT: Committee for
+NP: Cooperation
+
+CONTEXT: agreement with
+NP: Pacific Beverage
+
+CONTEXT: Co of
+NP: Canada
+
+CONTEXT: role in
+NP: Vietnam
+
+CONTEXT: ceremony in
+NP: Hanoi's Defense Ministry Guest House
+
+CONTEXT: day after
+NP: Canada
+
+CONTEXT: policy in
+NP: Vietnam
+
+CONTEXT: Wednesday with
+NP: the Vietnam Oil
+
+CONTEXT: president
+NP: Bernard Isautier
+
+CONTEXT: complex in
+NP: Ho Chi Minh City
+
+CONTEXT: office in
+NP: Ho Chi Minh City
+
+CONTEXT: million in
+NP: Vietnam
+
+CONTEXT: chairman
+NP: C. Hughes
+
+CONTEXT: chairman of
+NP: the Doctrine Committee
+
+CONTEXT: 80,000 to
+NP: the Secretariat
+
+CONTEXT: hospitals in
+NP: the United States
+
+CONTEXT: Directives for
+NP: Catholic Health Care Services
+
+CONTEXT: sponsor of
+NP: the Oregon
+
+CONTEXT: Lepetit of
+NP: Italy
+
+CONTEXT: venture of
+NP: Dow
+
+CONTEXT: judge in
+NP: Alabama
+
+CONTEXT: chairman
+NP: David Kansas
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: investment in
+NP: Burma
+
+CONTEXT: Light of
+NP: Myanmar
+
+CONTEXT: Corp of
+NP: Indonesia
+
+CONTEXT: building from
+NP: the Ministry
+
+CONTEXT: billion into
+NP: Burma
+
+CONTEXT: partnership with
+NP: Chiron Corp
+
+CONTEXT: shares in
+NP: Chiron
+
+CONTEXT: relationship between
+NP: Chiron
+
+CONTEXT: chairman
+NP: William Rutter
+
+CONTEXT: chairman of
+NP: Chiron
+
+CONTEXT: growing region
+NP: Kansas City
+
+CONTEXT: chairman
+NP: Alex Krauer
+
+CONTEXT: metropolitan region
+NP: Kansas City
+
+CONTEXT: executive of
+NP: Ciba-Geigy
+
+CONTEXT: agreement between
+NP: GE Marine
+
+CONTEXT: Motors of
+NP: Rybinsk , Russia
+
+CONTEXT: parts at
+NP: Rybinsk
+
+CONTEXT: venture of
+NP: General Electric
+
+CONTEXT: Bureau in
+NP: Perm , Russia
+
+CONTEXT: percent in
+NP: Europe
+
+CONTEXT: percent in
+NP: the Western Hemisphere
+
+CONTEXT: groups
+NP: Heinz
+
+CONTEXT: Carnation in
+NP: the United States
+
+CONTEXT: Rowntree in
+NP: Britain
+
+CONTEXT: Buitoni in
+NP: Italy
+
+CONTEXT: Perrier in
+NP: France
+
+CONTEXT: percent in
+NP: Latin America
+
+CONTEXT: percent in
+NP: the United States
+
+CONTEXT: percent in
+NP: Europe
+
+CONTEXT: venture with
+NP: General Mills
+
+CONTEXT: business in
+NP: Europe
+
+CONTEXT: arrangement with
+NP: Coca-Cola
+
+CONTEXT: Petfoods of
+NP: the United States
+
+CONTEXT: report by
+NP: the Xinhua News Agency
+
+CONTEXT: cabinet
+NP: The State Council
+
+CONTEXT: venture
+NP: Dragages-Penta
+
+CONTEXT: airport with
+NP: downtown Hong Kong
+
+CONTEXT: sovereignty over
+NP: Hong Kong
+
+CONTEXT: wife of
+NP: Vo Nguyen Giap
+
+CONTEXT: offensive against
+NP: U.S.
+
+CONTEXT: company
+NP: Burton Engineering
+
+CONTEXT: venture with
+NP: the Hanoi Construction Co
+
+CONTEXT: operations in
+NP: South Africa
+
+CONTEXT: stake in
+NP: South African Motor Corp
+
+CONTEXT: Officials of
+NP: Ford
+
+CONTEXT: Bank of
+NP: David
+
+CONTEXT: products into
+NP: Samcor
+
+CONTEXT: partners in
+NP: Samcor
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: subsidiary
+NP: Ford South Africa
+
+CONTEXT: subsidiary of
+NP: Ford Canada
+
+CONTEXT: products into
+NP: South African Motor Corp Ltd
+
+CONTEXT: election in
+NP: April
+
+CONTEXT: company
+NP: Anglo American Industrial Corp Ltd
+
+CONTEXT: company for
+NP: Samcor
+
+CONTEXT: stake in
+NP: Samcor
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: subsidiary
+NP: Ford South Africa
+
+CONTEXT: subsidiary of
+NP: Ford Canada
+
+CONTEXT: automaker behind
+NP: General Motors Corp
+
+CONTEXT: elections in
+NP: Bosnia
+
+CONTEXT: arrival in
+NP: Moscow
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: connections with
+NP: the Bosnian Serbs
+
+CONTEXT: troops from
+NP: the former Yugoslavia
+
+CONTEXT: pocket in
+NP: northwest Bosnia
+
+CONTEXT: 1,200 in
+NP: Croatia
+
+CONTEXT: 800 in
+NP: Bosnia
+
+CONTEXT: today with
+NP: Russian Foreign Minister Andrei Kozyrev
+
+CONTEXT: place at
+NP: the Council
+
+CONTEXT: Stevenson-Young of
+NP: the U.S.
+
+CONTEXT: Council in
+NP: Beijing
+
+CONTEXT: Avenue of
+NP: Eternal Peace
+
+CONTEXT: director
+NP: Bob Broadfoot
+
+CONTEXT: director of
+NP: the Economic and Political Risk Consultancy
+
+CONTEXT: tax in
+NP: January
+
+CONTEXT: Ministry of
+NP: Finance
+
+CONTEXT: Corp on
+NP: the London Metals Exchange
+
+CONTEXT: business in
+NP: southern Guangdong
+
+CONTEXT: areas in
+NP: the Russian Far East
+
+CONTEXT: dispute over
+NP: the Southern Kurils
+
+CONTEXT: invitation from
+NP: Yeltsin
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: body to
+NP: President Clinton
+
+CONTEXT: official of
+NP: the Ministry
+
+CONTEXT: partnership with
+NP: Itochu Corp
+
+CONTEXT: kimono in
+NP: China's Guangdong Province
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: dollars to
+NP: Japanese-Dutch joint venture Philips Matsushita Poland S.A.
+
+CONTEXT: batteries in
+NP: Poland
+
+CONTEXT: company in
+NP: China
+
+CONTEXT: part of
+NP: Aetna Life
+
+CONTEXT: NYU president
+NP: Yuri Fesenko
+
+CONTEXT: Casualty of
+NP: the United States
+
+CONTEXT: company with
+NP: China Pacific Insurance Co
+
+CONTEXT: presence in
+NP: China
+
+CONTEXT: metropolitan growth region
+NP: Kansas City
+
+CONTEXT: president
+NP: Douglas Henck
+
+CONTEXT: Co of
+NP: China
+
+CONTEXT: Thursday with
+NP: China's Sinochem
+
+CONTEXT: representative
+NP: Michel Chevet
+
+CONTEXT: representative in
+NP: China
+
+CONTEXT: oil to
+NP: Unipec
+
+CONTEXT: subsidiary of
+NP: Sinochem
+
+CONTEXT: Sinopec of
+NP: China
+
+CONTEXT: oil from
+NP: the Middle East
+
+CONTEXT: Ministry of
+NP: Chemical Industry
+
+CONTEXT: venture in
+NP: Brazil
+
+CONTEXT: refrigerators in
+NP: China
+
+CONTEXT: venture in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitwam
+
+CONTEXT: stake in
+NP: Beijing Whirlpool Snowflake
+
+CONTEXT: venture in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitwam
+
+CONTEXT: stake in
+NP: Beijing Whirlpool Snowflake
+
+CONTEXT: president
+NP: Robert Frey
+
+CONTEXT: president of
+NP: Whirlpool Asia
+
+CONTEXT: president of
+NP: Whirlpool Corp
+
+CONTEXT: venture with
+NP: Whirlpool
+
+CONTEXT: venture with
+NP: Shanghai Narcissus Electric Appliance Co
+
+CONTEXT: talks with
+NP: Whirlpool
+
+CONTEXT: indicator
+NP: The Hang Seng Index
+
+CONTEXT: finance analyst
+NP: Yuri Plitchenko
+
+CONTEXT: refrigerators in
+NP: China
+
+CONTEXT: venture in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitman
+
+CONTEXT: capacity in
+NP: North America
+
+CONTEXT: capacity in
+NP: North America
+
+CONTEXT: membership on
+NP: the Tokyo
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: member of
+NP: the Tokyo Stock Exchange
+
+CONTEXT: parent
+NP: Kidder
+
+CONTEXT: operations to
+NP: Paine Webber
+
+CONTEXT: venture with
+NP: Electronic Arts Inc
+
+CONTEXT: agreement with
+NP: Children's Television Workshop
+
+CONTEXT: analyst
+NP: John Taylor
+
+CONTEXT: analyst at
+NP: L.H. Alton
+
+CONTEXT: company in
+NP: Portland
+
+CONTEXT: week after
+NP: Capital Cities-ABC
+
+CONTEXT: games for
+NP: Sega
+
+CONTEXT: merger with
+NP: rival Broderbund Software Inc
+
+CONTEXT: firm
+NP: Bertelsmann AG
+
+CONTEXT: judge on
+NP: Monday
+
+CONTEXT: action against
+NP: General Electric Co
+
+CONTEXT: AG of
+NP: Switzerland
+
+CONTEXT: executive
+NP: Peter Frenz
+
+CONTEXT: executive of
+NP: Diamant Boart SA
+
+CONTEXT: Beers after
+NP: Edward Russell
+
+CONTEXT: lawsuit against
+NP: GE
+
+CONTEXT: lawsuit with
+NP: GE
+
+CONTEXT: operator
+NP: Tele-Communications Inc
+
+CONTEXT: formation of
+NP: Jupiter Telecommunications
+
+CONTEXT: venture with
+NP: Sumitomo Corp
+
+CONTEXT: manager
+NP: Yasushige Nishimura
+
+CONTEXT: manager of
+NP: Sumitomo's Media Business Division
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: loan to
+NP: Philip Matsushita Battery Poland S.A.
+
+CONTEXT: project in
+NP: Poland
+
+CONTEXT: set
+NP: PMBP
+
+CONTEXT: N.V. of
+NP: the Netherlands
+
+CONTEXT: Tuesday between
+NP: Gallup President Don Clifton
+
+CONTEXT: communications between
+NP: Japan
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: maker
+NP: Monday
+
+CONTEXT: shares in
+NP: the national flag carrier Garuda Indonesia
+
+CONTEXT: company in
+NP: India
+
+CONTEXT: venture with
+NP: Tata Consultancy Services
+
+CONTEXT: facility in
+NP: Bombay
+
+CONTEXT: products of
+NP: Abacus
+
+CONTEXT: Walesa on
+NP: Wednesday
+
+CONTEXT: relations with
+NP: Poland
+
+CONTEXT: aid to
+NP: Poland
+
+CONTEXT: company in
+NP: Poland
+
+CONTEXT: both
+NP: Matsushita Battery Industrial Co
+
+CONTEXT: both of
+NP: Japan
+
+CONTEXT: Philips of
+NP: the Netherlands
+
+CONTEXT: equipment for
+NP: studying Japanese
+
+CONTEXT: access to
+NP: the Russian
+
+CONTEXT: trade with
+NP: Poland
+
+CONTEXT: shares of
+NP: Lockheed Martin Corp
+
+CONTEXT: exports to
+NP: Poland
+
+CONTEXT: imports from
+NP: Poland
+
+CONTEXT: audience with
+NP: Emperor Akihito
+
+CONTEXT: Michiko at
+NP: the Imperial Palace
+
+CONTEXT: Walesa on
+NP: Wednesday
+
+CONTEXT: relations with
+NP: Poland
+
+CONTEXT: aid to
+NP: Poland
+
+CONTEXT: company in
+NP: Poland
+
+CONTEXT: both
+NP: Matsushita Battery Industrial Co
+
+CONTEXT: both of
+NP: Japan
+
+CONTEXT: Philips of
+NP: the Netherlands
+
+CONTEXT: farming region
+NP: Chechnya
+
+CONTEXT: defense conracting company
+NP: Lockheed
+
+CONTEXT: equipment for
+NP: studying Japanese
+
+CONTEXT: access to
+NP: the Russian
+
+CONTEXT: trade with
+NP: Poland
+
+CONTEXT: exports to
+NP: Poland
+
+CONTEXT: imports from
+NP: Poland
+
+CONTEXT: capital
+NP: Jefferson City
+
+CONTEXT: audience with
+NP: Emperor Akihito
+
+CONTEXT: Michiko at
+NP: the Imperial Palace
+
+CONTEXT: flights from
+NP: Rangoon
+
+CONTEXT: service to
+NP: Dhaka
+
+CONTEXT: club president
+NP: Vera Smith
+
+CONTEXT: jetliners from
+NP: Malaysian Air Services
+
+CONTEXT: airplanes from
+NP: Malaysia
+
+CONTEXT: venture
+NP: MAI
+
+CONTEXT: venture between
+NP: High Sonic Enterprise
+
+CONTEXT: profit in
+NP: September
+
+CONTEXT: service to
+NP: Dhaka
+
+CONTEXT: ovens in
+NP: China
+
+CONTEXT: opportunities in
+NP: China
+
+CONTEXT: chairman
+NP: David R. Whitwam
+
+CONTEXT: producer
+NP: SMC Microwave Products Co Ltd
+
+CONTEXT: enterprise
+NP: Shunde County Beijiao Economic Development Co
+
+CONTEXT: Whirlpool with
+NP: Beijing Snowflake Electric Appliance Group Corp
+
+CONTEXT: center of
+NP: the Asia-Pacific
+
+CONTEXT: hub of
+NP: the Asia-Pacific
+
+CONTEXT: venture with
+NP: Singapore Airlines Engineering Co
+
+CONTEXT: companies
+NP: major French
+
+CONTEXT: facilities in
+NP: Singapore
+
+CONTEXT: cars in
+NP: Indonesia
+
+CONTEXT: plans by
+NP: Daewoo
+
+CONTEXT: indicator
+NP: The Hang Seng Index
+
+CONTEXT: launch of
+NP: the new World Trade Organization
+
+CONTEXT: Agreement on
+NP: Tariffs
+
+CONTEXT: agreements with
+NP: the United States
+
+CONTEXT: membership in
+NP: the WTO
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Morgan Stanley Group Inc
+
+CONTEXT: two-thirds by
+NP: Morgan Stanley
+
+CONTEXT: cars in
+NP: Indonesia
+
+CONTEXT: plans by
+NP: Daewoo
+
+CONTEXT: people in
+NP: Beijing
+
+CONTEXT: equipment in
+NP: China
+
+CONTEXT: company
+NP: Hussmann
+
+CONTEXT: partner
+NP: Luoyang Refrigeration
+
+CONTEXT: portion of
+NP: the London Underground
+
+CONTEXT: spokesman for
+NP: the Transport Department
+
+CONTEXT: bid from
+NP: ABB Asea Brown Boveri
+
+CONTEXT: venture between
+NP: the U.K.
+
+CONTEXT: NV of
+NP: France
+
+CONTEXT: venture in
+NP: Shanghai
+
+CONTEXT: it
+NP: Southeast Asia
+
+CONTEXT: Losses on
+NP: Wall Street
+
+CONTEXT: year by
+NP: U.S. interest rate hikes.In Tokyo
+
+CONTEXT: venture in
+NP: Shanghai
+
+CONTEXT: it
+NP: Southeast Asia
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: operations of
+NP: Tokyo Kyowa Credit Union
+
+CONTEXT: Bank of
+NP: Japan Executive Director Kunio Kojima
+
+CONTEXT: ginseng from
+NP: China
+
+CONTEXT: Group of
+NP: Hotels
+
+CONTEXT: complex in
+NP: Hanoi
+
+CONTEXT: Monday with
+NP: Le Duc Lam
+
+CONTEXT: director of
+NP: Ngo Gia Tu Factory
+
+CONTEXT: arm of
+NP: Vietnam's Ministry
+
+CONTEXT: hotel in
+NP: Los Angeles
+
+CONTEXT: hotel in
+NP: Burma
+
+CONTEXT: percent by
+NP: A T
+
+CONTEXT: licenses from
+NP: the European Union
+
+CONTEXT: privatization of
+NP: Spain's Telefonica D'Espana SA
+
+CONTEXT: complex in
+NP: southwest Japan
+
+CONTEXT: number of
+NP: VCRs
+
+CONTEXT: arrival in
+NP: Japan
+
+CONTEXT: director
+NP: G. Cameron Hurst
+
+CONTEXT: director of
+NP: the Center
+
+CONTEXT: official at
+NP: the U.S. Department
+
+CONTEXT: exhibitions in
+NP: Japan
+
+CONTEXT: project in
+NP: Japan
+
+CONTEXT: city
+NP: Beijing
+
+CONTEXT: all from
+NP: Beijing
+
+CONTEXT: auction in
+NP: China
+
+CONTEXT: Leung of
+NP: Richard Ellis
+
+CONTEXT: people from
+NP: Hong Kong
+
+CONTEXT: back from
+NP: China
+
+CONTEXT: Ministry of
+NP: Construction
+
+CONTEXT: Department of
+NP: Defense
+
+CONTEXT: subsidiary
+NP: Inc
+
+CONTEXT: subsidiary of
+NP: United Technologies Corp
+
+CONTEXT: Inc of
+NP: Sunnyvale
+
+CONTEXT: east of
+NP: the Aral Sea
+
+CONTEXT: Department of
+NP: Defense
+
+CONTEXT: subsidiary
+NP: Inc
+
+CONTEXT: subsidiary of
+NP: United Technologies Corp
+
+CONTEXT: Inc of
+NP: Sunnyvale
+
+CONTEXT: east of
+NP: the Aral Sea
+
+CONTEXT: stake for
+NP: BMW
+
+CONTEXT: supply of
+NP: V-12
+
+CONTEXT: partner for
+NP: Rolls-Royce Motor Cars
+
+CONTEXT: producer
+NP: Rover
+
+CONTEXT: analyst with
+NP: Credit Lyonnais Laing
+
+CONTEXT: analyst
+NP: Keith Ashworth-Lord
+
+CONTEXT: club president
+NP: David Smith
+
+CONTEXT: analyst with
+NP: Daiwa Institute
+
+CONTEXT: capital
+NP: Tokyo
+
+CONTEXT: manufacturer
+NP: Royce PLC
+
+CONTEXT: company from
+NP: Rolls-Royce Motor Cars
+
+CONTEXT: venture with
+NP: British Steel PLC
+
+CONTEXT: president of
+NP: the Vietnam-American Chamber
+
+CONTEXT: sanctions against
+NP: Vietnam
+
+CONTEXT: dinner in
+NP: New York
+
+CONTEXT: members of
+NP: Vietnam's own Chamber
+
+CONTEXT: embargo on
+NP: Vietnam
+
+CONTEXT: space beyond
+NP: next April
+
+CONTEXT: Committee for
+NP: Cooperation
+
+CONTEXT: resort on
+NP: famed China Beach
+
+CONTEXT: director
+NP: Stewart Stemple
+
+CONTEXT: director in
+NP: Vietnam
+
+CONTEXT: manager
+NP: Howard Feilding
+
+CONTEXT: manager for
+NP: Australia's Portman Mining Ltd
+
+CONTEXT: lawyer
+NP: Mark Lockwood
+
+CONTEXT: lawyer with
+NP: the U.S. firm Baker
+
+CONTEXT: project in
+NP: Hanoi
+
+CONTEXT: director
+NP: Collins
+
+CONTEXT: director for
+NP: U.S.
+
+CONTEXT: channel
+NP: BBC World
+
+CONTEXT: director of
+NP: BBC Worldwide Television
+
+CONTEXT: channel
+NP: BBC World
+
+CONTEXT: director of
+NP: BBC Worldwide Television
+
+CONTEXT: channel
+NP: BBC World
+
+CONTEXT: spokesman
+NP: Phil Johnstone
+
+CONTEXT: spokesman for
+NP: BBC World
+
+CONTEXT: agreements with
+NP: India
+
+CONTEXT: venture between
+NP: the Hindustan Aeronautics
+
+CONTEXT: vying
+NP: Ford Motor Co
+
+CONTEXT: plant near
+NP: Hanoi
+
+CONTEXT: president
+NP: Wayne Booker
+
+CONTEXT: port of
+NP: Haiphong
+
+CONTEXT: Renault of
+NP: France
+
+CONTEXT: Corp of
+NP: Japan
+
+CONTEXT: head
+NP: Ogurtsov
+
+CONTEXT: Wednesday with
+NP: Premier Vo Van Kiet
+
+CONTEXT: plant on
+NP: the Black River
+
+CONTEXT: southwest of
+NP: Hanoi
+
+CONTEXT: 11 at
+NP: the Rong
+
+CONTEXT: Bank of
+NP: Salt Lake City
+
+CONTEXT: oil at
+NP: Bach Ho
+
+CONTEXT: field until
+NP: October
+
+CONTEXT: oil at
+NP: the Dai Hung
+
+CONTEXT: headquarters to
+NP: Torrance
+
+CONTEXT: Bank of
+NP: California
+
+CONTEXT: contract with
+NP: Tamara Bank
+
+CONTEXT: bank in
+NP: Indonesia
+
+CONTEXT: issuer
+NP: Chinatrust
+
+CONTEXT: offices in
+NP: Asian
+
+CONTEXT: reception in
+NP: Germany
+
+CONTEXT: giant
+NP: Volkswagen
+
+CONTEXT: rival
+NP: The Volkswagen Polo
+
+CONTEXT: venture with
+NP: Skoda
+
+CONTEXT: spinoff of
+NP: the original Skoda Favorit
+
+CONTEXT: stake in
+NP: Skoda
+
+CONTEXT: price for
+NP: a Volkswagen Polo
+
+CONTEXT: venture with
+NP: Skoda
+
+CONTEXT: spinoff of
+NP: the original Skoda Favorit
+
+CONTEXT: part of
+NP: the Communist state Czechoslovakia
+
+CONTEXT: Group of
+NP: Thailand
+
+CONTEXT: crane in
+NP: Thailand , Burma
+
+CONTEXT: industry in
+NP: Thailand
+
+CONTEXT: venture with
+NP: Luoding Heavy Engineering Company
+
+CONTEXT: cranes in
+NP: China
+
+CONTEXT: Province in
+NP: China
+
+CONTEXT: manufacturers of
+NP: the ATR-72
+
+CONTEXT: plane in
+NP: the United States
+
+CONTEXT: husband
+NP: Sandra M. Anglemyer
+
+CONTEXT: son
+NP: James Shellberg
+
+CONTEXT: Tuesday in
+NP: U.S. District Court
+
+CONTEXT: manufacturers of
+NP: the ATR-72
+
+CONTEXT: lawyer
+NP: William F. Maready
+
+CONTEXT: Corp of
+NP: Fort Worth
+
+CONTEXT: scheduling
+NP: American Airlines
+
+CONTEXT: metroplitan area
+NP: Tokyo
+
+CONTEXT: manufacturer of
+NP: the ATR-72
+
+CONTEXT: Officials of
+NP: AMR Corp
+
+CONTEXT: spokesman
+NP: Marty Heires
+
+CONTEXT: year near
+NP: Como
+
+CONTEXT: certificates from
+NP: the Federal Aviation Administration
+
+CONTEXT: gas from
+NP: Taiwan
+
+CONTEXT: office of
+NP: the U.S.
+
+CONTEXT: Saturday for
+NP: punitive tariffs unless China
+
+CONTEXT: announcement by
+NP: the Ministry
+
+CONTEXT: sanctions on
+NP: China
+
+CONTEXT: office of
+NP: the U.S.
+
+CONTEXT: Saturday for
+NP: punitive tariffs unless China
+
+CONTEXT: announcement by
+NP: the Ministry
+
+CONTEXT: sanctions against
+NP: China
+
+CONTEXT: sanctions on
+NP: China
+
+CONTEXT: spokesman for
+NP: the State Copyright Administration
+
+CONTEXT: companies in
+NP: Beijing
+
+CONTEXT: northwest of
+NP: Johannesburg
+
+CONTEXT: executive
+NP: Jabu Mabuza
+
+CONTEXT: executive of
+NP: The Partnership
+
+CONTEXT: Hlongwane of
+NP: the National Federated Chamber
+
+CONTEXT: talks with
+NP: News
+
+CONTEXT: Union on
+NP: Tuesday
+
+CONTEXT: technology with
+NP: the Italian computer manufacturer Olivetti
+
+CONTEXT: technology to
+NP: Olivetti
+
+CONTEXT: leader
+NP: British Sky Broadcasting Group PLC
+
+CONTEXT: television in
+NP: Britain
+
+CONTEXT: percent
+NP: Financial Times publisher Pearson PLC
+
+CONTEXT: percent
+NP: television company Granada Group PLC
+
+CONTEXT: percent
+NP: the French industrial group Chargeurs
+
+CONTEXT: 62.50 in
+NP: February
+
+CONTEXT: blockade of
+NP: Britain
+
+CONTEXT: areas of
+NP: Czechoslovakia
+
+CONTEXT: governments in
+NP: Hanoi
+
+CONTEXT: Session of
+NP: British House
+
+CONTEXT: poet
+NP: Carlo Fragoni
+
+CONTEXT: poet-philosopher
+NP: Voltaire
+
+CONTEXT: actress
+NP: Marlo Thomas
+
+CONTEXT: actress
+NP: Goldie Hawn
+
+CONTEXT: actress-singer
+NP: Vivian Blaine
+
+CONTEXT: columnist
+NP: Katharine Whitehorn
+
+CONTEXT: chairman
+NP: Mark Hoffman
+
+CONTEXT: purchase of
+NP: Diversified Pharmaceutical Services Inc
+
+CONTEXT: company
+NP: SmithKline Beecham
+
+CONTEXT: club president
+NP: Vera Wang
+
+CONTEXT: chairman
+NP: D-Ohio
+
+CONTEXT: midwest region
+NP: Jefferson City
+
+CONTEXT: business from
+NP: PCS
+
+CONTEXT: spokeswoman
+NP: Jansen
+
+CONTEXT: stake in
+NP: Northwest Airlines
+
+CONTEXT: stake in
+NP: Northwest
+
+CONTEXT: reports in
+NP: January
+
+CONTEXT: spokesman at
+NP: the 38.2 percent state-owned KLM
+
+CONTEXT: activities in
+NP: Europe
+
+CONTEXT: officials
+NP: the automaker Renault SA
+
+CONTEXT: stake in
+NP: Renault
+
+CONTEXT: orders during
+NP: a one-week period ending last Thursday
+
+CONTEXT: issue with
+NP: labor unions Balladur
+
+CONTEXT: percent in
+NP: Renault
+
+CONTEXT: interest of
+NP: Renault
+
+CONTEXT: offer for
+NP: British trash company Attwoods PLC
+
+CONTEXT: move in
+NP: the trash takeover battle values Attwoods
+
+CONTEXT: head
+NP: BFI chairman William D. Ruckelshaus
+
+CONTEXT: head of
+NP: the U.S. Environmental Protection Agency
+
+CONTEXT: performance at
+NP: Attwoods
+
+CONTEXT: company
+NP: Laidlaw Inc
+
+CONTEXT: stake in
+NP: Attwoods
+
+CONTEXT: officers of
+NP: Laidlaw
+
+CONTEXT: merger with
+NP: Attwoods
+
+CONTEXT: presence in
+NP: the British Midlands
+
+CONTEXT: offer for
+NP: British trash company Attwoods PLC
+
+CONTEXT: move in
+NP: the trash takeover battle values Attwoods
+
+CONTEXT: head
+NP: BFI chairman William D. Ruckelshaus
+
+CONTEXT: head of
+NP: the U.S. Environmental Protection Agency
+
+CONTEXT: performance at
+NP: Attwoods
+
+CONTEXT: company
+NP: Laidlaw Inc
+
+CONTEXT: stake in
+NP: Attwoods
+
+CONTEXT: officers of
+NP: Laidlaw
+
+CONTEXT: merger with
+NP: Attwoods
+
+CONTEXT: presence in
+NP: the British Midlands
+
+CONTEXT: offer for
+NP: Britain's Attwoods PLC
+
+CONTEXT: giant
+NP: BFI
+
+CONTEXT: head
+NP: BFI chairman William D. Ruckelshaus
+
+CONTEXT: head of
+NP: the U.S. Environmental Protection Agency
+
+CONTEXT: performance at
+NP: Attwoods
+
+CONTEXT: company
+NP: Laidlaw Inc
+
+CONTEXT: officers of
+NP: Laidlaw
+
+CONTEXT: midwestern region
+NP: Kansas City
+
+CONTEXT: merger with
+NP: Attwoods
+
+CONTEXT: presence in
+NP: the British Midlands
+
+CONTEXT: Shares in
+NP: French automaker Renault SA
+
+CONTEXT: percent
+NP: Thursday
+
+CONTEXT: percent
+NP: Thursday
+
+CONTEXT: stake in
+NP: Renault
+
+CONTEXT: indicating
+NP: Thursday
+
+CONTEXT: trading in
+NP: Renault
+
+CONTEXT: share in
+NP: Renault
+
+CONTEXT: share of
+NP: Renault
+
+CONTEXT: approval from
+NP: Parliament
+
+CONTEXT: each
+NP: Monday
+
+CONTEXT: it
+NP: Murayama
+
+CONTEXT: Patterson in
+NP: Manhattan
+
+CONTEXT: Morris of
+NP: Leeds
+
+CONTEXT: shares of
+NP: Hilton Hotels Corp
+
+CONTEXT: director
+NP: William R. McLucas
+
+CONTEXT: privatization of
+NP: state-controlled automaker Renault SA
+
+CONTEXT: privatization of
+NP: Renault
+
+CONTEXT: decision in
+NP: August
+
+CONTEXT: privatization of
+NP: Renault
+
+CONTEXT: ministries
+NP: released Tuesday
+
+CONTEXT: helping
+NP: Sugar Price Stabilization Agency
+
+CONTEXT: power
+NP: Ichiro Ozawa
+
+CONTEXT: merger
+NP: the New Frontier Party
+
+CONTEXT: carrier
+NP: Japan Airlines
+
+CONTEXT: Tachibana of
+NP: the powerful Federation
+
+CONTEXT: operator
+NP: Santa Fe
+
+CONTEXT: objection by
+NP: Santa Fe
+
+CONTEXT: bid after
+NP: Santa Fe
+
+CONTEXT: route to
+NP: the West
+
+CONTEXT: merger with
+NP: R.H. Macy
+
+CONTEXT: combination
+NP: Co
+
+CONTEXT: chairman
+NP: Allen Questrom
+
+CONTEXT: Court in
+NP: New York
+
+CONTEXT: merger in
+NP: September
+
+CONTEXT: stake in
+NP: the CIT
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: percent of
+NP: CIT
+
+CONTEXT: head of research
+NP: David Jefferson
+
+CONTEXT: Young-sam on
+NP: Saturday
+
+CONTEXT: one of
+NP: South Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: Ministry of
+NP: Trade
+
+CONTEXT: bridge in
+NP: Seoul
+
+CONTEXT: demonstration in
+NP: Puchon
+
+CONTEXT: leader
+NP: Kim
+
+CONTEXT: success to
+NP: Roh
+
+CONTEXT: showdown in
+NP: U.S. District Court
+
+CONTEXT: fight over
+NP: British-owned B.A. T.
+
+CONTEXT: purchase of
+NP: American Tobacco Co
+
+CONTEXT: lawyer
+NP: James C. Egan Jr.
+
+CONTEXT: lawyer with
+NP: the FCC
+
+CONTEXT: lawyer
+NP: Ronald S. Rolfe
+
+CONTEXT: lawyer for
+NP: B.A. T.
+
+CONTEXT: he
+NP: Philip Morris
+
+CONTEXT: days after
+NP: California Energy
+
+CONTEXT: shareholder
+NP: Dow Chemical
+
+CONTEXT: chairman
+NP: Yuri Mitkov
+
+CONTEXT: east of
+NP: San Diego
+
+CONTEXT: headquarters from
+NP: San Francisco
+
+CONTEXT: plants near
+NP: Mammoth
+
+CONTEXT: contending
+NP: Magma
+
+CONTEXT: 1.875 to
+NP: dlrs 37.375 Monday
+
+CONTEXT: venture with
+NP: Electronic Arts Inc
+
+CONTEXT: agreement with
+NP: Children's Television Workshop
+
+CONTEXT: analyst
+NP: John Taylor
+
+CONTEXT: high-tech region
+NP: Tokyo
+
+CONTEXT: analyst at
+NP: L.H. Alton
+
+CONTEXT: company in
+NP: Portland
+
+CONTEXT: week after
+NP: Capital Cities-ABC
+
+CONTEXT: games for
+NP: Sega
+
+CONTEXT: merger with
+NP: rival Broderbund Software Inc
+
+CONTEXT: firm
+NP: Bertelsmann AG
+
+CONTEXT: Commission on
+NP: Monday
+
+CONTEXT: company
+NP: Santa Fe
+
+CONTEXT: company in
+NP: the United States
+
+CONTEXT: railroad
+NP: Union Pacific
+
+CONTEXT: route from
+NP: Chicago
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: respect of
+NP: Italians
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: respect of
+NP: Italians
+
+CONTEXT: showdown with
+NP: Premier Silvio Berlusconi
+
+CONTEXT: resignation of
+NP: Di Pietro
+
+CONTEXT: respect of
+NP: Italians
+
+CONTEXT: D'Alema of
+NP: the Democratic Party
+
+CONTEXT: bids for
+NP: the submarine maker VSEL PLC
+
+CONTEXT: bid from
+NP: GEC
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Morgan Stanley Group Inc
+
+CONTEXT: acquisition of
+NP: Techtronix Inc
+
+CONTEXT: Executives at
+NP: Morgan Stanley
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Morgan Stanley Group Inc
+
+CONTEXT: profits of
+NP: Morgan Stanley
+
+CONTEXT: Executives at
+NP: Morgan Stanley
+
+CONTEXT: foothold in
+NP: the United States
+
+CONTEXT: presence in
+NP: London
+
+CONTEXT: Toeman at
+NP: the investment bank Hoare Govett
+
+CONTEXT: rumors since
+NP: early October
+
+CONTEXT: hands of
+NP: both Warburg
+
+CONTEXT: indicator
+NP: The Hang Seng Index
+
+CONTEXT: launch of
+NP: the new World Trade Organization
+
+CONTEXT: Agreement on
+NP: Tariffs
+
+CONTEXT: agreements with
+NP: the United States
+
+CONTEXT: membership in
+NP: the WTO
+
+CONTEXT: merger with
+NP: Wall Street powerhouse Flovim Inc
+
+CONTEXT: profits of
+NP: Morgan Stanley
+
+CONTEXT: cars in
+NP: Indonesia
+
+CONTEXT: plans by
+NP: Daewoo
+
+CONTEXT: club president
+NP: Yuri Mitkov
+
+CONTEXT: people in
+NP: Beijing
+
+CONTEXT: operations in
+NP: New York
+
+CONTEXT: subsidiary of
+NP: Credit Suisse
+
+CONTEXT: former president
+NP: William Jefferson Clinton
+
+CONTEXT: chairman
+NP: Hans Pontier
+
+CONTEXT: relationship with
+NP: Swiss American Securities
+
+CONTEXT: subsidiaries of
+NP: big Dutch
+
+CONTEXT: foothold in
+NP: the United States
+
+CONTEXT: one
+NP: Morgan Stanley
+
+CONTEXT: presence in
+NP: London
+
+CONTEXT: Toeman at
+NP: the investment bank Hoare Govett
+
+CONTEXT: rumors since
+NP: early October
+
+CONTEXT: hands of
+NP: both Warburg
+
+CONTEXT: way for
+NP: British Telecom
+
+CONTEXT: percent of
+NP: McCaw
+
+CONTEXT: T with
+NP: McCaw
+
+CONTEXT: marriage of
+NP: Macy
+
+CONTEXT: peacekeepers in
+NP: Bosnia
+
+CONTEXT: dozens of
+NP: Americans
+
+CONTEXT: report
+NP: Thursday
+
+CONTEXT: marriage of
+NP: Warburg
+
+CONTEXT: bank in
+NP: the City
+
+CONTEXT: one
+NP: Morgan Stanley
+
+CONTEXT: Toeman at
+NP: the investment bank Hoare Govett
+
+CONTEXT: bidding for
+NP: Warburg
+
+CONTEXT: bank in
+NP: London
+
+CONTEXT: client from
+NP: a Morgan Stanley
+
+CONTEXT: author
+NP: Ron Chernow
+
+CONTEXT: merger with
+NP: Morgan Stanley
+
+CONTEXT: presence on
+NP: Wall Street
+
+CONTEXT: building in
+NP: London
+
+CONTEXT: analyst
+NP: Raphael Soifer
+
+CONTEXT: analyst at
+NP: Brown Brothers Harriman
+
+CONTEXT: company in
+NP: New York
+
+CONTEXT: rumors since
+NP: early October
+
+CONTEXT: hands of
+NP: both Warburg
+
+CONTEXT: Corp on
+NP: Thursday
+
+CONTEXT: way for
+NP: British Telecom
+
+CONTEXT: competitor
+NP: T
+
+CONTEXT: urban region
+NP: Kansas City
+
+CONTEXT: stake in
+NP: MCI Communications Corp
+
+CONTEXT: Communications in
+NP: September
+
+CONTEXT: percent of
+NP: McCaw
+
+CONTEXT: spokesman for
+NP: British Telecom
+
+CONTEXT: role in
+NP: the AT
+
+CONTEXT: chatting on
+NP: New York
+
+CONTEXT: back to
+NP: London
+
+CONTEXT: protege of
+NP: company founder Bob Garvin
+
+CONTEXT: counsel in
+NP: Catherine Alvarez
+
+CONTEXT: lines to
+NP: comedian Dennis Miller
+
+CONTEXT: fine as
+NP: Johnson
+
+CONTEXT: pipelines in
+NP: the Northwest
+
+CONTEXT: parts of
+NP: the United States
+
+CONTEXT: provider in
+NP: the United States
+
+CONTEXT: chairman
+NP: John DesBarres
+
+CONTEXT: running from
+NP: the Louisiana Gulf Coast
+
+CONTEXT: Murphy of
+NP: Liverpool
+
+CONTEXT: attorney
+NP: Pickholz
+
+CONTEXT: Missouri capital
+NP: Jefferson City
+
+CONTEXT: attorney for
+NP: Morris
+
+CONTEXT: belonging to
+NP: Morris
+
+CONTEXT: assets outside
+NP: the United States
+
+CONTEXT: lawyer
+NP: Marilyn Stowe
+
+CONTEXT: lawyer for
+NP: Morris
+
+CONTEXT: allegations against
+NP: Jeffrey Morris
+
+CONTEXT: unit
+NP: N.C.
+
+CONTEXT: Inc of
+NP: La Jolla
+
+CONTEXT: shareholders of
+NP: National Health Laboratories Holdings Inc
+
+CONTEXT: president
+NP: James Powell
+
+CONTEXT: officer
+NP: James Maher
+
+CONTEXT: officer of
+NP: National Health Laboratories
+
+CONTEXT: subsidiary of
+NP: Morgan Stanley
+
+CONTEXT: combination of
+NP: Morgan Stanley
+
+CONTEXT: bank
+NP: Warburg
+
+CONTEXT: percent by
+NP: Warburg
+
+CONTEXT: Panel on
+NP: Takeover
+
+CONTEXT: panel
+NP: Mergers
+
+CONTEXT: panel at
+NP: the London Stock Exchange
+
+CONTEXT: dealings in
+NP: Mercury
+
+CONTEXT: agreement between
+NP: Warburgs
+
+CONTEXT: two-thirds by
+NP: Morgan Stanley
+
+CONTEXT: combination of
+NP: Morgan Stanley
+
+CONTEXT: rumors since
+NP: October
+
+CONTEXT: marriage of
+NP: Wall Street giant Morgan Stanley Group Inc
+
+CONTEXT: bank
+NP: S.G. Warburg PLC
+
+CONTEXT: analyst
+NP: David Poutney
+
+CONTEXT: analyst at
+NP: Collins Stewart
+
+CONTEXT: merger with
+NP: Morgan Stanley
+
+CONTEXT: percent by
+NP: Warburg
+
+CONTEXT: chairman
+NP: Richard B. Fisher
+
+CONTEXT: rumors since
+NP: October
+
+CONTEXT: Stock in
+NP: Morgan Stanley
+
+CONTEXT: Prices on
+NP: the London Stock Exchange
+
+CONTEXT: giving
+NP: Thursday
+
+CONTEXT: head
+NP: Ricki Tigert
+
+CONTEXT: head of
+NP: the Federal Deposit Insurance Corp
+
+CONTEXT: marriage of
+NP: Wall Street giant Morgan Stanley Group Inc
+
+CONTEXT: bank
+NP: S.G. Warburg PLC
+
+CONTEXT: Operators of
+NP: the Channel Tunnel
+
+CONTEXT: maker
+NP: Porsche AG
+
+CONTEXT: confidence in
+NP: a 1991 U.S.
+
+CONTEXT: explosion in
+NP: Seoul
+
+CONTEXT: Agreement on
+NP: Trade
+
+CONTEXT: one of
+NP: South Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: Young-sam on
+NP: Saturday
+
+CONTEXT: appointment of
+NP: Lee Hong-koo
+
+CONTEXT: ministry
+NP: the Unification Board
+
+CONTEXT: ties with
+NP: Washington
+
+CONTEXT: policy toward
+NP: the communist North
+
+CONTEXT: ambassador to
+NP: England
+
+CONTEXT: explosion in
+NP: Seoul
+
+CONTEXT: Agreement on
+NP: Trade
+
+CONTEXT: one of
+NP: South Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: stock for
+NP: Santa Fe
+
+CONTEXT: offer for
+NP: 38 million Santa Fe
+
+CONTEXT: offer for
+NP: 25 million Santa Fe
+
+CONTEXT: percent of
+NP: Santa Fe
+
+CONTEXT: grandson
+NP: Robert Mark Smallwood
+
+CONTEXT: grandson of
+NP: former premier Joey Smallwood
+
+CONTEXT: charge of
+NP: threatening Premier Clyde Wells
+
+CONTEXT: decision on
+NP: Rogers Communications
+
+CONTEXT: noon
+NP: Maclean Hunter
+
+CONTEXT: Announcement of
+NP: City
+
+CONTEXT: a.m.
+NP: Barbara Hall
+
+CONTEXT: Co-operatives of
+NP: Ontario
+
+CONTEXT: sale to
+NP: Growmark Inc
+
+CONTEXT: minister
+NP: Eldon Lautermilch
+
+CONTEXT: Court of
+NP: Queen's Bench
+
+CONTEXT: delegation from
+NP: Guangdong , China
+
+CONTEXT: briefing with
+NP: Investment Minister Glen Clark
+
+CONTEXT: toll in
+NP: Chechenya
+
+CONTEXT: committee chairman
+NP: Yuri Asimov
+
+CONTEXT: time after
+NP: the National Assembly
+
+CONTEXT: expert
+NP: Lee Hong-Koo
+
+CONTEXT: Bank of
+NP: Korea
+
+CONTEXT: merger of
+NP: the Finance Ministry
+
+CONTEXT: recognition from
+NP: Washington
+
+CONTEXT: way for
+NP: a major Cabinet
+
+CONTEXT: expert
+NP: Lee Hong-koo
+
+CONTEXT: task for
+NP: the new Cabinet
+
+CONTEXT: accord with
+NP: the United States
+
+CONTEXT: day before
+NP: Christmas
+
+CONTEXT: percent in
+NP: November
+
+CONTEXT: gain in
+NP: October
+
+CONTEXT: staff of
+NP: the Federal Trade Commission
+
+CONTEXT: flamboyant
+NP: Mario Conde
+
+CONTEXT: chairman of
+NP: Banco Espanol de Credito
+
+CONTEXT: year after
+NP: the Bank
+
+CONTEXT: new chairman
+NP: Yuri Fesenko
+
+CONTEXT: Finance to
+NP: Deutsche Bank North America
+
+CONTEXT: subsidiary of
+NP: Deutsche Bank AG
+
+CONTEXT: vice president
+NP: Yuri Allaire
+
+CONTEXT: spokeswoman for
+NP: Deutsche Bank North America
+
+CONTEXT: merger of
+NP: Lockheed Corp
+
+CONTEXT: takeover of
+NP: American Cyanamid Corp
+
+CONTEXT: purchase of
+NP: Blockbuster Entertainment Corp
+
+CONTEXT: acquisition of
+NP: pharmaceutical company Syntex Corp
+
+CONTEXT: expansion in
+NP: the United States
+
+CONTEXT: vehicles in
+NP: the United States
+
+CONTEXT: billion for
+NP: Madison Square Garden
+
+CONTEXT: network
+NP: MSG
+
+CONTEXT: percent of
+NP: the CIGA Hotel Corp
+
+CONTEXT: hotels in
+NP: Europe
+
+CONTEXT: million for
+NP: the Phoenician
+
+CONTEXT: percent from
+NP: Belgium
+
+CONTEXT: Duif en
+NP: Brekelmans BV
+
+CONTEXT: sales
+NP: BolsWessanen
+
+CONTEXT: year
+NP: the United States
+
+CONTEXT: unit to
+NP: Norwest Corp
+
+CONTEXT: week after
+NP: ITT
+
+CONTEXT: unit of
+NP: Norwest
+
+CONTEXT: ITT on
+NP: Monday
+
+CONTEXT: Finance to
+NP: Deutsche Bank North America
+
+CONTEXT: subsidiary of
+NP: Deutsche Bank AG
+
+CONTEXT: merger of
+NP: Lockheed Corp
+
+CONTEXT: takeover of
+NP: American Cyanamid Corp
+
+CONTEXT: purchase of
+NP: Blockbuster Entertainment Corp
+
+CONTEXT: acquisition of
+NP: pharmaceutical company Syntex Corp
+
+CONTEXT: expansion in
+NP: the United States
+
+CONTEXT: vehicles in
+NP: the United States
+
+CONTEXT: chairman
+NP: Legislator Ju Gau-jeng
+
+CONTEXT: chairman of
+NP: the Chinese Social Democratic Party
+
+CONTEXT: effort by
+NP: the Chinese Social Democratic Party
+
+CONTEXT: doctrines of
+NP: Sun Yat-sen
+
+CONTEXT: war to
+NP: Communist
+
+CONTEXT: it
+NP: the Nationalists
+
+CONTEXT: reunification with
+NP: mainland China
+
+CONTEXT: convenor
+NP: Wang Chien-shien
+
+CONTEXT: trials in
+NP: Europe
+
+CONTEXT: pill
+NP: Halcion
+
+CONTEXT: painkiller
+NP: Ansaid
+
+CONTEXT: driver of
+NP: Upjohn
+
+CONTEXT: Lamberton of
+NP: NatWest Securities
+
+CONTEXT: analyst
+NP: Robert Hodgson
+
+CONTEXT: differences between
+NP: the U.S.
+
+CONTEXT: Shares of
+NP: Upjohn
+
+CONTEXT: one
+NP: Unisys Corp
+
+CONTEXT: people in
+NP: the United States
+
+CONTEXT: decisions in
+NP: Europe
+
+CONTEXT: will happen
+NP: Thursday
+
+CONTEXT: merger with
+NP: Lockheed Corp
+
+CONTEXT: missiles for
+NP: the Navy
+
+CONTEXT: planes for
+NP: the Air Force
+
+CONTEXT: development of
+NP: the F-22
+
+CONTEXT: will happen
+NP: Thursday
+
+CONTEXT: merger with
+NP: Lockheed Corp
+
+CONTEXT: missiles for
+NP: the Navy
+
+CONTEXT: planes for
+NP: the Air Force
+
+CONTEXT: development of
+NP: the F-22
+
+CONTEXT: administration
+NP: Zedillo
+
+CONTEXT: inflation in
+NP: Yugoslavia
+
+CONTEXT: economist
+NP: Jovan Rankovic
+
+CONTEXT: Index of
+NP: Leading Economic Indicators
+
+CONTEXT: gain in
+NP: November
+
+CONTEXT: will happen
+NP: Thursday
+
+CONTEXT: merger with
+NP: Lockheed Corp
+
+CONTEXT: one
+NP: Unisys Corp
+
+CONTEXT: leading
+NP: Sunday
+
+CONTEXT: partner into
+NP: the EU
+
+CONTEXT: time for
+NP: Swedish Suction
+
+CONTEXT: majority of
+NP: Norwegians
+
+CONTEXT: Minister of
+NP: Municipalities Gunnar Berge
+
+CONTEXT: member
+NP: Jan Otto Fredagsvik
+
+CONTEXT: member from
+NP: the Labor Party
+
+CONTEXT: leader
+NP: Anne Enger Lahnstein
+
+CONTEXT: billboard in
+NP: Oslo
+
+CONTEXT: swathe through
+NP: the Caribbean
+
+CONTEXT: island of
+NP: Mindoro
+
+CONTEXT: Gorillas in
+NP: the Mist
+
+CONTEXT: conference in
+NP: Jakarta
+
+CONTEXT: editor in
+NP: London
+
+CONTEXT: companies
+NP: Union Carbide
+
+CONTEXT: Council on
+NP: Economic Priorities
+
+CONTEXT: founder
+NP: Alice Tepper Marlin
+
+CONTEXT: founder of
+NP: the Council
+
+CONTEXT: president
+NP: G.L. Graves
+
+CONTEXT: leak in
+NP: India
+
+CONTEXT: Secretary of
+NP: Defense William Perry
+
+CONTEXT: northeast of
+NP: Sao Paulo
+
+CONTEXT: spokesman for
+NP: state oil-company Ecopetrol
+
+CONTEXT: attack by
+NP: the National Liberation Army
+
+CONTEXT: Reforma on
+NP: Thursday
+
+CONTEXT: election in
+NP: August
+
+CONTEXT: calls in
+NP: July
+
+CONTEXT: 3 in
+NP: August
+
+CONTEXT: law in
+NP: England
+
+CONTEXT: providing for
+NP: new Parliament
+
+CONTEXT: Mauritius from
+NP: French
+
+CONTEXT: River in
+NP: Germany
+
+CONTEXT: Berlin as
+NP: East Germany
+
+CONTEXT: Surgeons at
+NP: Cape Town , South Africa
+
+CONTEXT: control of
+NP: Laos
+
+CONTEXT: philosopher-poet
+NP: Aaron Ludwig Holberg
+
+CONTEXT: writer
+NP: Joseph Conrad
+
+CONTEXT: director
+NP: Jean-Luc Godard
+
+CONTEXT: soprano
+NP: Phyllis Curtin
+
+CONTEXT: entertainer-singer
+NP: Andy Williams
+
+CONTEXT: singer
+NP: Ozzy Osbourne
+
+CONTEXT: philosopher
+NP: Friedrich Nietzsche
+
+CONTEXT: pipeline near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: midwest region of
+NP: Kansas City
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: vice president
+NP: Yuri Fesenko
+
+CONTEXT: oil into
+NP: the Pechora River
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: pipeline near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: oil into
+NP: the Pechora River
+
+CONTEXT: UCLA president
+NP: David Martin
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: oil into
+NP: the salmon-rich Pechora River
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: spill near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Russia
+
+CONTEXT: commission
+NP: so far
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: oil into
+NP: the salmon-rich Pechora River
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: spill near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: commission
+NP: so far
+
+CONTEXT: officials in
+NP: Moscow
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: oil into
+NP: the Pechora
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: oil into
+NP: the Pechora
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: disaster in
+NP: Alaska's Prince William Sound
+
+CONTEXT: pipeline near
+NP: Usinsk
+
+CONTEXT: northeast of
+NP: Moscow
+
+CONTEXT: streams around
+NP: Usinsk
+
+CONTEXT: oil into
+NP: the Pechora
+
+CONTEXT: flows into
+NP: the Barents Sea
+
+CONTEXT: divers in
+NP: the Gulf
+
+CONTEXT: hardware in
+NP: the Gulf
+
+CONTEXT: Kasprzak of
+NP: the state's Department
+
+CONTEXT: planner
+NP: Villere Reggio
+
+CONTEXT: planner for
+NP: the Minerals Management Service
+
+CONTEXT: spill in
+NP: Alaska
+
+CONTEXT: spokesman
+NP: Larry Wall
+
+CONTEXT: spokesman for
+NP: the Louisiana Mid Continent Oil
+
+CONTEXT: group
+NP: Gas Association
+
+CONTEXT: Department of
+NP: Wildlife
+
+CONTEXT: meeting with
+NP: President Boris Yeltsin
+
+CONTEXT: reform in
+NP: Russia
+
+CONTEXT: visit to
+NP: Moscow
+
+CONTEXT: developments in
+NP: Russia
+
+CONTEXT: Talks with
+NP: Yeltsin
+
+CONTEXT: fighting in
+NP: Bosnia
+
+CONTEXT: conflict between
+NP: Armenian
+
+CONTEXT: week at
+NP: the Conference
+
+CONTEXT: night for
+NP: Brussels
+
+CONTEXT: meeting of
+NP: NATO
+
+CONTEXT: wife
+NP: Susana Higuchi
+
+CONTEXT: wife of
+NP: President Alberto Fujimori
+
+CONTEXT: spokesman
+NP: Horacio Rios
+
+CONTEXT: spokesman for
+NP: the Executive Environment Secretariat
+
+CONTEXT: northeast of
+NP: the Chiapas
+
+CONTEXT: capital of
+NP: Tuxtla Gutierrez
+
+CONTEXT: experts to
+NP: Russia
+
+CONTEXT: experts to
+NP: Russia
+
+CONTEXT: gallons
+NP: aground off Puerto Rico
+
+CONTEXT: Ross of
+NP: the Coast Guard Marine Safety Office
+
+CONTEXT: island of
+NP: Antigua
+
+CONTEXT: month
+NP: N.J.
+
+CONTEXT: Ross of
+NP: the Coast Guard Marine Safety Office
+
+CONTEXT: refusing
+NP: Friday
+
+CONTEXT: island of
+NP: Antigua
+
+CONTEXT: officials
+NP: Friday
+
+CONTEXT: island of
+NP: Antigua
+
+CONTEXT: Front for
+NP: the Advancement
+
+CONTEXT: Progress of
+NP: Haiti
+
+CONTEXT: agreement at
+NP: White House
+
+CONTEXT: people in
+NP: Russia's Kuril Islands
+
+CONTEXT: sanctions against
+NP: Serb-led Yugoslavia
+
+CONTEXT: warships to
+NP: the Gulf
+
+CONTEXT: armanda to
+NP: the Gulf
+
+CONTEXT: seals off
+NP: the Gaza Strip
+
+CONTEXT: asylum to
+NP: Haiti's Raoul Cedras
+
+CONTEXT: people
+NP: Algiers
+
+CONTEXT: prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: bullets at
+NP: the White House
+
+CONTEXT: control of
+NP: U.S. Congress
+
+CONTEXT: victories in
+NP: the Pacific
+
+CONTEXT: pressure on
+NP: North Korea
+
+CONTEXT: people in
+NP: Haiti
+
+CONTEXT: Serbs from
+NP: neighboring Croatia shell 2 U.N.
+
+CONTEXT: retaliates for
+NP: repeated Serb
+
+CONTEXT: ablaze in
+NP: northwest Bosnia
+
+CONTEXT: capital of
+NP: Chechnya , Russia
+
+CONTEXT: outskirts of
+NP: Bihac
+
+CONTEXT: House of
+NP: Representatives
+
+CONTEXT: hours after
+NP: Russian President Boris Yeltsin
+
+CONTEXT: leader
+NP: Grand Ayatollah Ali Araki
+
+CONTEXT: leader of
+NP: the world's 100 million Shiite Muslims
+
+CONTEXT: director
+NP: Dan Sheehan
+
+CONTEXT: director of
+NP: the National Pollution Funds Center
+
+CONTEXT: accident between
+NP: the Greek Cypriot oil tanker Atarian Harmany
+
+CONTEXT: regulations for
+NP: the Bosporus
+
+CONTEXT: agreement at
+NP: White House
+
+CONTEXT: people in
+NP: Russia's Kuril Islands
+
+CONTEXT: sanctions against
+NP: Serb-led Yugoslavia
+
+CONTEXT: warships to
+NP: the Gulf
+
+CONTEXT: armanda to
+NP: the Gulf
+
+CONTEXT: seals off
+NP: the Gaza Strip
+
+CONTEXT: asylum to
+NP: Haiti's Raoul Cedras
+
+CONTEXT: people
+NP: Algiers
+
+CONTEXT: prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: bullets at
+NP: the White House
+
+CONTEXT: control of
+NP: U.S. Congress
+
+CONTEXT: victories in
+NP: the Pacific
+
+CONTEXT: pressure on
+NP: North Korea
+
+CONTEXT: downtown
+NP: Kansas City
+
+CONTEXT: people in
+NP: Haiti
+
+CONTEXT: Serbs from
+NP: neighboring Croatia shell 2 U.N.
+
+CONTEXT: retaliates for
+NP: repeated Serb
+
+CONTEXT: ablaze in
+NP: northwest Bosnia
+
+CONTEXT: capital of
+NP: Chechnya
+
+CONTEXT: outskirts of
+NP: Bihac
+
+CONTEXT: House of
+NP: Representatives
+
+CONTEXT: hours after
+NP: Russian President Boris Yeltsin
+
+CONTEXT: leader
+NP: Grand Ayatollah Ali Araki
+
+CONTEXT: leader of
+NP: the world's 100 million Shiite Muslims
+
+CONTEXT: accident between
+NP: the tanker Athenian Harmony
+
+CONTEXT: iron from
+NP: Odessa
+
+CONTEXT: gasoline from
+NP: Italy
+
+CONTEXT: regulations for
+NP: the Bosporus
+
+CONTEXT: Association of
+NP: Independent Tanker Owners
+
+CONTEXT: attorney
+NP: Hugh Bryant
+
+CONTEXT: attorney for
+NP: Shoreline
+
+CONTEXT: university president
+NP: David Martin
+
+CONTEXT: managing
+NP: Darby Duryea
+
+CONTEXT: analyst
+NP: Peter Beutel
+
+CONTEXT: president of
+NP: trading firm Cameron Hanover
+
+CONTEXT: spokesman
+NP: Steve Carpenter
+
+CONTEXT: coverage from
+NP: Shoreline
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: day after
+NP: the Kremlin
+
+CONTEXT: assault on
+NP: Grozny
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: ambassador
+NP: Duma deputy Vladimir Lukin
+
+CONTEXT: ambassador to
+NP: the United Nations
+
+CONTEXT: poll by
+NP: the Independent Analytical Center
+
+CONTEXT: agency
+NP: Fakti
+
+CONTEXT: soldiers to
+NP: Chechnya
+
+CONTEXT: elections in
+NP: Chechnya
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: day after
+NP: the Kremlin
+
+CONTEXT: assault on
+NP: Grozny
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: ambassador
+NP: Duma deputy Vladimir Lukin
+
+CONTEXT: ambassador to
+NP: the United Nations
+
+CONTEXT: poll by
+NP: the Independent Analytical Center
+
+CONTEXT: agency
+NP: Fakti
+
+CONTEXT: soldiers to
+NP: Chechnya
+
+CONTEXT: elections in
+NP: Chechnya
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: troops into
+NP: Chechnya
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: poll by
+NP: the Independent Analytical Center
+
+CONTEXT: agency
+NP: Fakti
+
+CONTEXT: soldiers to
+NP: Chechnya
+
+CONTEXT: elections in
+NP: Chechnya
+
+CONTEXT: village on
+NP: the Russians
+
+CONTEXT: road to
+NP: Grozny
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: village on
+NP: the Russians
+
+CONTEXT: road to
+NP: Grozny
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: government of
+NP: Russia
+
+CONTEXT: house
+NP: the State Duma
+
+CONTEXT: village on
+NP: the Russians
+
+CONTEXT: road to
+NP: Grozny
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: cigarettes
+NP: Aiman Magometova
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: part of
+NP: the Russian Federation
+
+CONTEXT: village
+NP: Pervomaiskoye
+
+CONTEXT: northwest of
+NP: Grozny
+
+CONTEXT: clashes between
+NP: Russian
+
+CONTEXT: general
+NP: Dudayev
+
+CONTEXT: cigarettes
+NP: Aiman Magometova
+
+CONTEXT: scattering
+NP: Tuesday
+
+CONTEXT: neighbor
+NP: Vera Cheborbayova
+
+CONTEXT: minister
+NP: Yegorov
+
+CONTEXT: column
+NP: Late Tuesday
+
+CONTEXT: west of
+NP: Grozny
+
+CONTEXT: crisis in
+NP: Russia
+
+CONTEXT: times as
+NP: many Americans
+
+CONTEXT: study by
+NP: the University
+
+CONTEXT: capital of
+NP: Kansas
+
+CONTEXT: grove of
+NP: Wollemi
+
+CONTEXT: plant in
+NP: Iowa
+
+CONTEXT: spill off
+NP: the Gulf
+
+CONTEXT: Athletes of
+NP: the Year
+
+CONTEXT: bonanza in
+NP: Nigeria
+
+CONTEXT: leader in
+NP: Ogboinbiri
+
+CONTEXT: gesturing
+NP: Prince Alabo Degema Azazi
+
+CONTEXT: operations in
+NP: Nigeria
+
+CONTEXT: magazine
+NP: Nigeria PetroBusiness
+
+CONTEXT: spills across
+NP: Nigeria
+
+CONTEXT: well at
+NP: Ogboinbiri
+
+CONTEXT: southeast of
+NP: Lagos
+
+CONTEXT: spill in
+NP: northern Russia
+
+CONTEXT: spill from
+NP: the Exxon Valdez
+
+CONTEXT: disaster in
+NP: Alaska's Prince William Sound
+
+CONTEXT: Wednesday after
+NP: a Hong Kong
+
+CONTEXT: members from
+NP: the 78,443-ton tanker New World
+
+CONTEXT: spokesman
+NP: Carlos Brites Nunes
+
+CONTEXT: southwest of
+NP: Lisbon
+
+CONTEXT: Wednesday after
+NP: a Hong Kong
+
+CONTEXT: members from
+NP: the 78,443-ton tanker New World
+
+CONTEXT: spokesman
+NP: Carlos Brites Nunes
+
+CONTEXT: southwest of
+NP: Lisbon
+
+CONTEXT: object in
+NP: the Mississippi River
+
+CONTEXT: south of
+NP: New Orleans
+
+CONTEXT: targets inside
+NP: Grozny
+
+CONTEXT: leader of
+NP: the Northern League
+
+CONTEXT: mood in
+NP: Rome
+
+CONTEXT: mayor of
+NP: Paris
+
+CONTEXT: Chirac on
+NP: Friday
+
+CONTEXT: homeless of
+NP: Paris
+
+CONTEXT: editor in
+NP: London
+
+CONTEXT: targets inside
+NP: Grozny
+
+CONTEXT: leader of
+NP: the Northern League
+
+CONTEXT: mood in
+NP: Rome
+
+CONTEXT: mayor of
+NP: Paris
+
+CONTEXT: Chirac on
+NP: Friday
+
+CONTEXT: homeless of
+NP: Paris
+
+CONTEXT: editor in
+NP: London
+
+CONTEXT: borders of
+NP: Chechnya
+
+CONTEXT: Konovalov of
+NP: Moscow's USA
+
+CONTEXT: thoughts of
+NP: storming Grozny
+
+CONTEXT: analyst
+NP: Vera Felgengauer
+
+CONTEXT: force in
+NP: Chechnya
+
+CONTEXT: integrity of
+NP: Russia
+
+CONTEXT: regime in
+NP: Grozny
+
+CONTEXT: Interfax on
+NP: Monday
+
+CONTEXT: assault on
+NP: Grozny
+
+CONTEXT: service on
+NP: Monday
+
+CONTEXT: spokesman for
+NP: Shell-Nigeria
+
+CONTEXT: Elizabeth of
+NP: Russia
+
+CONTEXT: Treaty of
+NP: Dardanelles
+
+CONTEXT: Discovery of
+NP: X-Ray
+
+CONTEXT: independence from
+NP: United States
+
+CONTEXT: government of
+NP: Peru
+
+CONTEXT: Benedictos of
+NP: Jerusalem
+
+CONTEXT: spacecraft toward
+NP: Venus
+
+CONTEXT: oil into
+NP: Gulf
+
+CONTEXT: statesman
+NP: Konrad Adenauer
+
+CONTEXT: actor-playwright
+NP: Jean-Pierre Aumont
+
+CONTEXT: president
+NP: Walter Mondale
+
+CONTEXT: actor
+NP: Robert Duvall
+
+CONTEXT: actress
+NP: Diane Keaton
+
+CONTEXT: lady
+NP: Eleanor Roosevelt
+
+CONTEXT: race in
+NP: his white Ford Bronco
+
+CONTEXT: council for
+NP: the City
+
+CONTEXT: commander of
+NP: UN
+
+CONTEXT: helicopter in
+NP: North Korea
+
+CONTEXT: refinery in
+NP: Grozny
+
+CONTEXT: spokesman
+NP: Baudi Tsomayev
+
+CONTEXT: windows across
+NP: Grozny
+
+CONTEXT: standing in
+NP: Freedom Square
+
+CONTEXT: bombing of
+NP: Grozny
+
+CONTEXT: unease in
+NP: Russia
+
+CONTEXT: chief of
+NP: staff Sergei Filatov
+
+CONTEXT: agreement at
+NP: White House
+
+CONTEXT: people in
+NP: Russia's Kuril Islands
+
+CONTEXT: sanctions against
+NP: Serb-led Yugoslavia
+
+CONTEXT: warships to
+NP: the Gulf
+
+CONTEXT: armanda to
+NP: the Gulf
+
+CONTEXT: seals off
+NP: the Gaza Strip
+
+CONTEXT: asylum to
+NP: Haiti's Raoul Cedras
+
+CONTEXT: people
+NP: Algiers
+
+CONTEXT: prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: bullets at
+NP: the White House
+
+CONTEXT: control of
+NP: U.S. Congress
+
+CONTEXT: victories in
+NP: the Pacific
+
+CONTEXT: pressure on
+NP: North Korea
+
+CONTEXT: people in
+NP: Haiti
+
+CONTEXT: Serbs from
+NP: neighboring Croatia shell 2 U.N.
+
+CONTEXT: retaliates for
+NP: repeated Serb
+
+CONTEXT: ablaze in
+NP: northwest Bosnia
+
+CONTEXT: capital of
+NP: Chechnya , Russia
+
+CONTEXT: outskirts of
+NP: Bihac
+
+CONTEXT: House of
+NP: Representatives
+
+CONTEXT: hours after
+NP: Russian President Boris Yeltsin
+
+CONTEXT: leader
+NP: Grand Ayatollah Ali Araki
+
+CONTEXT: leader of
+NP: the world's 100 million Shiite Muslims
+
+CONTEXT: Friday on
+NP: Grozny
+
+CONTEXT: northwest
+NP: Kansas
+
+CONTEXT: spokesman
+NP: Baudi Tsomayev
+
+CONTEXT: windows across
+NP: Grozny
+
+CONTEXT: standing in
+NP: Freedom Square
+
+CONTEXT: unease in
+NP: Russia
+
+CONTEXT: regions of
+NP: the sprawling Russian Federation
+
+CONTEXT: chief of
+NP: staff Sergei Filatov
+
+CONTEXT: he
+NP: Neverthess
+
+CONTEXT: Board of
+NP: Deputies
+
+CONTEXT: explosion outside
+NP: the Israeli Embassy
+
+CONTEXT: installation of
+NP: closed-circuit TV
+
+CONTEXT: group
+NP: Hamas
+
+CONTEXT: militants from
+NP: Hamas
+
+CONTEXT: Prize with
+NP: PLO leader Yasser Arafat
+
+CONTEXT: summit of
+NP: Arab
+
+CONTEXT: activist in
+NP: Gaza City
+
+CONTEXT: Reopening of
+NP: the Tomb
+
+CONTEXT: Muslims in
+NP: February
+
+CONTEXT: People in
+NP: the Gaza Strip
+
+CONTEXT: town of
+NP: Jericho
+
+CONTEXT: shop
+NP: Hasan Sadr
+
+CONTEXT: member of
+NP: Hamas
+
+CONTEXT: faction
+NP: Fatah
+
+CONTEXT: faction in
+NP: the Palestine Liberation Organization
+
+CONTEXT: group
+NP: Betselem
+
+CONTEXT: practice in
+NP: the Central Command
+
+CONTEXT: name for
+NP: the West Bank
+
+CONTEXT: reputation for
+NP: insulting Arabs
+
+CONTEXT: knife near
+NP: Tamimi
+
+CONTEXT: command
+NP: Sunday
+
+CONTEXT: Hezbollah in
+NP: southern Lebanon
+
+CONTEXT: Peres on
+NP: Monday
+
+CONTEXT: territory in
+NP: the Golan Heights
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: peace with
+NP: Israel
+
+CONTEXT: problem with
+NP: the Syrians
+
+CONTEXT: negotiations with
+NP: Syria
+
+CONTEXT: area of
+NP: Jericho
+
+CONTEXT: billion to
+NP: the PLO
+
+CONTEXT: settlements in
+NP: the Gaza Strip
+
+CONTEXT: Hussein of
+NP: Jordan
+
+CONTEXT: university president
+NP: David Martin
+
+CONTEXT: Secretary of
+NP: State Christopher
+
+CONTEXT: meeting of
+NP: Israeli
+
+CONTEXT: figures in
+NP: Casablanca , Morocco
+
+CONTEXT: force
+NP: Peres
+
+CONTEXT: aid to
+NP: Israel
+
+CONTEXT: chairman of
+NP: the Senate Foreign Relations Committee
+
+CONTEXT: facilities after
+NP: Israel
+
+CONTEXT: luxuries in
+NP: the United States
+
+CONTEXT: Peres on
+NP: Monday
+
+CONTEXT: territory in
+NP: the Golan Heights
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: peace with
+NP: Israel
+
+CONTEXT: problem with
+NP: the Syrians
+
+CONTEXT: negotiations with
+NP: Syria
+
+CONTEXT: area of
+NP: Jericho
+
+CONTEXT: billion to
+NP: the PLO
+
+CONTEXT: settlements in
+NP: the Gaza Strip
+
+CONTEXT: Hussein of
+NP: Jordan
+
+CONTEXT: Secretary of
+NP: State Christopher
+
+CONTEXT: meeting of
+NP: Israeli
+
+CONTEXT: figures in
+NP: Casablanca , Morocco
+
+CONTEXT: force
+NP: Peres
+
+CONTEXT: aid to
+NP: Israel
+
+CONTEXT: chairman of
+NP: the Senate Foreign Relations Committee
+
+CONTEXT: facilities after
+NP: Israel
+
+CONTEXT: luxuries in
+NP: the United States
+
+CONTEXT: People in
+NP: the Gaza Strip
+
+CONTEXT: town of
+NP: Jericho
+
+CONTEXT: head of research
+NP: David Kansas
+
+CONTEXT: shop
+NP: Hasan Sadr
+
+CONTEXT: member of
+NP: Hamas
+
+CONTEXT: faction
+NP: Fatah
+
+CONTEXT: faction in
+NP: the Palestine Liberation Organization
+
+CONTEXT: group
+NP: Betselem
+
+CONTEXT: practice in
+NP: the Central Command
+
+CONTEXT: name for
+NP: the West Bank
+
+CONTEXT: reputation for
+NP: insulting Arabs
+
+CONTEXT: knife near
+NP: Tamimi
+
+CONTEXT: member of
+NP: the terrorist Red Army Faction
+
+CONTEXT: member of
+NP: the left-wing Red Army Faction
+
+CONTEXT: murder of
+NP: U.S. Army Spc
+
+CONTEXT: Pimental of
+NP: New York
+
+CONTEXT: attacks in
+NP: Berlin
+
+CONTEXT: murder of
+NP: Libyan dissident Mustafa Ashek
+
+CONTEXT: charges in
+NP: Lebanon
+
+CONTEXT: butcher
+NP: Chreidi
+
+CONTEXT: spokesman
+NP: Vilius Kavaliauskas
+
+CONTEXT: father
+NP: Georgy Dekanidze
+
+CONTEXT: station
+NP: Litpollinter
+
+CONTEXT: station in
+NP: Lithuania
+
+CONTEXT: head
+NP: Povilas Vaisnys
+
+CONTEXT: head of
+NP: the State Nuclear Safety Inspection Committee
+
+CONTEXT: spokesman
+NP: Vilius Kavaliauskas
+
+CONTEXT: father
+NP: Georgy Dekanidze
+
+CONTEXT: station
+NP: Litpollinter
+
+CONTEXT: station in
+NP: Lithuania
+
+CONTEXT: head
+NP: Povilas Vaisnys
+
+CONTEXT: head of
+NP: the State Nuclear Safety Inspection Committee
+
+CONTEXT: authorities in
+NP: Lithuania
+
+CONTEXT: threats in
+NP: Lithuania
+
+CONTEXT: suspect in
+NP: Sweden
+
+CONTEXT: separation from
+NP: the Palestinians
+
+CONTEXT: head
+NP: Joseph Alpher
+
+CONTEXT: head of
+NP: Tel Aviv University's Jaffee Center
+
+CONTEXT: most of
+NP: the West Bank
+
+CONTEXT: treaty with
+NP: Jordan
+
+CONTEXT: Friday in
+NP: the Gaza Strip
+
+CONTEXT: working in
+NP: Israel
+
+CONTEXT: it for
+NP: Israel
+
+CONTEXT: enemies in
+NP: Lebanon
+
+CONTEXT: editor
+NP: Ephraim Kam
+
+CONTEXT: separation from
+NP: the Palestinians
+
+CONTEXT: head
+NP: Joseph Alpher
+
+CONTEXT: head of
+NP: Tel Aviv University's Jaffee Center
+
+CONTEXT: most of
+NP: the West Bank
+
+CONTEXT: treaty with
+NP: Jordan
+
+CONTEXT: Friday in
+NP: the Gaza Strip
+
+CONTEXT: working in
+NP: Israel
+
+CONTEXT: it for
+NP: Israel
+
+CONTEXT: enemies in
+NP: Lebanon
+
+CONTEXT: editor
+NP: Ephraim Kam
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: chairman
+NP: David Kostoyev
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: IBM chairman
+NP: Yuri Kostoyev
+
+CONTEXT: Authorities on
+NP: Wednesday
+
+CONTEXT: authorities in
+NP: Lithuania
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: chairman
+NP: Isa Kostoyev
+
+CONTEXT: members of
+NP: the State Duma
+
+CONTEXT: elections in
+NP: Russia
+
+CONTEXT: treaty with
+NP: Russia
+
+CONTEXT: businessman
+NP: Andrei Aidzerdzis
+
+CONTEXT: deputy
+NP: Valentin Martemyanov
+
+CONTEXT: chairman
+NP: Isa Kostoyev
+
+CONTEXT: mistreatment of
+NP: Palestinians
+
+CONTEXT: testimonies from
+NP: 9 former Palestinian
+
+CONTEXT: journalist from
+NP: east Jerusalem
+
+CONTEXT: 6 of
+NP: the Palestinians
+
+CONTEXT: author
+NP: Yuval Ginbar
+
+CONTEXT: ourselves
+NP: We
+
+CONTEXT: torture by
+NP: the Shin Bet
+
+CONTEXT: high-population region
+NP: Tokyo
+
+CONTEXT: Japanese capital
+NP: Tokyo
+
+CONTEXT: aerospace company
+NP: Lockheed Corp
+
+CONTEXT: aerospace organization
+NP: Boeing Inc
+
+CONTEXT: Bank of
+NP: Tokyo
+
+CONTEXT: Bank of
+NP: Japan
+
+CONTEXT: bombing in
+NP: Tel Aviv
+
+CONTEXT: site
+NP: Karachi
+
+CONTEXT: region within
+NP: Turkey
+
+CONTEXT: fifty
+NP: World War II
+
+CONTEXT: bridge in
+NP: Seoul
+
+CONTEXT: southwest region
+NP: Arizona City
+
+CONTEXT: former president
+NP: John F. Kennedy
+
+CONTEXT: sites in
+NP: North Korea
+
+CONTEXT: peace treaty with
+NP: Israel
+
+CONTEXT: area of
+NP: northeastern India
+
+CONTEXT: map
+NP: West Bank
+
+CONTEXT: capital
+NP: New York City
+
+CONTEXT: Profile of
+NP: Islamic terrorist group Hamas
+
+CONTEXT: bombing in
+NP: Tel Aviv
+
+CONTEXT: bombing in
+NP: Tel Aviv
+
+CONTEXT: site
+NP: Karachi
+
+CONTEXT: region within
+NP: Turkey
+
+CONTEXT: fifty
+NP: World War II
+
+CONTEXT: living in
+NP: Nimes , France
+
+CONTEXT: intervention in
+NP: the former Yugoslavia
+
+CONTEXT: pictures of
+NP: Walter
+
+CONTEXT: leader
+NP: Junzo Okudaira
+
+CONTEXT: bombing in
+NP: Jerusalem
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: years after
+NP: its Islamic revolution , Iran
+
+CONTEXT: statesmen
+NP: the West
+
+CONTEXT: troops from
+NP: South Korea
+
+CONTEXT: controllers of
+NP: the American Congress
+
+CONTEXT: assets for
+NP: the U.S.
+
+CONTEXT: bombing in
+NP: Jerusalem
+
+CONTEXT: head of Microsoft
+NP: David Johnson
+
+CONTEXT: years after
+NP: its Islamic revolution , Iran
+
+CONTEXT: statesmen
+NP: the West
+
+CONTEXT: area near
+NP: South Korea
+
+CONTEXT: merger of
+NP: Morgan Stanley
+
+CONTEXT: controllers of
+NP: the American Congress
+
+CONTEXT: assets for
+NP: the U.S.
+
+CONTEXT: Dialogue with
+NP: the FIS
+
+CONTEXT: meeting between
+NP: the FIS
+
+CONTEXT: treaty with
+NP: Israel
+
+CONTEXT: war in
+NP: Algeria
+
+CONTEXT: bombing of
+NP: company headquarters
+
+CONTEXT: the president
+NP: Mary Smith
+
+CONTEXT: merger of
+NP: IBM Corp.
+
+CONTEXT: heroes of
+NP: Chechnya
+
+CONTEXT: president
+NP: so far
+
+CONTEXT: security of
+NP: the White House
+
+CONTEXT: Bank of
+NP: America
+
+CONTEXT: information analyst
+NP: Morgan Stanley
+
+CONTEXT: accounting analyst
+NP: IBM Corp
+
+CONTEXT: headquarters for
+NP: Apple Corp
+
+CONTEXT: region around
+NP: Tokyo
+
+CONTEXT: Premier Bank
+NP: New York Commodities
+
+CONTEXT: software company
+NP: Adobe Ltd
+
+CONTEXT: CEO
+NP: John Johnson
+
+CONTEXT: CEO
+NP: Bank president Vera Smith
+
+CONTEXT: software company
+NP: Deltagraph Ltd
+
+CONTEXT: club president
+NP: Mary Johnson
+
+CONTEXT: friendly neighbor
+NP: David Smith
+
+CONTEXT: City University of New York president
+NP: Felgengauer
+
+CONTEXT: union president
+NP: Alexander Fesenko
+
+CONTEXT: shares of
+NP: Salt Lake City Industries
+
+CONTEXT: air force reserves
+NP: Tokyo Air Platoon
+
+CONTEXT: capital assets of
+NP: Lockheed Martin
+
+CONTEXT: the president
+NP: Mary Smith
+
+CONTEXT: software company
+NP: Microsoft Corp
+
+CONTEXT: northwest region
+NP: Portland City
+
+CONTEXT: acquisition of
+NP: Felgengauer Industries Corp
+
+CONTEXT: merger with
+NP: IBM Corp
+
+CONTEXT: coach David Smith of
+NP: Kansas City Royals
+
+CONTEXT: school president
+NP: John Johnson
+
+CONTEXT: capital of
+NP: Jefferson City
+
+CONTEXT: Bank of
+NP: Kansas City
+
+CONTEXT: computer firm
+NP: Tetronix Corp
+
+CONTEXT: Bank president
+NP: David Jones
+
+CONTEXT: peace treaty with
+NP: Israel

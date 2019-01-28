@@ -1,0 +1,159 @@
+SEED DECISION LIST
+
+SPELLING Contains(Lockheed) -> ORGANIZATION (prob=-1.000 ; freq=-1)
+SPELLING Contains(Corp) -> ORGANIZATION (prob=-1.000 ; freq=-1)
+SPELLING Contains(Smith) -> PERSON (prob=-1.000 ; freq=-1)
+SPELLING Contains(Yuri) -> PERSON (prob=-1.000 ; freq=-1)
+SPELLING Contains(David) -> PERSON (prob=-1.000 ; freq=-1)
+SPELLING Contains(China) -> LOCATION (prob=-1.000 ; freq=-1)
+SPELLING Contains(Russia) -> LOCATION (prob=-1.000 ; freq=-1)
+
+ITERATION #1: NEW CONTEXT RULES
+
+CONTEXT Contains(chairman) -> PERSON (prob=1.000 ; freq=20)
+CONTEXT Contains(merger) -> ORGANIZATION (prob=1.000 ; freq=18)
+CONTEXT Contains(acquisition) -> ORGANIZATION (prob=1.000 ; freq=14)
+CONTEXT Contains(government) -> LOCATION (prob=1.000 ; freq=14)
+CONTEXT Contains(elections) -> LOCATION (prob=1.000 ; freq=8)
+CONTEXT Contains(vice) -> PERSON (prob=1.000 ; freq=7)
+
+ITERATION #1: NEW SPELLING RULES
+
+SPELLING Contains(Inc) -> ORGANIZATION (prob=1.000 ; freq=14)
+SPELLING Contains(Morgan) -> ORGANIZATION (prob=1.000 ; freq=12)
+SPELLING Contains(Kostoyev) -> PERSON (prob=1.000 ; freq=8)
+SPELLING Contains(R.) -> PERSON (prob=1.000 ; freq=8)
+SPELLING Contains(Chechnya) -> LOCATION (prob=1.000 ; freq=6)
+
+ITERATION #2: NEW CONTEXT RULES
+
+CONTEXT Contains(subsidiary) -> ORGANIZATION (prob=1.000 ; freq=18)
+CONTEXT Contains(shares) -> ORGANIZATION (prob=1.000 ; freq=12)
+CONTEXT Contains(troops) -> LOCATION (prob=1.000 ; freq=10)
+CONTEXT Contains(treaty) -> LOCATION (prob=1.000 ; freq=8)
+CONTEXT Contains(club) -> PERSON (prob=1.000 ; freq=6)
+CONTEXT Contains(president) -> PERSON (prob=0.931 ; freq=29)
+
+ITERATION #2: NEW SPELLING RULES
+
+SPELLING Contains(Stanley) -> ORGANIZATION (prob=1.000 ; freq=14)
+SPELLING Contains(Israel) -> LOCATION (prob=1.000 ; freq=11)
+SPELLING Contains(Fesenko) -> PERSON (prob=1.000 ; freq=10)
+SPELLING Contains(Group) -> ORGANIZATION (prob=1.000 ; freq=10)
+SPELLING Contains(Booker) -> PERSON (prob=1.000 ; freq=8)
+
+ITERATION #3: NEW CONTEXT RULES
+
+CONTEXT Contains(stake) -> ORGANIZATION (prob=1.000 ; freq=12)
+CONTEXT Contains(one) -> ORGANIZATION (prob=1.000 ; freq=8)
+CONTEXT Contains(on) -> LOCATION (prob=1.000 ; freq=7)
+CONTEXT Contains(peace) -> LOCATION (prob=1.000 ; freq=6)
+
+ITERATION #3: NEW SPELLING RULES
+
+SPELLING Contains(Monday) -> LOCATION (prob=1.000 ; freq=11)
+SPELLING Contains(Attwoods) -> ORGANIZATION (prob=1.000 ; freq=10)
+SPELLING Contains(Finance) -> ORGANIZATION (prob=1.000 ; freq=8)
+SPELLING Contains(Grozny) -> LOCATION (prob=1.000 ; freq=8)
+SPELLING Contains(Wayne) -> PERSON (prob=1.000 ; freq=8)
+SPELLING Contains(John) -> PERSON (prob=1.000 ; freq=7)
+
+FINAL DECISION LIST
+
+SPELLING Contains(Lockheed) -> ORGANIZATION (prob=-1.000 ; freq=-1)
+SPELLING Contains(Corp) -> ORGANIZATION (prob=-1.000 ; freq=-1)
+SPELLING Contains(Smith) -> PERSON (prob=-1.000 ; freq=-1)
+SPELLING Contains(Yuri) -> PERSON (prob=-1.000 ; freq=-1)
+SPELLING Contains(David) -> PERSON (prob=-1.000 ; freq=-1)
+SPELLING Contains(China) -> LOCATION (prob=-1.000 ; freq=-1)
+SPELLING Contains(Russia) -> LOCATION (prob=-1.000 ; freq=-1)
+SPELLING Contains(Inc) -> ORGANIZATION (prob=1.000 ; freq=14)
+SPELLING Contains(Morgan) -> ORGANIZATION (prob=1.000 ; freq=12)
+SPELLING Contains(Kostoyev) -> PERSON (prob=1.000 ; freq=8)
+SPELLING Contains(R.) -> PERSON (prob=1.000 ; freq=8)
+SPELLING Contains(Chechnya) -> LOCATION (prob=1.000 ; freq=6)
+SPELLING Contains(Stanley) -> ORGANIZATION (prob=1.000 ; freq=14)
+SPELLING Contains(Israel) -> LOCATION (prob=1.000 ; freq=11)
+SPELLING Contains(Fesenko) -> PERSON (prob=1.000 ; freq=10)
+SPELLING Contains(Group) -> ORGANIZATION (prob=1.000 ; freq=10)
+SPELLING Contains(Booker) -> PERSON (prob=1.000 ; freq=8)
+SPELLING Contains(Monday) -> LOCATION (prob=1.000 ; freq=11)
+SPELLING Contains(Attwoods) -> ORGANIZATION (prob=1.000 ; freq=10)
+SPELLING Contains(Finance) -> ORGANIZATION (prob=1.000 ; freq=8)
+SPELLING Contains(Grozny) -> LOCATION (prob=1.000 ; freq=8)
+SPELLING Contains(Wayne) -> PERSON (prob=1.000 ; freq=8)
+SPELLING Contains(John) -> PERSON (prob=1.000 ; freq=7)
+CONTEXT Contains(chairman) -> PERSON (prob=1.000 ; freq=20)
+CONTEXT Contains(merger) -> ORGANIZATION (prob=1.000 ; freq=18)
+CONTEXT Contains(acquisition) -> ORGANIZATION (prob=1.000 ; freq=14)
+CONTEXT Contains(government) -> LOCATION (prob=1.000 ; freq=14)
+CONTEXT Contains(elections) -> LOCATION (prob=1.000 ; freq=8)
+CONTEXT Contains(vice) -> PERSON (prob=1.000 ; freq=7)
+CONTEXT Contains(subsidiary) -> ORGANIZATION (prob=1.000 ; freq=18)
+CONTEXT Contains(shares) -> ORGANIZATION (prob=1.000 ; freq=12)
+CONTEXT Contains(troops) -> LOCATION (prob=1.000 ; freq=10)
+CONTEXT Contains(treaty) -> LOCATION (prob=1.000 ; freq=8)
+CONTEXT Contains(club) -> PERSON (prob=1.000 ; freq=6)
+CONTEXT Contains(president) -> PERSON (prob=0.931 ; freq=29)
+CONTEXT Contains(stake) -> ORGANIZATION (prob=1.000 ; freq=12)
+CONTEXT Contains(one) -> ORGANIZATION (prob=1.000 ; freq=8)
+CONTEXT Contains(on) -> LOCATION (prob=1.000 ; freq=7)
+CONTEXT Contains(peace) -> LOCATION (prob=1.000 ; freq=6)
+
+APPLYING FINAL DECISION LIST TO TEST INSTANCES
+
+CONTEXT: division of 
+NP: Gleason Inc 
+CLASS: ORGANIZATION
+
+CONTEXT: country of 
+NP: France 
+CLASS: NONE
+
+CONTEXT: documentary on 
+NP: Morgan Stanley 
+CLASS: ORGANIZATION
+
+CONTEXT: basketball player 
+NP: Devin Booker 
+CLASS: PERSON
+
+CONTEXT: acquisition of 
+NP: McDonnell Douglas Helicopter company 
+CLASS: ORGANIZATION
+
+CONTEXT: branch of 
+NP: Lockheed Martin 
+CLASS: ORGANIZATION
+
+CONTEXT: software manufacturer 
+NP: IBM 
+CLASS: NONE
+
+CONTEXT: peace negotiator 
+NP: Yuri Fesenko 
+CLASS: PERSON
+
+CONTEXT: merger with 
+NP: IBM 
+CLASS: ORGANIZATION
+
+CONTEXT: veterinary assistant 
+NP: Susan Stanley 
+CLASS: ORGANIZATION
+
+CONTEXT: chairman 
+NP: Walter Douglas 
+CLASS: PERSON
+
+CONTEXT: president 
+NP: William Johnson 
+CLASS: PERSON
+
+CONTEXT: stake president 
+NP: Vera Durbin 
+CLASS: PERSON
+
+CONTEXT: new acquisition 
+NP: Kansas Textiles Corporation 
+CLASS: ORGANIZATION

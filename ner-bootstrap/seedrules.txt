@@ -1,0 +1,7 @@
+SPELLING Contains(Lockheed) -> ORGANIZATION
+SPELLING Contains(Corp) -> ORGANIZATION
+SPELLING Contains(Smith) -> PERSON
+SPELLING Contains(Yuri) -> PERSON
+SPELLING Contains(David) -> PERSON
+SPELLING Contains(China) -> LOCATION
+SPELLING Contains(Russia) -> LOCATION
